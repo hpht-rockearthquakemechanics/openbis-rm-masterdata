@@ -1,0 +1,1 @@
+This is the repository of metadata models for rock mechanics to be implemented in Openbis.
