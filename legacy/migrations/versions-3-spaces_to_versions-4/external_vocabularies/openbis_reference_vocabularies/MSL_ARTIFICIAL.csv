@@ -1,0 +1,94 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_ARTIFICIAL,https://epos-msl.uu.nl/voc/materials/1.4/,
+Code,Description,Label
+MSL_ARTIFICIAL1,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-agar_gelatin,agar gelatin
+MSL_ARTIFICIAL2,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-ha_gellan_gelatin,HA gellan gelatin
+MSL_ARTIFICIAL3,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-i-carrageenan_gelatin,i-carrageenan gelatin
+MSL_ARTIFICIAL4,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-k-carrageenan_gelatin,K-carrageenan gelatin
+MSL_ARTIFICIAL5,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-la_gellan_gelatin,LA gellan gelatin
+MSL_ARTIFICIAL6,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-pectine_gelatin,pectine gelatin
+MSL_ARTIFICIAL7,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-pig_skin_gelatin,pig skin gelatin
+MSL_ARTIFICIAL8,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-gelatin-xantan_gelatin,Xantan gelatin
+MSL_ARTIFICIAL9,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-natural_rubber-latex_rubber,latex rubber
+MSL_ARTIFICIAL10,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-natural_rubber-nitrile_rubber,nitrile rubber
+MSL_ARTIFICIAL11,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-natural_elastic_material-natural_rubber-rubber_foam,rubber foam
+MSL_ARTIFICIAL12,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-ethel_vinyl_acetate_rubber,ethel vinyl acetate rubber
+MSL_ARTIFICIAL13,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-ethylene-vinyl_acetate_foam,ethylene-vinyl acetate foam
+MSL_ARTIFICIAL14,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-neoprene_foam,neoprene foam
+MSL_ARTIFICIAL15,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polyethylene_ldpe_foam,polyethylene (LDPE) foam
+MSL_ARTIFICIAL16,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polyimide_foam,polyimide foam
+MSL_ARTIFICIAL17,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polypropylene_foam,polypropylene foam
+MSL_ARTIFICIAL18,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polystyrene_foam,polystyrene foam
+MSL_ARTIFICIAL19,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polyurethane_pu_foam,polyurethane (PU) foam
+MSL_ARTIFICIAL20,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-polyvinyl_chloride_pvc_foam,polyvinyl chloride (PVC) foam
+MSL_ARTIFICIAL21,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-elastic_modelling_material-synthetic_elastic_material-silicone_foam,silicone foam
+MSL_ARTIFICIAL22,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-aluminium_powder,aluminium powder
+MSL_ARTIFICIAL23,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-bismuth_powder,bismuth powder
+MSL_ARTIFICIAL24,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-bronze_powder,bronze powder
+MSL_ARTIFICIAL25,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-cadmium_powder,cadmium powder
+MSL_ARTIFICIAL26,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-copper_powder,copper powder
+MSL_ARTIFICIAL27,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-iron_powder,iron powder
+MSL_ARTIFICIAL28,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-lead_tetroxide_powder,lead tetroxide powder
+MSL_ARTIFICIAL29,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-magnesium_powder,magnesium powder
+MSL_ARTIFICIAL30,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-metalic_powders-nickel_powder,nickel powder
+MSL_ARTIFICIAL31,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-anthracite,anthracite
+MSL_ARTIFICIAL32,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-barium_sulphate,barium sulphate
+MSL_ARTIFICIAL33,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-calcium_carbonate,calcium carbonate
+MSL_ARTIFICIAL34,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-carbonate_sand,carbonate sand
+MSL_ARTIFICIAL35,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-cement_plaster,cement plaster
+MSL_ARTIFICIAL36,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-corundum_sand,corundum sand
+MSL_ARTIFICIAL37,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-feldspar_sand_analogue_modelling,feldspar sand (analogue modelling)
+MSL_ARTIFICIAL38,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-graphite_analogue_modelling,graphite (analogue modelling)
+MSL_ARTIFICIAL39,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-ignimbrite,ignimbrite
+MSL_ARTIFICIAL40,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-magnesium_carbonate,magnesium carbonate
+MSL_ARTIFICIAL41,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-peridot_sand,peridot sand
+MSL_ARTIFICIAL42,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-pumice-navajo_pumice,Navajo pumice
+MSL_ARTIFICIAL43,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-quartz_powder,quartz powder
+MSL_ARTIFICIAL44,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-quartz_sand_analogue_modelling-fontainebleau_sand_analogue_modelling,Fontainebleau sand (analogue modelling)
+MSL_ARTIFICIAL45,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-quartz_sand_analogue_modelling-heksenberg_sand_analogue_modelling,Heksenberg sand (analogue modelling)
+MSL_ARTIFICIAL46,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-quartz_sand_analogue_modelling-ottowa_sand_analogue_modelling,Ottowa sand (analogue modelling)
+MSL_ARTIFICIAL47,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-quartz_sand_analogue_modelling-st_peter_sand_analogue_modelling,St. Peter sand (analogue modelling)
+MSL_ARTIFICIAL48,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-talcum,talcum
+MSL_ARTIFICIAL49,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-natural_granular_material-zircon_sand,zircon sand
+MSL_ARTIFICIAL50,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-organic_granular_material-cereal_flour,cereal flour
+MSL_ARTIFICIAL51,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-organic_granular_material-rice_flour,rice flour
+MSL_ARTIFICIAL52,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-organic_granular_material-sugar_powder,sugar powder
+MSL_ARTIFICIAL53,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-organic_granular_material-wheat_flour,wheat flour
+MSL_ARTIFICIAL54,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-carbopol,carbopol
+MSL_ARTIFICIAL55,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-glass_microspheres,glass microspheres
+MSL_ARTIFICIAL56,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-natrosol,natrosol
+MSL_ARTIFICIAL57,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-polycrystalline_calcium_titanate_catio3,polycrystalline calcium titanate CaTiO3
+MSL_ARTIFICIAL58,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-silicate_cenosphere-fillite_cenosphere,Fillite cenosphere
+MSL_ARTIFICIAL59,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-granular_modelling_material-synthetic_granular_material-silicious_microspheres,silicious microspheres
+MSL_ARTIFICIAL60,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-natural_plastic_material-clay_analogue_modelling,clay (analogue modelling)
+MSL_ARTIFICIAL61,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-organic_plastic_material-butter-milk_butter,milk butter
+MSL_ARTIFICIAL62,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-organic_plastic_material-butter-peanut_butter,peanut butter
+MSL_ARTIFICIAL63,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-organic_plastic_material-hydrated_paste-miso,miso
+MSL_ARTIFICIAL64,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-synthetic_plastic_material-plasticine,plasticine
+MSL_ARTIFICIAL65,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-synthetic_plastic_material-plastiline,plastiline
+MSL_ARTIFICIAL66,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-synthetic_plastic_material-pvc_rods,PVC rods
+MSL_ARTIFICIAL67,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-plastic_modelling_material-synthetic_plastic_material-toothpaste,toothpaste
+MSL_ARTIFICIAL68,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-natural_viscous_material-paraffin,paraffin
+MSL_ARTIFICIAL69,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-natural_viscous_material-water_analogue_modelling,water (analogue modelling)
+MSL_ARTIFICIAL70,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-bee_wax,bee wax
+MSL_ARTIFICIAL71,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-chocolate,chocolate
+MSL_ARTIFICIAL72,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-glucose_syrup,glucose syrup
+MSL_ARTIFICIAL73,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-honey,honey
+MSL_ARTIFICIAL74,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-ketchup,ketchup
+MSL_ARTIFICIAL75,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-vegetable_oil,vegetable oil
+MSL_ARTIFICIAL76,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-organic_viscous_material-water_saturated_paste,water saturated paste
+MSL_ARTIFICIAL77,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-glycerine,glycerine
+MSL_ARTIFICIAL78,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-hydrocarbon_oil,hydrocarbon oil
+MSL_ARTIFICIAL79,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-natrosol,natrosol
+MSL_ARTIFICIAL80,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-paraffin,paraffin
+MSL_ARTIFICIAL81,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-polytungstate,polytungstate
+MSL_ARTIFICIAL82,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-silicone,silicone
+MSL_ARTIFICIAL83,https://epos-msl.uu.nl/voc/materials/1.4/analogue_modelling_material-viscous_modelling_material-synthetic_viscous_material-silicone_oil,silicone oil
+MSL_ARTIFICIAL84,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-3d_printed-multi-phase_printed_composite,multi-phase printed composite
+MSL_ARTIFICIAL85,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-3d_printed-printed_plastic,printed plastic
+MSL_ARTIFICIAL86,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-3d_printed-printed_rock,printed rock
+MSL_ARTIFICIAL87,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-casing_cement,casing cement
+MSL_ARTIFICIAL88,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-concrete_construction,concrete (construction)
+MSL_ARTIFICIAL89,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-construction_cement,construction cement
+MSL_ARTIFICIAL90,https://epos-msl.uu.nl/voc/materials/1.4/synthesized_material-fabricated_glass,fabricated glass

@@ -1,0 +1,26 @@
+﻿Code;Vecchio_Contenuto_Descrizione;Label;Dizionario_Sorgente
+PHQ8;Measure of sustained displacement: the first integral with respect to time of displacement;Absement;PHYSICALQUANTITIES
+PHQ15;Mass per unit area;Area density;PHYSICALQUANTITIES
+PHQ18;Inertial force that appears to act on all objects when viewed in a rotating frame of reference;Centrifugal force;PHYSICALQUANTITIES
+PHQ20;Change of jounce per unit time: the fifth time derivative of position;Crackle;PHYSICALQUANTITIES
+PHQ21;Electric current per unit cross-section area;Current density;PHYSICALQUANTITIES
+PHQ29;Measure for how easily current flows through a material;Electrical conductance;PHYSICALQUANTITIES
+PHQ30;Measure of a material's ability to conduct an electric current;Electrical conductivity;PHYSICALQUANTITIES
+PHQ32;Electric potential per unit electric current;Electrical resistance;PHYSICALQUANTITIES
+PHQ33;Bulk property equivalent of electrical resistance;Electrical resistivity;PHYSICALQUANTITIES
+PHQ45;Transferred momentum;Impulse;PHYSICALQUANTITIES
+PHQ48;Power per unit cross sectional area;Intensity;PHYSICALQUANTITIES
+PHQ49;Change of acceleration per unit time: the third time derivative of position;Jerk;PHYSICALQUANTITIES
+PHQ50;Change of jerk per unit time: the fourth time derivative of position;Jounce (or snap);PHYSICALQUANTITIES
+PHQ52;Perceived power of a light source;Luminous flux (or luminous power);PHYSICALQUANTITIES
+PHQ53;Ratio of flow velocity to the local speed of sound;Mach number (or mach);PHYSICALQUANTITIES
+PHQ59;Mass per unit volume;(Mass) Density (or volume density);PHYSICALQUANTITIES
+PHQ61;Amount of substance per unit volume;Molar concentration;PHYSICALQUANTITIES
+PHQ67;"Measure of the effective curvature of a lens or curved mirror; inverse of focal length";Optical power;PHYSICALQUANTITIES
+PHQ73;Rate of change of crackle per unit time: the sixth time derivative of position;Pop;PHYSICALQUANTITIES
+PHQ74;Number of particles decaying per unit time;(Radioactive) Activity;PHYSICALQUANTITIES
+PHQ75;Ionizing radiation energy absorbed by biological tissue per unit mass;(Radioactive) Dose;PHYSICALQUANTITIES
+PHQ78;Rate of a chemical reaction for unit time;Reaction rate;PHYSICALQUANTITIES
+PHQ97;Rate of change of volume with respect to time;Volumetric flow rate;PHYSICALQUANTITIES
+PHQ100;Repetency or spatial frequency vector: the number of cycles per unit distance;Wavevector;PHYSICALQUANTITIES
+PHQ103;Ratio of stress to strain;Young's modulus;PHYSICALQUANTITIES

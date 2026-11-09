@@ -1,0 +1,119 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_MICROSTRUCTURE,https://epos-msl.uu.nl/voc/microscopy/1.4/,
+Code,Description,Label
+MSL_MICROSTRUCTURE1,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-breccia_microstructure,breccia microstructure
+MSL_MICROSTRUCTURE2,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-fault_gouge_microstructure-p-foliation,P-foliation
+MSL_MICROSTRUCTURE3,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-fault_gouge_microstructure-r1_shear,R1 shear
+MSL_MICROSTRUCTURE4,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-fault_gouge_microstructure-riedel_shear_microstructure,Riedel shear microstructure
+MSL_MICROSTRUCTURE5,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-fault_gouge_microstructure-y_shear,Y shear
+MSL_MICROSTRUCTURE6,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-fault_microstructure,fault microstructure
+MSL_MICROSTRUCTURE7,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-intergranular_crack,intergranular crack
+MSL_MICROSTRUCTURE8,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-intergranular_slip,intergranular slip
+MSL_MICROSTRUCTURE9,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-intragranular_crack-intragranular_crack_density,intragranular crack density
+MSL_MICROSTRUCTURE10,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-intragranular_crack-intragranular_crack_distribution,intragranular crack distribution
+MSL_MICROSTRUCTURE11,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-intragranular_crack-intragranular_crack_orientation,intragranular crack orientation
+MSL_MICROSTRUCTURE12,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-joint_microstructure,joint microstructure
+MSL_MICROSTRUCTURE13,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-pseudotachylite_microstructure,pseudotachylite microstructure
+MSL_MICROSTRUCTURE14,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-shear_fracture_microstructure,shear fracture microstructure
+MSL_MICROSTRUCTURE15,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-slickenline,slickenline
+MSL_MICROSTRUCTURE16,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-slickenside,slickenside
+MSL_MICROSTRUCTURE17,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-brittle_microstructure-transgranular_crack,transgranular crack
+MSL_MICROSTRUCTURE18,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-deformation_lamellae-fine_extinction_band_feb_width_sub-5_micron,fine extinction band (FEB) width sub-5 micron
+MSL_MICROSTRUCTURE19,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-deformation_lamellae-short-wavelength_undulatory_extinction,short-wavelength undulatory extinction
+MSL_MICROSTRUCTURE20,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-deformation_twin,deformation twin
+MSL_MICROSTRUCTURE21,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-lattice_dislocation-burgers_vector,Burger's vector
+MSL_MICROSTRUCTURE22,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-lattice_dislocation-dislocation_density,dislocation density
+MSL_MICROSTRUCTURE23,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-lattice_dislocation-glide_plane,glide plane
+MSL_MICROSTRUCTURE24,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-localized_extinction_band_leb,localized extinction band (LEB)
+MSL_MICROSTRUCTURE25,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-stacking_fault,stacking fault
+MSL_MICROSTRUCTURE26,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-subgrains-core_and_mantle_subgrain_structure,core and mantle subgrain structure
+MSL_MICROSTRUCTURE27,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-subgrains-subgrain_boundary_orientations,subgrain boundary orientations
+MSL_MICROSTRUCTURE28,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-subgrains-subgrain_misorientations,subgrain misorientations
+MSL_MICROSTRUCTURE29,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-subgrains-subgrain_size,subgrain size
+MSL_MICROSTRUCTURE30,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-subgrains-subgrain_size_hierarchy,subgrain size hierarchy
+MSL_MICROSTRUCTURE31,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-undulose_extinction,undulose extinction
+MSL_MICROSTRUCTURE32,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-wide_extinction_band_web-intragranular_deformation_band,intragranular deformation band
+MSL_MICROSTRUCTURE33,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-crystal_plastic_microstructure-wide_extinction_band_web-intragranular_kink_band,intragranular kink band
+MSL_MICROSTRUCTURE34,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-cataclastic_band_microstructure,cataclastic band microstructure
+MSL_MICROSTRUCTURE35,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-compaction_band_microstructure,compaction band microstructure
+MSL_MICROSTRUCTURE36,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-dilation_band_microstructure,dilation band microstructure
+MSL_MICROSTRUCTURE37,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-phyllosilicate_deformation_band_microstructure,phyllosilicate deformation band microstructure
+MSL_MICROSTRUCTURE38,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-shear_band_microstructure,shear band microstructure
+MSL_MICROSTRUCTURE39,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformation_band-solution_and_cementation_band_microstructure,solution and cementation band microstructure
+MSL_MICROSTRUCTURE40,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-deformed_porphyroclast,deformed porphyroclast
+MSL_MICROSTRUCTURE41,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-foliation,foliation
+MSL_MICROSTRUCTURE42,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-mantled_porphyroclasts-complex_porphyroclasts,complex porphyroclasts
+MSL_MICROSTRUCTURE43,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-mantled_porphyroclasts-delta_type_porphyroclasts,delta type porphyroclasts
+MSL_MICROSTRUCTURE44,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-mantled_porphyroclasts-phi_type_porphyroclasts,phi type porphyroclasts
+MSL_MICROSTRUCTURE45,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-mantled_porphyroclasts-sigma_type_porphyroclasts,sigma type porphyroclasts
+MSL_MICROSTRUCTURE46,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-mica_fish,mica fish
+MSL_MICROSTRUCTURE47,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-microfold,microfold
+MSL_MICROSTRUCTURE48,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-s-c_foliation,S-C foliation
+MSL_MICROSTRUCTURE49,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-schistosity,schistosity
+MSL_MICROSTRUCTURE50,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-generic_deformation_microstructure-shear_band_foliation,shear band foliation
+MSL_MICROSTRUCTURE51,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-fluid_inclusion_planes,fluid inclusion planes
+MSL_MICROSTRUCTURE52,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-grain_indentation,grain indentation
+MSL_MICROSTRUCTURE53,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-microstylolites,microstylolites
+MSL_MICROSTRUCTURE54,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-overgrowths,overgrowths
+MSL_MICROSTRUCTURE55,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-sealed_fracture,sealed fracture
+MSL_MICROSTRUCTURE56,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-solution_seam,solution seam
+MSL_MICROSTRUCTURE57,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-strain_cap,strain cap
+MSL_MICROSTRUCTURE58,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-strain_or_pressure_shadow,strain or pressure shadow
+MSL_MICROSTRUCTURE59,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-surface_dissolution_and_precipitation_features-growth_features,growth features
+MSL_MICROSTRUCTURE60,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-surface_dissolution_and_precipitation_features-solution_pits_and_ledges,solution pits and ledges
+MSL_MICROSTRUCTURE61,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-deformation_microstructure-pressure_solution_microstructure-vein,vein
+MSL_MICROSTRUCTURE62,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-amoeboid_microstructure,amoeboid microstructure
+MSL_MICROSTRUCTURE63,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-decussate_microstructure,decussate microstructure
+MSL_MICROSTRUCTURE64,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-diamond_grain_microstructure,diamond grain microstructure
+MSL_MICROSTRUCTURE65,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-foam_microstructure,foam microstructure
+MSL_MICROSTRUCTURE66,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_defect-disclination_microstructure,disclination microstructure
+MSL_MICROSTRUCTURE67,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_defect-disconnection_microstructure,disconnection microstructure
+MSL_MICROSTRUCTURE68,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_defect-grain_boundary_dislocations,grain boundary dislocations
+MSL_MICROSTRUCTURE69,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_features-four-grain_junctions,four-grain junctions
+MSL_MICROSTRUCTURE70,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_features-grain_boundary_alignments,grain boundary alignments
+MSL_MICROSTRUCTURE71,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_features-grain_boundary_triple_junctions,grain boundary triple junctions
+MSL_MICROSTRUCTURE72,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_features-grain_boundary_voids_and_openings,grain boundary voids and openings
+MSL_MICROSTRUCTURE73,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-grain_boundary_geometry,grain boundary geometry
+MSL_MICROSTRUCTURE74,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-growth_twins,growth twins
+MSL_MICROSTRUCTURE75,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-interlobate_microstructure,interlobate microstructure
+MSL_MICROSTRUCTURE76,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-recrystallized_grains,recrystallized grains
+MSL_MICROSTRUCTURE77,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_aggregate_microstructure-ribbon_microstructure,ribbon microstructure
+MSL_MICROSTRUCTURE78,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-crystallographic_preferred_orientation_cpo,crystallographic preferred orientation (CPO)
+MSL_MICROSTRUCTURE79,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-grain_size-grain_size_distribution,grain size distribution
+MSL_MICROSTRUCTURE80,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-shape_preferred_orientation_spo,shape preferred orientation (SPO)
+MSL_MICROSTRUCTURE81,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-spatial_distribution_clustering,spatial distribution (clustering)
+MSL_MICROSTRUCTURE82,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-igneous_microstructure-igneous_lamination,igneous lamination
+MSL_MICROSTRUCTURE83,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-igneous_microstructure-igneous_vesicle_lineation,igneous vesicle lineation
+MSL_MICROSTRUCTURE84,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-igneous_microstructure-lava_flow_banding,lava flow banding
+MSL_MICROSTRUCTURE85,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-igneous_microstructure-phenocryst,phenocryst
+MSL_MICROSTRUCTURE86,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-igneous_microstructure-schlieren,Schlieren
+MSL_MICROSTRUCTURE87,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-amphibolite_metamorphic_facies,amphibolite metamorphic facies
+MSL_MICROSTRUCTURE88,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-eclogite_metamorphic_facies,eclogite metamorphic facies
+MSL_MICROSTRUCTURE89,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-epidote_amphibolite_metamorphic_facies,epidote amphibolite metamorphic facies
+MSL_MICROSTRUCTURE90,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-glaucophane_schist_facies,glaucophane schist facies
+MSL_MICROSTRUCTURE91,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-granulite_facies,granulite facies
+MSL_MICROSTRUCTURE92,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-greenschist_metamorphic_facies,greenschist metamorphic facies
+MSL_MICROSTRUCTURE93,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-pyroxene_hornfels_metamorphic_facies,pyroxene hornfels metamorphic facies
+MSL_MICROSTRUCTURE94,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-sanidinite_metamorphic_facies,sanidinite metamorphic facies
+MSL_MICROSTRUCTURE95,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-subgreenschist_metamorphic_facies,subgreenschist metamorphic facies
+MSL_MICROSTRUCTURE96,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_facies-zeolite_metamorphic_facies,zeolite metamorphic facies
+MSL_MICROSTRUCTURE97,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-oxidation_lamellae,oxidation lamellae
+MSL_MICROSTRUCTURE98,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-oxide_exsolution,oxide exsolution
+MSL_MICROSTRUCTURE99,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-porphyroblast-growth_twin,growth twin
+MSL_MICROSTRUCTURE100,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-porphyroblast-inclusion_trail,inclusion trail
+MSL_MICROSTRUCTURE101,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-porphyroblast-porphyroblast_zoning,porphyroblast zoning
+MSL_MICROSTRUCTURE102,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-porphyroblast-truncation_surface,truncation surface
+MSL_MICROSTRUCTURE103,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-porphyroclast,porphyroclast
+MSL_MICROSTRUCTURE104,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-reaction_rim,reaction rim
+MSL_MICROSTRUCTURE105,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-spinodal_decomposition,spinodal decomposition
+MSL_MICROSTRUCTURE106,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-symplectite_and_exsolution,symplectite and exsolution
+MSL_MICROSTRUCTURE107,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-pore_structure_and_distribution-pore_shape,pore shape
+MSL_MICROSTRUCTURE108,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-pore_structure_and_distribution-pore_size,pore size
+MSL_MICROSTRUCTURE109,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-pore_structure_and_distribution-pore_size_distribution,pore size distribution
+MSL_MICROSTRUCTURE110,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-ballen_structure,ballen structure
+MSL_MICROSTRUCTURE111,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-diaplectic_glass,diaplectic glass
+MSL_MICROSTRUCTURE112,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-feather_structure,feather structure
+MSL_MICROSTRUCTURE113,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-mosaicism,mosaicism
+MSL_MICROSTRUCTURE114,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-planar_deformation_feature_pdf-pdf_orientation,PDF orientation
+MSL_MICROSTRUCTURE115,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-shock_microstructure-shock_microfracture,shock microfracture

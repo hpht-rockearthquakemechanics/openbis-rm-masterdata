@@ -1,0 +1,24 @@
+﻿Code;Vecchio_Contenuto_Descrizione;Label;Dizionario_Sorgente
+UNI31;acceleration;metre per second squared;UNITS
+UNI32;jerk, jolt;metre per second cubed;UNITS
+UNI33;snap, jounce;metre per second to the fourth;UNITS
+UNI35;angular acceleration;radian per second squared;UNITS
+UNI36;frequency drift;hertz per second;UNITS
+UNI40;momentum, impulse;newton-second;UNITS
+UNI42;torque, moment of force;newton-metre;UNITS
+UNI43;yank;newton per second;UNITS
+UNI48;action;joule-second;UNITS
+UNI54;dynamic viscosity;pascal-second;UNITS
+UNI57;radiance;watt per steradian square metre;UNITS
+UNI58;spectral radiance;watt per steradian cubic metre;UNITS
+UNI61;fuel efficiency;metre per cubic metre;UNITS
+UNI63;energy flux density;joule per square metre second;UNITS
+UNI67;specific angular momentum;newton metre second per kilogram;UNITS
+UNI69;spectral intensity;watt per steradian metre;UNITS
+UNI72;molar heat capacity, molar entropy;joule per kelvin mole;UNITS
+UNI95;magnetomotive force;ampere radian;UNITS
+UNI96;magnetic susceptibility;metre per henry;UNITS
+UNI107;rotational speed;revolutions per minute;UNITS
+UNI108;force;kilogram-force;UNITS
+UNI110;rotational acceleration;millisecond per 1000 revolutions per minute;UNITS
+UNI111;rotational displacement;1000 revolutions;UNITS

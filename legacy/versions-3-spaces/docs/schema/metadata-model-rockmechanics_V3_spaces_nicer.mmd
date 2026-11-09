@@ -1,0 +1,375 @@
+---
+config:
+  theme: default
+  layout: elk
+title: Metadata model (3.0)
+---
+erDiagram
+    direction TB
+    SEDIMENT }o--o{ POWDER : isparent
+    CORE }o--o{ POWDER : isparent
+    ROCK }o--o{ POWDER : isparent
+    ARTIFICIAL }o--o{ POWDER : isparent
+    CORE }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    ROCK }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    CORE }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    ROCK }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    CORE }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    ROCK }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    POWDER }o--|| POWDER_PROPORTION : isproperty
+    POWDER_PROPORTION }o--o{ POWDER_MIXTURE : isparent
+    POWDER }o--o{ POWDERED_SAMPLE : isparent
+    POWDER }o--o{ POWDERED_SAMPLE_BLOCK : isparent
+    POWDER }o--o{ POWDERED_SAMPLE_CYLINDER : isparent
+    POWDER }o--o{ POWDERED_SAMPLE_HOLLOWCYLINDER : isparent
+    POWDER_MIXTURE }o--o{ POWDERED_SAMPLE : isparent
+    POWDER_MIXTURE }o--o{ POWDERED_SAMPLE_BLOCK : isparent
+    POWDER_MIXTURE }o--o{ POWDERED_SAMPLE_CYLINDER : isparent
+    POWDER_MIXTURE }o--o{ POWDERED_SAMPLE_HOLLOWCYLINDER : isparent
+    
+    APPARATUS }o--o{ ASSEMBLY : isparent
+    ASSEMBLY }o--o{ COMPONENT : isparent
+    ARTIFICIAL }o--o{ COMPONENT : isparent
+    ROCK }o--o{ COMPONENT : isparent
+    APPARATUS }o--o{ ACTUATOR : isparent
+    APPARATUS }o--o{ SENSOR : isparent
+
+    EQUIPMENT }o--o{ STEP : isparent
+    APPARATUS }o--o{ STEP : isparent
+    ACTUATOR }o--o{ STEP : isparent
+    ASSEMBLY }o--o{ STEP : isparent
+    SENSOR }o--o{ STEP : isparent
+    PERSON }o--o{ STEP : isparent
+    FLUID }o--o{ STEP : isparent
+    SOLID_SAMPLE_BLOCK }o--o{ STEP : isparent
+    SOLID_SAMPLE_CYLINDER }o--o{ STEP : isparent
+    SOLID_SAMPLE_HOLLOWCYLINDER }o--o{ STEP : isparent
+    POWDERED_SAMPLE }o--o{ STEP : isparent
+    POWDERED_SAMPLE_BLOCK }o--o{ STEP : isparent
+    POWDERED_SAMPLE_CYLINDER }o--o{ STEP : isparent
+    POWDERED_SAMPLE_HOLLOWCYLINDER }o--o{ STEP : isparent
+    
+    PERSON }o--o{ POINT_MEASUREMENT : isparent
+
+    STEP }o--o{ POINT_MEASUREMENT : isparent
+    STEP }o--o{ STEP_TRAPZ_TIMELIMITED : isparent
+    STEP }o--o{ STEP_TRAPZ_SLIPLIMITED : isparent
+    STEP }o--o{ STEP_HOLD : isparent
+    STEP }o--o{ STEP_RAMP : isparent
+    STEP }o--o{ STEP_STEPS : isparent
+    STEP }o--o{ STEP_STEPS_TORQUE : isparent
+    STEP }o--o{ STEP_TOUCHPOINT : isparent
+    STEP }o--o{ STEP_CONSTANT : isparent
+    STEP }o--o{ STEP_SINUSOIDAL : isparent
+    STEP }o--o{ STEP_TRIANGLE : isparent
+    STEP }o--o{ STEP_REGYOFFE : isparent
+    STEP }o--o{ STEP_BOXCAR : isparent
+
+    ACTUATOR }o--o{ STEP_TRAPZ_TIMELIMITED : isparent
+    ACTUATOR }o--o{ STEP_TRAPZ_SLIPLIMITED : isparent
+    ACTUATOR }o--o{ STEP_HOLD : isparent
+    ACTUATOR }o--o{ STEP_RAMP : isparent
+    ACTUATOR }o--o{ STEP_STEPS : isparent
+    ACTUATOR }o--o{ STEP_STEPS_TORQUE : isparent
+    ACTUATOR }o--o{ STEP_TOUCHPOINT : isparent
+    ACTUATOR }o--o{ STEP_CONSTANT : isparent
+    ACTUATOR }o--o{ STEP_SINUSOIDAL : isparent
+    ACTUATOR }o--o{ STEP_TRIANGLE : isparent
+    ACTUATOR }o--o{ STEP_REGYOFFE : isparent
+    ACTUATOR }o--o{ STEP_BOXCAR : isparent
+
+    ARTIFICIAL{
+        varchar NAME
+        vocabulary MSL_ARTIFICIAL
+        vocabulary TYPE
+        varchar ORIGIN
+    }
+    FLUID{
+        varchar NAME
+        vocabulary MSL_POREFLUID
+        vocabulary TYPE
+        varchar ORIGIN
+    }
+    CORE{
+        varchar NAME
+        integer EXPEDITION_LEG
+        integer SITE
+        varchar HOLE
+        varchar CORE
+        integer SECTION
+        integer INTERVAL_MIN
+        integer INTERVAL_MAX
+    }
+    SEDIMENT{
+        varchar NAME
+        vocabulary MSL_SEDIMENT
+        varchar ORIGIN
+    }
+    ROCK{
+        varchar NAME
+        vocabulary TYPE
+        vocabulary MSL_ROCK
+        varchar ORIGIN
+    }
+
+
+    SOLID_SAMPLE_BLOCK{
+        real L
+        real W
+        real H
+        varchar NAME
+        varchar ROUGHNESS
+    }
+    SOLID_SAMPLE_HOLLOWCYLINDER{
+        real ID
+        real OD
+        varchar NAME
+        varchar ROUGHNESS
+    }
+    SOLID_SAMPLE_CYLINDER{
+        real OD
+        varchar NAME
+        varchar ROUGHNESS
+    }
+
+    
+    POWDER{
+        varchar NAME
+        integer GRAINSIZE_MIN
+        integer GRAINSIZE_MAX
+    }
+    POWDER_PROPORTION{
+        sample POWDER
+        real PROPORTION
+    }
+    POWDER_MIXTURE{
+        varchar NAME
+    }
+    POWDERED_SAMPLE{
+        varchar NAME
+        real MASS
+        real THICKNESS
+    }
+    POWDERED_SAMPLE_BLOCK{
+        varchar NAME
+        real MASS
+        real THICKNESS
+        real L
+        real W
+    }
+    POWDERED_SAMPLE_HOLLOWCYLINDER{
+        varchar NAME
+        real MASS
+        real THICKNESS
+        real ID
+        real OD
+    }
+    POWDERED_SAMPLE_CYLINDER{
+        varchar NAME
+        real MASS
+        real THICKNESS
+        real OD
+    }
+
+
+    APPARATUS{
+        varchar NAME
+        vocabulary MSL_EQUIPMENT
+        varchar CODE
+        varchar PRODUCER
+        varchar DESCRIPTION
+    }
+    EQUIPMENT{
+        varchar NAME
+        vocabulary MSL_EQUIPMENT
+        varchar CODE
+        varchar PRODUCER
+        varchar DESCRIPTION
+    }
+    ACTUATOR{
+        varchar NAME
+        varchar CODE
+        varchar PRODUCER
+    }
+    ASSEMBLY{
+        varchar NAME
+        vocabulary MSL_EQUIPMENT
+        varchar DESCRIPTION
+    }
+    COMPONENT{
+        varchar NAME
+        vocabulary MSL_EQUIPMENT
+    }
+    SENSOR{
+        varchar NAME
+        vocabulary MSL_EQUIPMENT
+        varchar CODE
+        varchar PRODUCER
+        vocabulary PHYSICAL_QUANTITY
+        vocabulary RANGE_UNIT
+        real RANGE_MIN
+        real RANGE_MAX
+        real ACCURACY
+    }
+
+
+    PERSON{
+        varchar NAME
+        varchar SURNAME
+        varchar INSTITUTION
+        varchar NOWAT
+    }
+
+
+    POINT_MEASUREMENT{
+        varchar NAME
+        vocabulary MSL_MEASUREDPROPERTY
+        real VALUE
+        vocabulary UNIT
+        integer RN
+        timestamp TIMESTAMP
+    }
+
+
+    STEP{
+        varchar NAME
+        real DURATION_VALUE
+        vocabulary DURATION_UNIT
+        integer START_RN
+        timestamp START_TIMESTAMP
+        varchar COMMENT
+    }
+    STEP_TRAPZ_TIMELIMITED{
+        varchar NAME
+        real PLATEAU_VALUE
+        vocabulary PLATEAU_UNIT
+        real RAMPUP_VALUE
+        vocabulary RAMPUP_UNIT
+        real RAMPDOWN_VALUE
+        vocabulary RAMPDOWN_UNIT
+        real TIMELIMIT_VALUE
+        vocabulary TIMELIMIT_UNIT
+        varchar COMMENT
+    }
+    STEP_TRAPZ_SLIPLIMITED{
+        varchar NAME
+        real PLATEAU_VALUE
+        vocabulary PLATEAU_UNIT
+        real RAMPUP_VALUE
+        vocabulary RAMPUP_UNIT
+        real RAMPDOWN_VALUE
+        vocabulary RAMPDOWN_UNIT
+        real SLIPLIMIT_VALUE
+        vocabulary SLIPLIMIT_UNIT
+        varchar COMMENT
+    }
+    STEP_HOLD{
+        varchar NAME
+        real HOLDTIME_VALUE
+        vocabulary HOLDTIME_UNIT
+        varchar COMMENT
+    }
+    STEP_RAMP{
+        varchar NAME
+        real INITIAL_VALUE
+        vocabulary INITIAL_UNIT
+        real FINAL_VALUE
+        vocabulary FINAL_UNIT
+        real SLOPE_VALUE
+        vocabulary SLOPE_UNIT
+        real DURATION_VALUE
+        vocabulary DURATION_UNIT
+        varchar COMMENT
+    }
+    STEP_STEPS{
+        varchar NAME
+        real INITIAL_VALUE
+        vocabulary INITIAL_UNIT
+        real FINAL_VALUE
+        vocabulary FINAL_UNIT
+        integer NSTEPS
+        real WAITTIME_VALUE
+        vocabulary WAITTIME_UNIT
+        varchar COMMENT
+    }
+    STEP_STEPS_TORQUE{
+        varchar NAME
+        real INITIAL_VALUE
+        vocabulary INITIAL_UNIT
+        real FINAL_VALUE
+        vocabulary FINAL_UNIT
+        integer NSTEPS
+        real WAITTIME_VALUE
+        vocabulary WAITTIME_UNIT
+        real VELOCITYLIMIT_VALUE
+        vocabulary VELOCITYLIMIT_UNIT
+        varchar COMMENT
+    }
+    STEP_TOUCHPOINT{
+        varchar NAME
+        real TOUCHPOINT_VALUE
+        vocabulary TOUCHPOINT_UNIT
+        varchar COMMENT
+    }
+    STEP_CONSTANT{
+        varchar NAME
+        real VALUE
+        vocabulary UNIT
+        real DURATION_VALUE
+        vocabulary DURATION_UNIT
+        varchar COMMENT
+    }
+    STEP_SINUSOIDAL{
+        varchar NAME
+        real INITIAL_VALUE
+        vocabulary INITIAL_UNIT
+        real AMPLITUDE_VALUE
+        vocabulary AMPLITUDE_UNIT
+        real PERIOD_VALUE
+        vocabulary PERIOD_UNIT
+        integer CYCLE_NUMBER
+        varchar COMMENT
+    }
+    STEP_TRIANGLE{
+        varchar NAME
+    }
+    STEP_REGYOFFE{
+        varchar NAME
+        real RISE_TIME_VALUE
+        vocabulary RISE_TIME_UNIT
+        real TOTALSLIP_VALUE
+        vocabulary TOTALSLIP_UNIT
+        real SMOOTHINGTIME_VALUE
+        vocabulary SMOOTHINGTIME_UNIT
+        varchar COMMENT
+    }
+    STEP_BOXCAR{
+        varchar NAME
+        real RISE_TIME_VALUE
+        vocabulary RISE_TIME_UNIT
+        real ACCELERATION_VALUE
+        vocabulary ACCELERATION_UNIT
+        real TARGETVELOCITY_VALUE
+        vocabulary TARGETVELOCITY_UNIT
+        varchar COMMENT
+    }
+
+    %% CLASS GROUPS
+    classDef basicmaterials fill:#e5ffe5,stroke:#187,stroke-width:2px
+    classDef solidspecimens fill:#fff3e0,stroke:#ea9600,stroke-width:2px
+    classDef powderedspecimens fill:#e0f7ff,stroke:#2ab7ca,stroke-width:2px
+    classDef instruments fill:#d4d4d4,stroke:#8a8a8a,stroke-width:2px
+    classDef people fill:#ff8585,stroke:#ff0505,stroke-width:2px
+    classDef experimentalsteps fill:#7dffa6,stroke:#00ff50,stroke-width:2px
+    classDef derivedmeasurements fill:#ffe285,stroke:#ffc200,stroke-width:2px
+
+    class ARTIFICIAL,CORE,SEDIMENT,ROCK,FLUID basicmaterials
+    class SOLID_SAMPLE_BLOCK,SOLID_SAMPLE_HOLLOWCYLINDER,SOLID_SAMPLE_CYLINDER solidspecimens
+    class POWDER,POWDER_PROPORTION,POWDER_MIXTURE,POWDERED_SAMPLE,POWDERED_SAMPLE_BLOCK,POWDERED_SAMPLE_CYLINDER,POWDERED_SAMPLE_HOLLOWCYLINDER powderedspecimens
+    class APPARATUS,EQUIPMENT,ACTUATOR,ASSEMBLY,COMPONENT,SENSOR instruments
+    class PERSON people
+    class STEP,STEP_TRAPZ_TIMELIMITED,STEP_TRAPZ_SLIPLIMITED,STEP_HOLD,STEP_RAMP,STEP_STEPS,STEP_STEPS_TORQUE,STEP_TOUCHPOINT,STEP_CONSTANT,STEP_SINUSOIDAL,STEP_TRIANGLE,STEP_REGYOFFE,STEP_BOXCAR experimentalsteps
+    class POINT_MEASUREMENT derivedmeasurements

@@ -1,0 +1,104 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_ANALYSIS,https://epos-msl.uu.nl/voc/geochemistry/1.4/|https://epos-msl.uu.nl/voc/microscopy/1.4/,
+Code,Description,Label
+MSL_ANALYSIS1,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-commodities_analysis-coal_analysis,coal analysis
+MSL_ANALYSIS2,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-commodities_analysis-ore_analysis,ore analysis
+MSL_ANALYSIS3,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-gas_geochemistry,gas geochemistry
+MSL_ANALYSIS4,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-argon-argon_dating,argon-argon dating
+MSL_ANALYSIS5,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-carbon-14_dating,carbon-14 dating
+MSL_ANALYSIS6,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-lead-lead_dating,lead-lead dating
+MSL_ANALYSIS7,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-lutetium-hafnium_dating,lutetium-hafnium dating
+MSL_ANALYSIS8,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-potassium-argon_dating,potassium-argon dating
+MSL_ANALYSIS9,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-radium-thorium_dating,radium-thorium dating
+MSL_ANALYSIS10,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-rhenium-osmium_dating,rhenium-osmium dating
+MSL_ANALYSIS11,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-rubidium-strontium_dating,rubidium-strontium dating
+MSL_ANALYSIS12,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-samarium-neodymium_dating,samarium-neodymium dating
+MSL_ANALYSIS13,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-thorium-lead_dating,thorium-lead dating
+MSL_ANALYSIS14,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-uranium_dating-uranium-lead_dating,uranium-lead dating
+MSL_ANALYSIS15,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-uranium_dating-uranium-paladium_dating,uranium-paladium dating
+MSL_ANALYSIS16,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-uranium_dating-uranium-thorium_dating,uranium-thorium dating
+MSL_ANALYSIS17,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-geochronology-uranium_dating-uranium-thorium-helium_dating,uranium-thorium-helium dating
+MSL_ANALYSIS18,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-hydrogeochemistry,hydrogeochemistry
+MSL_ANALYSIS19,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-delta_11b,delta 11B
+MSL_ANALYSIS20,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-delta_13c,delta 13C
+MSL_ANALYSIS21,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-delta_18o,delta 18O
+MSL_ANALYSIS22,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-delta_34s,delta 34S
+MSL_ANALYSIS23,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-hydrogen_isotopic_analysis,hydrogen isotopic analysis
+MSL_ANALYSIS24,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-lead_isotopic_analysis,lead isotopic analysis
+MSL_ANALYSIS25,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-mercury_isotopic_analysis,mercury isotopic analysis
+MSL_ANALYSIS26,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-neodymium_isotopic_analysis,neodymium isotopic analysis
+MSL_ANALYSIS27,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-nitrogen_isotopic_analysis,nitrogen isotopic analysis
+MSL_ANALYSIS28,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-rubidium_isotopic_analysis,rubidium isotopic analysis
+MSL_ANALYSIS29,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-samarium_isotopic_analysis,samarium isotopic analysis
+MSL_ANALYSIS30,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-isotopic_analysis-strontium_isotopic_analysis,strontium isotopic analysis
+MSL_ANALYSIS31,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-microchemical_analysis-2d_microchemical_map,2D microchemical map
+MSL_ANALYSIS32,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-microchemical_analysis-3d_microchemical_map,3D microchemical map
+MSL_ANALYSIS33,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-microchemical_analysis-major_elements,major elements
+MSL_ANALYSIS34,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-microchemical_analysis-trace_elements,trace elements
+MSL_ANALYSIS35,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-fusion_sample_prepration,fusion sample prepration
+MSL_ANALYSIS36,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-partial_sample_digestion,partial sample digestion
+MSL_ANALYSIS37,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-sample_crushing,sample crushing
+MSL_ANALYSIS38,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-sample_drying,sample drying
+MSL_ANALYSIS39,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-sample_pressed_pellet,sample pressed pellet
+MSL_ANALYSIS40,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-sample_pulverization,sample pulverization
+MSL_ANALYSIS41,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-sample_splitting,sample splitting
+MSL_ANALYSIS42,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-selective_sample_extraction,selective sample extraction
+MSL_ANALYSIS43,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-total_sample_digestion,total sample digestion
+MSL_ANALYSIS44,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-whole_rock_analysis-loss_on_ignition,loss on ignition
+MSL_ANALYSIS45,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-whole_rock_analysis-major_elements,major elements
+MSL_ANALYSIS46,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-whole_rock_analysis-trace_elements,trace elements
+MSL_ANALYSIS47,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-misorientation_analysis,misorientation analysis
+MSL_ANALYSIS48,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-grain_size_and_configuration-spatial_frequency_analysis_sfa,spatial frequency analysis (SFA)
+MSL_ANALYSIS49,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-automated_crystal_orientation_mapping_acom,automated crystal orientation mapping (ACOM)
+MSL_ANALYSIS50,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-convergent_beam_electron_diffraction_cbed,convergent beam electron diffraction (CBED)
+MSL_ANALYSIS51,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-electron_backscatter_diffraction_ebsd,electron backscatter diffraction (EBSD)
+MSL_ANALYSIS52,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-large_area_convergent_beam_electron_diffraction_lacbed,large area convergent beam electron diffraction (LACBED)
+MSL_ANALYSIS53,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-nano_beam_diffraction_nbd,nano beam diffraction (NBD)
+MSL_ANALYSIS54,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-selected_area_electron_diffraction_saed,selected area electron diffraction (SAED)
+MSL_ANALYSIS55,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-electron_diffraction-transmission_kikuchi_diffraction_tkd,transmission Kikuchi diffraction (TKD)
+MSL_ANALYSIS56,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-crystal_structure_analysis-raman_spectrometry_-_crystal_lattice,Raman spectrometry - crystal lattice
+MSL_ANALYSIS57,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-annular_dark_field_adf_imaging,annular dark field (ADF) imaging
+MSL_ANALYSIS58,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-backscatter_electron_bse_imaging,backscatter electron (BSE) imaging
+MSL_ANALYSIS59,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-bright_field_bf_imaging,bright field (BF) imaging
+MSL_ANALYSIS60,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-cathodoluminescence_cl_imaging-panchromatic_cl_image,panchromatic CL image
+MSL_ANALYSIS61,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-cathodoluminescence_cl_imaging-wavelength_filtered_cl_image,wavelength filtered CL image
+MSL_ANALYSIS62,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-dark_field_df_imaging,dark field (DF) imaging
+MSL_ANALYSIS63,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-electron_channeling_contrast_imaging_ecci,electron channeling contrast imaging (ECCI)
+MSL_ANALYSIS64,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-forescatter_electron_fse,forescatter electron (FSE)
+MSL_ANALYSIS65,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-high-angle_annular_dark-field_haadf,high-angle annular dark-field (HAADF)
+MSL_ANALYSIS66,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-radiography,radiography
+MSL_ANALYSIS67,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-radioscopy,radioscopy
+MSL_ANALYSIS68,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_2d-secondary_electron_se_imaging,secondary electron (SE) imaging
+MSL_ANALYSIS69,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-absorption_contrast_tomography,absorption contrast tomography
+MSL_ANALYSIS70,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-cone_beam_ct,cone beam CT
+MSL_ANALYSIS71,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-dark_field_tomography,dark field tomography
+MSL_ANALYSIS72,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-dual_energy_ct,dual energy CT
+MSL_ANALYSIS73,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-fan_beam_ct,fan beam CT
+MSL_ANALYSIS74,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-parallel_beam_ct,parallel beam CT
+MSL_ANALYSIS75,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-phase_contrast_tomography,phase contrast tomography
+MSL_ANALYSIS76,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-region_of_interest_ct,region of interest CT
+MSL_ANALYSIS77,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-spectral_ct,spectral CT
+MSL_ANALYSIS78,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-computed_tomography_ct-x-ray_diffraction,X-ray diffraction
+MSL_ANALYSIS79,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-dual_mode_scan,dual mode scan
+MSL_ANALYSIS80,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-dual_resolution_scan,dual resolution scan
+MSL_ANALYSIS81,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-ghost_imaging,ghost imaging
+MSL_ANALYSIS82,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-holotomography,holotomography
+MSL_ANALYSIS83,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-laminography,laminography
+MSL_ANALYSIS84,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-monochromotic_beam,monochromotic beam
+MSL_ANALYSIS85,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-multi-pass_scan,multi-pass scan
+MSL_ANALYSIS86,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-pink_beam,pink beam
+MSL_ANALYSIS87,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-rheography,rheography
+MSL_ANALYSIS88,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-tomoscopy,tomoscopy
+MSL_ANALYSIS89,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-imaging_3d-white_beam,white beam
+MSL_ANALYSIS90,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_coating-carbon_coating,carbon coating
+MSL_ANALYSIS91,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_coating-gold-platinum_coating,gold-platinum coating
+MSL_ANALYSIS92,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_coating-iridium_coating,iridium coating
+MSL_ANALYSIS93,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_coating-osmium_coating,osmium coating
+MSL_ANALYSIS94,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_coating-platinum-palladium_coating,platinum-palladium coating
+MSL_ANALYSIS95,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_etching,section etching
+MSL_ANALYSIS96,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_polishing-chemical_polishing,chemical polishing
+MSL_ANALYSIS97,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_polishing-ion_polishing-broad_ion_beam_bib_milling,broad ion beam (BIB) milling
+MSL_ANALYSIS98,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_polishing-ion_polishing-focussed_ion_beam_fib_milling,focussed ion beam (FIB) milling
+MSL_ANALYSIS99,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_polishing-mechanical_polishing,mechanical polishing
+MSL_ANALYSIS100,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-section_preperation-section_staining,section staining

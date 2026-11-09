@@ -1,0 +1,20 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_ENVIRONMENTCONTROL,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/,
+Code,Description,Label
+MSL_ENVIRONMENTCONTROL1,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-air_atmosphere,air atmosphere
+MSL_ENVIRONMENTCONTROL2,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-argon_atmosphere,argon atmosphere
+MSL_ENVIRONMENTCONTROL3,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-carbon_dioxide_atmosphere,carbon dioxide atmosphere
+MSL_ENVIRONMENTCONTROL4,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-carbon_monoxide_atmosphere,carbon monoxide atmosphere
+MSL_ENVIRONMENTCONTROL5,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-evacuated_atmosphere_vacuum,evacuated atmosphere (vacuum)
+MSL_ENVIRONMENTCONTROL6,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-helium_atmosphere,helium atmosphere
+MSL_ENVIRONMENTCONTROL7,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-atmosphere_control_system-nitrogen_atmosphere,nitrogen atmosphere
+MSL_ENVIRONMENTCONTROL8,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-helmholtz_coils-magnetic_measurements_active_shielding,Magnetic Measurements active shielding
+MSL_ENVIRONMENTCONTROL9,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-helmholtz_coils-magnetic_measurements_low_field_cage,Magnetic Measurements low field cage
+MSL_ENVIRONMENTCONTROL10,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-shielded_room-lodestar_magnetics_chamber,Lodestar magnetics chamber
+MSL_ENVIRONMENTCONTROL11,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-shielded_room-mu_metal_chamber,Mu metal chamber
+MSL_ENVIRONMENTCONTROL12,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-shielded_room-soft_iron_chamber,soft iron chamber
+MSL_ENVIRONMENTCONTROL13,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-contolled_magnetic_field_area-shielded_room-soudupin_chamber,Soudupin chamber
+MSL_ENVIRONMENTCONTROL14,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-temperature_control-cryostat_paleomagnetism,cryostat (paleomagnetism)
+MSL_ENVIRONMENTCONTROL15,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-temperature_control-oven_paleomagnetism-muffle_furnace,muffle furnace
+MSL_ENVIRONMENTCONTROL16,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/environment_control-temperature_control-oven_paleomagnetism-slow_cooling_oven,slow cooling oven

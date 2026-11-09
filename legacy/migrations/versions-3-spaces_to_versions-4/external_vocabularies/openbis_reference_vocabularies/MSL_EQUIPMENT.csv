@@ -1,0 +1,362 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_EQUIPMENT,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/|https://epos-msl.uu.nl/voc/fieldscale/1.4/|https://epos-msl.uu.nl/voc/geochemistry/1.4/|https://epos-msl.uu.nl/voc/microscopy/1.4/|https://epos-msl.uu.nl/voc/paleomagnetism/1.4/|https://epos-msl.uu.nl/voc/rockphysics/1.4/,
+Code,Description,Label
+MSL_EQUIPMENT1,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_active_source-accelerometer,accelerometer
+MSL_EQUIPMENT2,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_active_source-laser_vibrometer,laser vibrometer
+MSL_EQUIPMENT3,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_active_source-ultrasonic_imaging_equipment,ultrasonic imaging equipment
+MSL_EQUIPMENT4,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_active_source-ultrasound_monitoring_equipment,ultrasound monitoring equipment
+MSL_EQUIPMENT5,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_passive-acoustic_emission_ae_monitoring_equipment_-_continuous,acoustic emission (AE) monitoring equipment - continuous
+MSL_EQUIPMENT6,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-acoustic_measurement_-_passive-acoustic_emission_ae_monitoring_equipment_-_triggered,acoustic emission (AE) monitoring equipment - triggered
+MSL_EQUIPMENT7,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-beam_interferometry-analyser_grating,analyser grating
+MSL_EQUIPMENT8,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-beam_interferometry-phase_grating,phase grating
+MSL_EQUIPMENT9,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-beam_interferometry-source_grating,source grating
+MSL_EQUIPMENT10,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-detector-charge_coupled_device_ccd_detector,charge coupled device (CCD) detector
+MSL_EQUIPMENT11,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-detector-complementary_metal_oxide_semiconductor_cmos_detector,complementary metal oxide semiconductor (CMOS) detector
+MSL_EQUIPMENT12,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-detector-energy_resolving_detector,energy resolving detector
+MSL_EQUIPMENT13,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-detector-flat_panel,flat panel
+MSL_EQUIPMENT14,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-detector-photon_counting_detector,photon counting detector
+MSL_EQUIPMENT15,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-distributed_fiber_sensing-distributed_acoustic_sensing_das_system,distributed acoustic sensing (DAS) system
+MSL_EQUIPMENT16,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-distributed_fiber_sensing-distributed_strain_sensing_dss_system,distributed strain sensing (DSS) system
+MSL_EQUIPMENT17,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-distributed_fiber_sensing-distributed_temperature_sensing_dts_system,distributed temperature sensing (DTS) system
+MSL_EQUIPMENT18,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-distributed_fibre_sensing-distributed_acoustic_sensing_das_system,distributed acoustic sensing (DAS) system
+MSL_EQUIPMENT19,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-distributed_fibre_sensing-distributed_strain_sensing_dss_system,distributed strain sensing (DSS) system
+MSL_EQUIPMENT20,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-distributed_fibre_sensing-distributed_temperature_sensing_dts_system,distributed temperature sensing (DTS) system
+MSL_EQUIPMENT21,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-14_lambda_plate,1/4 lambda plate
+MSL_EQUIPMENT22,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-bertrand_lense,Bertrand lense
+MSL_EQUIPMENT23,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-collimator,collimator
+MSL_EQUIPMENT24,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-cross_polarizer,cross polarizer
+MSL_EQUIPMENT25,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-gypsum_plate,gypsum plate
+MSL_EQUIPMENT26,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-light_condensor,light condensor
+MSL_EQUIPMENT27,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-light_filter,light filter
+MSL_EQUIPMENT28,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-plane_polarizer,plane polarizer
+MSL_EQUIPMENT29,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-hardware_filtering-quartz_plate,quartz plate
+MSL_EQUIPMENT30,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-in-line_fluid_property_measurement-coriolis_meter,Coriolis meter
+MSL_EQUIPMENT31,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-in-line_fluid_property_measurement-flow_meter,flow meter
+MSL_EQUIPMENT32,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-in-line_fluid_property_measurement-in-line_ph_meter,in-line pH meter
+MSL_EQUIPMENT33,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-in-line_fluid_property_measurement-relative_humidity_meter,relative humidity meter
+MSL_EQUIPMENT34,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_fluid_transport-diffusive_flow_velocimetry_dfv_equipment,diffusive flow velocimetry (DFV) equipment
+MSL_EQUIPMENT35,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_fluid_transport-discharge_meter,discharge meter
+MSL_EQUIPMENT36,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_strength_and_stress-force_sensor_gauge,force sensor gauge
+MSL_EQUIPMENT37,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_strength_and_stress-photoelastic_setup,photoelastic setup
+MSL_EQUIPMENT38,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_strength_and_stress-pressure_sensor,pressure sensor
+MSL_EQUIPMENT39,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_temperature-infrared_camera,infrared camera
+MSL_EQUIPMENT40,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_temperature-thermal_conductivity_measuring_system,thermal conductivity measuring system
+MSL_EQUIPMENT41,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_temperature-thermochromic_liquid_crystals,thermochromic liquid crystals
+MSL_EQUIPMENT42,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-measurement_of_temperature-thermometer,thermometer
+MSL_EQUIPMENT43,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_active_source-accelerometer,accelerometer
+MSL_EQUIPMENT44,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_active_source-laser_vibrometer,laser vibrometer
+MSL_EQUIPMENT45,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_active_source-ultrasonic_imaging_equipment,ultrasonic imaging equipment
+MSL_EQUIPMENT46,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_active_source-ultrasound_monitoring_equipment,ultrasound monitoring equipment
+MSL_EQUIPMENT47,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_passive-acoustic_emission_ae_monitoring_equipment_-_continuous,acoustic emission (AE) monitoring equipment - continuous
+MSL_EQUIPMENT48,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-acoustic_measurement_-_passive-acoustic_emission_ae_monitoring_equipment_-_triggered,acoustic emission (AE) monitoring equipment - triggered
+MSL_EQUIPMENT49,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_structure_monitoring_3d-x-ray_computed_tomographic_ct_scanning_of_analogue_models,X-ray computed tomographic (CT) scanning of analogue models
+MSL_EQUIPMENT50,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-camera-high_frame_rate_camera,high frame rate camera
+MSL_EQUIPMENT51,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-camera-video_camera,video camera
+MSL_EQUIPMENT52,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-diffusive_flow_velocimetry,diffusive flow velocimetry
+MSL_EQUIPMENT53,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-digital_image_correlation_dic_equipment-diffusive_flow_velocimetry_dfv_equipment,diffusive flow velocimetry (DFV) equipment
+MSL_EQUIPMENT54,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-digital_image_correlation_dic_equipment-particle_image_velocimetry_piv_equipment,particle image velocimetry (PIV) equipment
+MSL_EQUIPMENT55,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-kinect_microsoft_sensor,Kinect Microsoft sensor
+MSL_EQUIPMENT56,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-laser_doppler_anemometer_lda,laser doppler anemometer (LDA)
+MSL_EQUIPMENT57,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-laser_interferometer,laser interferometer
+MSL_EQUIPMENT58,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-laser_scanner,laser scanner
+MSL_EQUIPMENT59,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-light_detection_and_ranging_lidar,light detection and ranging (LIDAR)
+MSL_EQUIPMENT60,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-photogrammetry,photogrammetry
+MSL_EQUIPMENT61,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-schlieren_deflectometry_set-up,Schlieren deflectometry set-up
+MSL_EQUIPMENT62,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-structured_light_scanner,structured light scanner
+MSL_EQUIPMENT63,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-ultrasonic_doppler,ultrasonic doppler
+MSL_EQUIPMENT64,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/ancillary_equipment-model_surface_monitoring_2d-white_light_scanner,white light scanner
+MSL_EQUIPMENT65,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-camera_imaging_during_testing,camera imaging during testing
+MSL_EQUIPMENT66,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-infrared_camera,infrared camera
+MSL_EQUIPMENT67,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-infrared_spectroscope,infrared spectroscope
+MSL_EQUIPMENT68,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-syn-deformation_imaging-microcantilever,microcantilever
+MSL_EQUIPMENT69,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-syn-deformation_imaging-micropillar,micropillar
+MSL_EQUIPMENT70,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-syn-deformation_imaging-nanoindenter,nanoindenter
+MSL_EQUIPMENT71,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-neutron_imaging_during_testing-neutron_imaging_of_deformation,neutron imaging of deformation
+MSL_EQUIPMENT72,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-neutron_imaging_during_testing-neutron_imaging_of_fluid_transport,neutron imaging of fluid transport
+MSL_EQUIPMENT73,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-syn-deformation_imaging-neutron_transparent_cell,neutron transparent cell
+MSL_EQUIPMENT74,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-photoelastic_setup,photoelastic setup
+MSL_EQUIPMENT75,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-x-ray_imaging_during_testing-x-ray_imaging_of_deformation,X-ray imaging of deformation
+MSL_EQUIPMENT76,https://epos-msl.uu.nl/voc/rockphysics/1.4/ancillary_equipment-syn-deformation_imaging-x-ray_imaging_during_testing-x-ray_imaging_of_fluid_transport,X-ray imaging of fluid transport
+MSL_EQUIPMENT77,https://epos-msl.uu.nl/voc/microscopy/1.4/ancillary_equipment-syn-deformation_imaging-x-ray_transparent_cell,X-ray transparent cell
+MSL_EQUIPMENT78,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-convection_box-convection_box_3d_analysis,convection box 3D analysis
+MSL_EQUIPMENT79,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-convection_box-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT80,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-extension_box_-_orthogonal-3d_analysis_in_extension_box_-_orthogonal,3D analysis in extension box - orthogonal
+MSL_EQUIPMENT81,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-extension_box_-_orthogonal-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT82,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-extension_box_-_rotational-3d_analysis_in_extension_box_-_rotational,3D analysis in extension box - rotational
+MSL_EQUIPMENT83,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-extension_box_-_rotational-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT84,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-fault_simulator,fault simulator
+MSL_EQUIPMENT85,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-shear_box-shear_box_-_pure_shear,shear box - pure shear
+MSL_EQUIPMENT86,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-shear_box-shear_box_-_simple_shear,shear box - simple shear
+MSL_EQUIPMENT87,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-shock_tube,shock tube
+MSL_EQUIPMENT88,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-subduction_box,subduction box
+MSL_EQUIPMENT89,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-wedge_simulator-3d_analysis_in_wedge_simulator,3D analysis in wedge simulator
+MSL_EQUIPMENT90,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-deformation_experiments-wedge_simulator-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT91,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-debris_flow_simulator,debris flow simulator
+MSL_EQUIPMENT92,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-extension_box-3d_analysis_in_extension_box,3D analysis in extension box
+MSL_EQUIPMENT93,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-extension_box-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT94,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-fault_simulator,fault simulator
+MSL_EQUIPMENT95,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-flow_channel,flow channel
+MSL_EQUIPMENT96,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-fog_box,fog box
+MSL_EQUIPMENT97,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-rainfall_system,rainfall system
+MSL_EQUIPMENT98,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-river_system_simulator,river system simulator
+MSL_EQUIPMENT99,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-sediment_feeders,sediment feeders
+MSL_EQUIPMENT100,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-wedge_simulator-3d_analysis_in_wedge_simulator,3D analysis in wedge simulator
+MSL_EQUIPMENT101,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-geomorphic_experiments-wedge_simulator-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT102,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-gravity_driven_process_simulation-gravity_load_device_centrifuge,gravity load device (centrifuge)
+MSL_EQUIPMENT103,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-gravity_driven_process_simulation-gravity_sliding_simulator,gravity sliding simulator
+MSL_EQUIPMENT104,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-granular_flow_simulator,granular flow simulator
+MSL_EQUIPMENT105,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-hydrofracture_simulator,hydrofracture simulator
+MSL_EQUIPMENT106,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-tsunami_simulator-3d_analysis_in_tsunami_simulator,3D analysis in tsunami simulator
+MSL_EQUIPMENT107,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-tsunami_simulator-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT108,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-turbidity_current_simulator-3d_analysis_in_turbidity_current_simulator,3D analysis in turbidity current simulator
+MSL_EQUIPMENT109,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-analogue_modelling-hydrodynamic_experiments-turbidity_current_simulator-quasi-2d_side_profile_analysis,quasi-2D; side profile analysis
+MSL_EQUIPMENT110,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-atomic_force_microscope,atomic force microscope
+MSL_EQUIPMENT111,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-electrical_property_determination-conductivity_cell,conductivity cell
+MSL_EQUIPMENT112,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-electrical_property_determination-contact_resistivity_cell,contact resistivity cell
+MSL_EQUIPMENT113,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-electrical_property_determination-electric_resistivity_meter,electric resistivity meter
+MSL_EQUIPMENT114,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-electrical_property_determination-tensiometer,tensiometer
+MSL_EQUIPMENT115,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-frictional_property_determination-rotary_shear_apparatus,rotary shear apparatus
+MSL_EQUIPMENT116,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-porosity_and_density_determination-densimeter,densimeter
+MSL_EQUIPMENT117,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-porosity_and_density_determination-porosity_meter_archimedes_method,porosity meter: Archimedes method
+MSL_EQUIPMENT118,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-porosity_and_density_determination-porosity_meter_mercury_porosimeter,porosity meter: mercury porosimeter
+MSL_EQUIPMENT119,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-porosity_and_density_determination-pycnometer,pycnometer
+MSL_EQUIPMENT120,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-rheology_testing-rheometer,rheometer
+MSL_EQUIPMENT121,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-rheology_testing-viscometer,viscometer
+MSL_EQUIPMENT122,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-size_and_shape_analysis-laser_granulometer,Laser granulometer
+MSL_EQUIPMENT123,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-size_and_shape_analysis-particle_analyser,particle analyser
+MSL_EQUIPMENT124,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-size_and_shape_analysis-profilometer,profilometer
+MSL_EQUIPMENT125,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-size_and_shape_analysis-roughness_testing_equipment,roughness testing equipment
+MSL_EQUIPMENT126,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-thermal_property_determination-calorimeter,calorimeter
+MSL_EQUIPMENT127,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-thermal_property_determination-differential_thermal_analysis,differential thermal analysis
+MSL_EQUIPMENT128,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-thermal_property_determination-thermal_conductivity_test,thermal conductivity test
+MSL_EQUIPMENT129,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/apparatus-characterization_of_modelling_material-thermal_property_determination-thermal_diffusivity_test,thermal diffusivity test
+MSL_EQUIPMENT130,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-biaxial_compression_apparatus,biaxial compression apparatus
+MSL_EQUIPMENT131,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-brazilian_testing_setup,Brazilian testing setup
+MSL_EQUIPMENT132,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-chevron-notch_test_setup,Chevron-notch test setup
+MSL_EQUIPMENT133,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-confining_pressure_vessel,confining pressure vessel
+MSL_EQUIPMENT134,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-deformation-dia,deformation-DIA
+MSL_EQUIPMENT135,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-diamond_anvil_cell,diamond anvil cell
+MSL_EQUIPMENT136,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-flexural_testing_machine,flexural testing machine
+MSL_EQUIPMENT137,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-load_stamp,load stamp
+MSL_EQUIPMENT138,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-microcantilever,microcantilever
+MSL_EQUIPMENT139,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-micropillar,micropillar
+MSL_EQUIPMENT140,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-multi-anvil,multi-anvil
+MSL_EQUIPMENT141,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-nanoindenter,nanoindenter
+MSL_EQUIPMENT142,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-plate_bearing_test_setup,plate bearing test setup
+MSL_EQUIPMENT143,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-point_load_test_setup,point load test setup
+MSL_EQUIPMENT144,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-split_hopkinson_pressure_bar_-_compression,split Hopkinson pressure bar - compression
+MSL_EQUIPMENT145,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-triaxial_compression_apparatus-conventional_triaxial_apparatus,conventional triaxial apparatus
+MSL_EQUIPMENT146,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-triaxial_compression_apparatus-true_triaxial_apparatus,true triaxial apparatus
+MSL_EQUIPMENT147,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-uniaxial_compression_apparatus-uniaxial_oedometer_apparatus,uniaxial (oedometer) apparatus
+MSL_EQUIPMENT148,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-uniaxial_compression_apparatus-uniaxial_unconfined_apparatus_-_compression,uniaxial (unconfined) apparatus - compression
+MSL_EQUIPMENT149,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-compression_testing-vickers_hardness_test_setup,Vickers hardness test setup
+MSL_EQUIPMENT150,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-conventional_triaxial_apparatus_-_extension,conventional triaxial apparatus - extension
+MSL_EQUIPMENT151,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-dilatometer,dilatometer
+MSL_EQUIPMENT152,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-direct_tension_apparatus,direct tension apparatus
+MSL_EQUIPMENT153,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-pull_test_apparatus,pull test apparatus
+MSL_EQUIPMENT154,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-split_hopkinson_pressure_bar_-_extension,split Hopkinson pressure bar - extension
+MSL_EQUIPMENT155,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-extension_testing-uniaxial_unconfined_apparatus_-_extension,uniaxial (unconfined) apparatus - extension
+MSL_EQUIPMENT156,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-shear_testing-biaxial_apparatus_direct_shear,biaxial apparatus: direct shear
+MSL_EQUIPMENT157,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-shear_testing-conventional_triaxial_apparatus_direct_shear,conventional triaxial apparatus: direct shear
+MSL_EQUIPMENT158,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-shear_testing-conventional_triaxial_apparatus_saw-cut,conventional triaxial apparatus: saw-cut
+MSL_EQUIPMENT159,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-shear_testing-rotary_shear_apparatus,rotary shear apparatus
+MSL_EQUIPMENT160,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-shear_testing-true_triaxial_apparatus_shear,true triaxial apparatus shear
+MSL_EQUIPMENT161,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-torsion_testing-conventional_triaxial_apparatus_-_torsion,conventional triaxial apparatus - torsion
+MSL_EQUIPMENT162,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-torsion_testing-double_torsion_apparatus,double torsion apparatus
+MSL_EQUIPMENT163,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-torsion_testing-split_hopkinson_pressure_bar_-_torsion,split Hopkinson pressure bar - torsion
+MSL_EQUIPMENT164,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-deformation_testing-torsion_testing-uniaxial_unconfined_apparatus_-_torsion,uniaxial (unconfined) apparatus - torsion
+MSL_EQUIPMENT165,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-2g_in-line_af_degausser,2G in-line AF degausser
+MSL_EQUIPMENT166,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-agico_af_demagnetiser,AGICO AF demagnetiser
+MSL_EQUIPMENT167,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-asc_af_demagnetiser,ASC AF demagnetiser
+MSL_EQUIPMENT168,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-molspin_af_demagnetiser,Molspin AF demagnetiser
+MSL_EQUIPMENT169,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-rmi_af_demagnetiser,RMI AF demagnetiser
+MSL_EQUIPMENT170,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-alternating_field_af_demagnetiser-schonstedt_af_demagnetiser,Schonstedt AF demagnetiser
+MSL_EQUIPMENT171,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-asc_scientific_thermal_demagnetiser_-_absolute_paleointensity,ASC Scientific thermal demagnetiser - absolute paleointensity
+MSL_EQUIPMENT172,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-asc_scientific_thermal_demagnetiser_-_dual_chamber,ASC Scientific thermal demagnetiser - dual chamber
+MSL_EQUIPMENT173,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-asc_scientific_thermal_demagnetiser_-_single_chamber,ASC Scientific thermal demagnetiser - single chamber
+MSL_EQUIPMENT174,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-magnetic_measurements_super-cooled_thermal_demagnetiser,Magnetic measurements super-cooled thermal demagnetiser
+MSL_EQUIPMENT175,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-magnetic_measurements_thermal_demagnetiser,Magnetic measurements thermal demagnetiser
+MSL_EQUIPMENT176,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-pyrox_scientific_thermal_demagnetiser,Pyrox Scientific thermal demagnetiser
+MSL_EQUIPMENT177,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-schonstedt_thermal_demagnetiser,Schonstedt thermal demagnetiser
+MSL_EQUIPMENT178,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-demagnetiser-thermal_demagnetiser-triaxe,Triaxe
+MSL_EQUIPMENT179,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-electron_microscopy-focused_ion_beam_-_scanning_electron_microscope_fib-sem,focused ion beam - scanning electron microscope (FIB-SEM)
+MSL_EQUIPMENT180,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-electron_microscopy-scanning_electron_microscope_sem,scanning electron microscope (SEM)
+MSL_EQUIPMENT181,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-electron_microscopy-scanning_transmission_electron_microscope_stem,scanning transmission electron microscope (STEM)
+MSL_EQUIPMENT182,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-electron_microscopy-transmission_electron_microscope_tem,transmission electron microscope (TEM)
+MSL_EQUIPMENT183,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-environmental_control-humidity_control-humidity_controlled_chamber,humidity controlled chamber
+MSL_EQUIPMENT184,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-environmental_control-temperature_control-cryostat,cryostat
+MSL_EQUIPMENT185,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-environmental_control-temperature_control-furnace,furnace
+MSL_EQUIPMENT186,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-environmental_control-temperature_control-incubator,incubator
+MSL_EQUIPMENT187,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-fluid_rheology_testing-multi-phase_flow_test_apparatus,multi-phase flow test apparatus
+MSL_EQUIPMENT188,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-fluid_rheology_testing-rheometer,rheometer
+MSL_EQUIPMENT189,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-fluid_rheology_testing-viscometer,viscometer
+MSL_EQUIPMENT190,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-permeameter-permeameter_-_pore_pressure_oscillation_method,permeameter - pore pressure oscillation method
+MSL_EQUIPMENT191,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-permeameter-permeameter_-_pressure_transient_pulse_decay_method,permeameter - pressure transient pulse decay method
+MSL_EQUIPMENT192,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-fluid_transport_testing-permeameter-permeameter_-_steady_state_flow_method,permeameter - steady state flow method
+MSL_EQUIPMENT193,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-electrical_property_determination-conductivity_cell,conductivity cell
+MSL_EQUIPMENT194,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-electrical_property_determination-contact_resistivity_cell,contact resistivity cell
+MSL_EQUIPMENT195,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-electrical_property_determination-electric_resistivity_meter,electric resistivity meter
+MSL_EQUIPMENT196,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-electrical_property_determination-tensiometer,tensiometer
+MSL_EQUIPMENT197,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-mechanical_property_determination-cherchar_equipment,Cherchar equipment
+MSL_EQUIPMENT198,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-mechanical_property_determination-core_scratcher,core scratcher
+MSL_EQUIPMENT199,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-mechanical_property_determination-schmidt_hammer,Schmidt hammer
+MSL_EQUIPMENT200,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-mechanical_property_determination-sclerometer,sclerometer
+MSL_EQUIPMENT201,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-mechanical_property_determination-slake_durability_setup,Slake durability setup
+MSL_EQUIPMENT202,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-porosity_and_density_determination-densimeter,densimeter
+MSL_EQUIPMENT203,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-porosity_and_density_determination-porosity_meter_archimedes_method,porosity meter: Archimedes method
+MSL_EQUIPMENT204,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-porosity_and_density_determination-porosity_meter_mercury_porosimeter,porosity meter: mercury porosimeter
+MSL_EQUIPMENT205,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-porosity_and_density_determination-pycnometer,pycnometer
+MSL_EQUIPMENT206,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-size_and_shape_analysis-particle_analyser,particle analyser
+MSL_EQUIPMENT207,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-size_and_shape_analysis-profilometer,profilometer
+MSL_EQUIPMENT208,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-size_and_shape_analysis-roughness_testing_equipment,roughness testing equipment
+MSL_EQUIPMENT209,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-thermal_property_determination-calorimeter,calorimeter
+MSL_EQUIPMENT210,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-thermal_property_determination-differential_thermal_analysis_setup,differential thermal analysis setup
+MSL_EQUIPMENT211,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-thermal_property_determination-thermal_conductivity_test_setup,thermal conductivity test setup
+MSL_EQUIPMENT212,https://epos-msl.uu.nl/voc/rockphysics/1.4/apparatus-general_sample_characterization-thermal_property_determination-thermal_diffusivity_test_setup,thermal diffusivity test setup
+MSL_EQUIPMENT213,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-anhysteretic_remanence_magnetiser_arm-2g_in_line_anhysteretic_magnetiser_unit_amu,2G in line anhysteretic magnetiser unit (AMU)
+MSL_EQUIPMENT214,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-anhysteretic_remanence_magnetiser_arm-agico_anhysteretic_magnetiser_unit_amu,AGICO anhysteretic magnetiser unit (AMU)
+MSL_EQUIPMENT215,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-anhysteretic_remanence_magnetiser_arm-asc_dtech2000_in_line_anysteretic_magnetiser_unit_amu,ASC DTech2000 in line anysteretic magnetiser unit (AMU)
+MSL_EQUIPMENT216,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-anhysteretic_remanence_magnetiser_arm-molspin_in-line_anysteretic_magnetiser_unit_amu,Molspin in-line anysteretic magnetiser unit (AMU)
+MSL_EQUIPMENT217,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-anhysteretic_remanence_magnetiser_arm-schonsted_anhysteretic_magnetiser_unit_amu,Schonsted anhysteretic magnetiser unit (AMU)
+MSL_EQUIPMENT218,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-bitter_patterns,Bitter patterns
+MSL_EQUIPMENT219,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-coercitivity_spectrometer-mossbauer_spectrometer,Mössbauer spectrometer
+MSL_EQUIPMENT220,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-ac_hysteresis_meter,AC hysteresis meter
+MSL_EQUIPMENT221,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-alternating_gradient_magnetometer_agm,alternating gradient magnetometer (AGM)
+MSL_EQUIPMENT222,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-magnetic_properties_measurement_system_mpms,magnetic properties measurement system (MPMS)
+MSL_EQUIPMENT223,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-physical_property_measurement_system_ppms,physical property measurement system (PPMS)
+MSL_EQUIPMENT224,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-vibrating_sample_magnetometer_vsm_-_hysteresis_properties-single_axis_vsm,single axis VSM
+MSL_EQUIPMENT225,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-hysteresis_properties-vibrating_sample_magnetometer_vsm_-_hysteresis_properties-triaxial_vsm,triaxial VSM
+MSL_EQUIPMENT226,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-2g_in_line_isothermal_remanent_magnetisation_irm_device,2G in line isothermal remanent magnetisation (IRM) device
+MSL_EQUIPMENT227,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-2g_pulse_magnetiser,2G pulse magnetiser
+MSL_EQUIPMENT228,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-agico_pulse_magnetiser,AGICO pulse magnetiser
+MSL_EQUIPMENT229,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-asc_pulse_magnetiser,ASC pulse magnetiser
+MSL_EQUIPMENT230,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-m2t_pulse_magnetiser,M2T pulse magnetiser
+MSL_EQUIPMENT231,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-isothermal_remanent_magnetiser_irm-magnetic_measurements_pulse_magnetiser,magnetic measurements pulse magnetiser
+MSL_EQUIPMENT232,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-microscope_magnetic_scanning-atomic_force_microscope_afm_magnetic_scanning,atomic force microscope (AFM) magnetic scanning
+MSL_EQUIPMENT233,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-microscope_magnetic_scanning-magnetic_force_microscope_mfm,magnetic force microscope (MFM)
+MSL_EQUIPMENT234,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-microscope_magnetic_scanning-magneto_optic_kerr_effect_moke,magneto optic Kerr effect (MOKE)
+MSL_EQUIPMENT235,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-microscope_magnetic_scanning-quantum_diamond_microscope_qdm,quantum diamond microscope (QDM)
+MSL_EQUIPMENT236,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-microscope_magnetic_scanning-superconducting_quantum_interference_device_squid_microscope,superconducting quantum interference device (SQUID) microscope
+MSL_EQUIPMENT237,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-asc_scientific_thermal_demagnetiser_-_dual_chamber_with_controlled_field_coil,ASC Scientific thermal demagnetiser - dual chamber with controlled field coil
+MSL_EQUIPMENT238,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-asc_scientific_thermal_demagnetiser_-_single_chamber_with_controlled_field_coil,ASC Scientific thermal demagnetiser - single chamber with controlled field coil
+MSL_EQUIPMENT239,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-magnetic_measurements_super-cooled_thermal_demagnetiser,Magnetic measurements super-cooled thermal demagnetiser
+MSL_EQUIPMENT240,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-magnetic_measurements_thermal_demagnetiser,Magnetic measurements thermal demagnetiser
+MSL_EQUIPMENT241,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-pyrox_scientific_thermal_demagnetiser_with_controlled_field_coil,Pyrox Scientific thermal demagnetiser with controlled field coil
+MSL_EQUIPMENT242,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-thermoremanent_magnetiser_trm-triaxe,Triaxe
+MSL_EQUIPMENT243,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-variable_field_translation_balance_vftb-mag_instruments_variable_field_translation_balance,MAG instruments variable field translation balance
+MSL_EQUIPMENT244,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-laboratory_induced_remanent_magnetisation_measurement-variable_field_translation_balance_vftb-modified_horizontal_translation_curie_balance,modified horizontal translation Curie balance
+MSL_EQUIPMENT245,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-agico_kappabridge_susceptibility_meter,AGICO Kappabridge susceptibility meter
+MSL_EQUIPMENT246,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-bartington_magnetic_susceptibility_meter,Bartington magnetic susceptibility meter
+MSL_EQUIPMENT247,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-dynomag_ac_susceptibility_meter,DynoMag AC susceptibility meter
+MSL_EQUIPMENT248,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-lakeshore_susceptibility_meter,Lakeshore susceptibility meter
+MSL_EQUIPMENT249,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-magnon_susceptibility_meter,Magnon susceptibility meter
+MSL_EQUIPMENT250,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-mpms_susceptibility_meter,MPMS susceptibility meter
+MSL_EQUIPMENT251,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-magnetic_susceptibility_measurements-susceptibility_meter-sapphire_instruments_susceptibility_meter,Sapphire Instruments susceptibility meter
+MSL_EQUIPMENT252,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-microchemical_analysis-electron_probe_micro_analyser,electron probe micro analyser
+MSL_EQUIPMENT253,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-astatic_magnetometer,astatic magnetometer
+MSL_EQUIPMENT254,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-cryogenic_magnetometer-cryogenic_magnetometer_for_discrete_samples,cryogenic magnetometer for discrete samples
+MSL_EQUIPMENT255,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-cryogenic_magnetometer-cryogenic_magnetometer_for_long_core,cryogenic magnetometer for long core
+MSL_EQUIPMENT256,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-microwave_palaeointensity_system,microwave palaeointensity system
+MSL_EQUIPMENT257,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-optically_pumped_rock_magnetometer,optically pumped rock magnetometer
+MSL_EQUIPMENT258,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-spinner_magnetometer-agico_spinner_magnetometer,AGICO spinner magnetometer
+MSL_EQUIPMENT259,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-spinner_magnetometer-molspin_minispin,Molspin minispin
+MSL_EQUIPMENT260,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-spinner_magnetometer-molspin_spinner,Molspin spinner
+MSL_EQUIPMENT261,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-vibrating_sample_magnetometer_vsm-single_axis_vsm,single axis VSM
+MSL_EQUIPMENT262,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-vibrating_sample_magnetometer_vsm-triaxe,Triaxe
+MSL_EQUIPMENT263,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-natural_remanent_magnetisation_measurement-vibrating_sample_magnetometer_vsm-triaxial_vsm,triaxial VSM
+MSL_EQUIPMENT264,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-neutron_tomography,neutron tomography
+MSL_EQUIPMENT265,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_gradiometer,portable gradiometer
+MSL_EQUIPMENT266,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_magnetometer-bartington_single_axis_fluxgate,Bartington single axis fluxgate
+MSL_EQUIPMENT267,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_magnetometer-overhauser_magnetometer_system,Overhauser magnetometer system
+MSL_EQUIPMENT268,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_magnetometer-portable_spinning_magnetometer_psm,Portable spinning magnetometer (PSM)
+MSL_EQUIPMENT269,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_susceptibility_meter_psg-bartington_psg,Bartington PSG
+MSL_EQUIPMENT270,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_susceptibility_meter_psg-gf_instruments_psg,GF Instruments PSG
+MSL_EQUIPMENT271,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_susceptibility_meter_psg-si2b_psg,SI2B PSG
+MSL_EQUIPMENT272,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_susceptibility_meter_psg-terraplus_psg,TerraPlus PSG
+MSL_EQUIPMENT273,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-on-site_measurement-portable_susceptibility_meter_psg-zh_instruments_psg,ZH Instruments PSG
+MSL_EQUIPMENT274,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-optical_microscopy-reflected_light_microscope,reflected light microscope
+MSL_EQUIPMENT275,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-optical_microscopy-slide_scanner_microscope,slide scanner microscope
+MSL_EQUIPMENT276,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-optical_microscopy-transmitted_light_microscope,transmitted light microscope
+MSL_EQUIPMENT277,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-sampling_and_preparation-franz_magnetic_separator,Franz magnetic separator
+MSL_EQUIPMENT278,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/apparatus-sampling_and_preparation-magnetic_extraction_system_in_aqueous_phase,magnetic extraction system in aqueous phase
+MSL_EQUIPMENT279,https://epos-msl.uu.nl/voc/microscopy/1.4/apparatus-x-ray_tomography,X-ray tomography
+MSL_EQUIPMENT280,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-alpha_spectrometer,alpha spectrometer
+MSL_EQUIPMENT281,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-atomic_absorption_spectrometer-graphite_furnace-atomic_absorption_spectrometer,graphite furnace-atomic absorption spectrometer
+MSL_EQUIPMENT282,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-atomic_emission_spectrometer-inductively_coupled_plasma-atomic_emission_spectrometer,inductively coupled plasma-atomic emission spectrometer
+MSL_EQUIPMENT283,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_drilling-borehole_and_geofluid_simulator,borehole and geofluid simulator
+MSL_EQUIPMENT284,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_drilling-drill_core,drill core
+MSL_EQUIPMENT285,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_drilling-drilling_test_rig,drilling test rig
+MSL_EQUIPMENT286,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_drilling-measurement_while_drilling,measurement while drilling
+MSL_EQUIPMENT287,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_drilling-mud_logging,mud logging
+MSL_EQUIPMENT288,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_logging-borehole_inspection_system,borehole inspection system
+MSL_EQUIPMENT289,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_logging-open_hole_logging,open hole logging
+MSL_EQUIPMENT290,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_logging-optical_borehole_scanner,optical borehole scanner
+MSL_EQUIPMENT291,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-borehole_acoustic_emission_monitoring_system,borehole acoustic emission monitoring system
+MSL_EQUIPMENT292,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-borehole_strainmeter,borehole strainmeter
+MSL_EQUIPMENT293,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-cementable_tube_pore-pressure_sensor,cementable tube pore-pressure sensor
+MSL_EQUIPMENT294,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-downhole_electric_conductivity_sensing,downhole electric conductivity sensing
+MSL_EQUIPMENT295,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-downhole_electromagnetic_sensing,downhole electromagnetic sensing
+MSL_EQUIPMENT296,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-downhole_probe,downhole probe
+MSL_EQUIPMENT297,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-impulse_generator,impulse generator
+MSL_EQUIPMENT298,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-multistation_borehole_acquisition_system,multistation borehole acquisition system
+MSL_EQUIPMENT299,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-borehole_monitoring-step-rate_injection_method_for_fracture_in-situ_properties,step-rate injection method for fracture in-situ properties
+MSL_EQUIPMENT300,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-distributed_acoustic_sensing,distributed acoustic sensing
+MSL_EQUIPMENT301,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-distributed_pressure_and_temperature_sensing,distributed pressure and temperature sensing
+MSL_EQUIPMENT302,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-distributed_strain_sensing,distributed strain sensing
+MSL_EQUIPMENT303,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-distributed_temperature_sensing,distributed temperature sensing
+MSL_EQUIPMENT304,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-fbg_interrogator,FBG interrogator
+MSL_EQUIPMENT305,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-fibre_braag_grating_sensor,fibre braag grating sensor
+MSL_EQUIPMENT306,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-hyperion_optical_sensing_instrument,HYPERION Optical Sensing Instrument
+MSL_EQUIPMENT307,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-optoelectronics_interrogator,optoelectronics interrogator
+MSL_EQUIPMENT308,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-distributed_fibre_optic_sensing-silixa_das_interrogator,Silixa DAS interrogator
+MSL_EQUIPMENT309,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-electron_probe_micro-analyzer,electron probe micro-analyzer
+MSL_EQUIPMENT310,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-elemental_analyzer,elemental analyzer
+MSL_EQUIPMENT311,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-environmental_monitoring-acoustic_wave_and_current_profiler,acoustic wave and current profiler
+MSL_EQUIPMENT312,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-environmental_monitoring-heat_flux_cell,heat flux cell
+MSL_EQUIPMENT313,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-environmental_monitoring-leaf_wetness_sensor,leaf wetness sensor
+MSL_EQUIPMENT314,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-environmental_monitoring-sea_wave_pressure_transducer,sea wave pressure transducer
+MSL_EQUIPMENT315,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-environmental_monitoring-weather_station,weather station
+MSL_EQUIPMENT316,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-gamma-ray_spectrometer,gamma-ray spectrometer
+MSL_EQUIPMENT317,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-hydrologic_instrumentation-groundwater_multi-packer_system,groundwater multi-packer system
+MSL_EQUIPMENT318,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-hydrologic_instrumentation-hybrid_multi-packer_system,hybrid multi-packer system
+MSL_EQUIPMENT319,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-hydrologic_instrumentation-multi-packer_piezometer,multi-packer piezometer
+MSL_EQUIPMENT320,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-hydrologic_instrumentation-pump_multi-packer_system,pump multi-packer system
+MSL_EQUIPMENT321,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-hydrologic_instrumentation-stand-pipe_multi-packer_system,stand-pipe multi-packer system
+MSL_EQUIPMENT322,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-instrumental_neutron_activation_analysis_system,instrumental neutron activation analysis system
+MSL_EQUIPMENT323,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-ion_chromatograph,ion chromatograph
+MSL_EQUIPMENT324,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-accelerator_mass_spectrometer,accelerator mass spectrometer
+MSL_EQUIPMENT325,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-gas_chromatograph-mass_spectrometer,gas chromatograph-mass spectrometer
+MSL_EQUIPMENT326,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-inductively_coupled_plasma-mass_spectrometer,inductively coupled plasma-mass spectrometer
+MSL_EQUIPMENT327,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-isotope_ratio_mass_spectrometer,isotope ratio mass spectrometer
+MSL_EQUIPMENT328,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-laser_ablation-inductively_coupled_plasma-mass_spectrometry,laser ablation-inductively coupled plasma-mass spectrometry
+MSL_EQUIPMENT329,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-laser_ablation-multicollector_inductively_coupled_plasma-mass_spectrometry,laser ablation-multicollector inductively coupled plasma-mass spectrometry
+MSL_EQUIPMENT330,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-laser_ablation-single_collector-inductively_coupled_plasma-mass_spectrometry,laser ablation-single collector-inductively coupled plasma-mass spectrometry
+MSL_EQUIPMENT331,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-multicollector-inductively_coupled_plasma-mass_spectrometer,multicollector-inductively coupled plasma-mass spectrometer
+MSL_EQUIPMENT332,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-secondary_ionization_mass_spectrometer,secondary ionization mass spectrometer
+MSL_EQUIPMENT333,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-single_collector-inductively_coupled_plasma-mass_spectrometer,single collector-inductively coupled plasma-mass spectrometer
+MSL_EQUIPMENT334,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-mass_spectrometer-thermal_ionization-mass_spectrometer,thermal ionization-mass spectrometer
+MSL_EQUIPMENT335,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-seismic_monitoring-episensor_force_balance_accelerometer,EpiSensor force balance accelerometer
+MSL_EQUIPMENT336,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-seismic_monitoring-high-performance_portable_broadband_triaxial_seismometer,high-performance portable broadband triaxial seismometer
+MSL_EQUIPMENT337,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-seismic_monitoring-microaccelerometers,microaccelerometers
+MSL_EQUIPMENT338,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-seismic_monitoring-three-component_seismic_station,three-component seismic station
+MSL_EQUIPMENT339,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-seismic_monitoring-tilt_strain_gauge,tilt strain gauge
+MSL_EQUIPMENT340,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-slope_surface_monitoring-doppler_radar,doppler radar
+MSL_EQUIPMENT341,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-slope_surface_monitoring-joint_gauges,joint gauges
+MSL_EQUIPMENT342,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-slope_surface_monitoring-optical_camera_for_surface_monitoring,optical camera for surface monitoring
+MSL_EQUIPMENT343,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-slope_surface_monitoring-thermal_imaging_camera,thermal imaging camera
+MSL_EQUIPMENT344,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-spectrophotometer-fourier-transforminfrared_spectrophotometer,Fourier-Transform Infrared spectrophotometer
+MSL_EQUIPMENT345,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-spectrophotometer-uv-vis_spectrophotometer,UV-Vis spectrophotometer
+MSL_EQUIPMENT346,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-titrator,titrator
+MSL_EQUIPMENT347,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-formation_integrity_test,formation integrity test
+MSL_EQUIPMENT348,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-heat_pump_mobile_unit,heat pump mobile unit
+MSL_EQUIPMENT349,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-heat_pump_test_rig,heat pump test rig
+MSL_EQUIPMENT350,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-injection_testing,injection testing
+MSL_EQUIPMENT351,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-intervention_and_stimulation_equipment,intervention and stimulation equipment
+MSL_EQUIPMENT352,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-pressure_performance_system,pressure performance system
+MSL_EQUIPMENT353,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-production_testing,production testing
+MSL_EQUIPMENT354,https://epos-msl.uu.nl/voc/fieldscale/1.4/equipment-well_testing-thermal_response_testing,thermal response testing
+MSL_EQUIPMENT355,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-x-ray_diffractometer,x-ray diffractometer
+MSL_EQUIPMENT356,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-x-ray_spectrometer-energy-dispersive_x-ray_spectrometer,energy-dispersive x-ray spectrometer
+MSL_EQUIPMENT357,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-x-ray_spectrometer-x-ray_absorption_near-edge_structure_spectrometer,x-ray absorption near-edge structure spectrometer
+MSL_EQUIPMENT358,https://epos-msl.uu.nl/voc/geochemistry/1.4/equipment-x-ray_spectrometer-x-ray_fluorescence_spectrometer,x-ray fluorescence spectrometer

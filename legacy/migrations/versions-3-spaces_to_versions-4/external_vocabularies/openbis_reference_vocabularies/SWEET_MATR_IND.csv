@@ -1,0 +1,13 @@
+VOCABULARY_TYPE,,
+Code,Description,
+SWEET_MATR_IND,http://sweetontology.net/matrIndustrial/,
+Code,Description,Label
+SWEET_MATR_IND1,http://sweetontology.net/matrIndustrial/Alloy,alloy
+SWEET_MATR_IND2,http://sweetontology.net/matrIndustrial/Cement,cement
+SWEET_MATR_IND3,http://sweetontology.net/matrIndustrial/Colloid,colloid
+SWEET_MATR_IND4,http://sweetontology.net/matrIndustrial/ForestProduct,forest product
+SWEET_MATR_IND5,http://sweetontology.net/matrIndustrial/IndustrialProduct,industrial product
+SWEET_MATR_IND6,http://sweetontology.net/matrIndustrial/Product,product
+SWEET_MATR_IND7,http://sweetontology.net/matrIndustrial/Slurry,slurry
+SWEET_MATR_IND8,http://sweetontology.net/matrIndustrial/Supply,supply
+SWEET_MATR_IND9,http://sweetontology.net/matrIndustrial/Yield,yield

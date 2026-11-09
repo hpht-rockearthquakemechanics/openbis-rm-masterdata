@@ -1,0 +1,175 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_SETTING,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/|https://epos-msl.uu.nl/voc/subsurface/1.4/,
+Code,Description,Label
+MSL_SETTING1,https://epos-msl.uu.nl/voc/subsurface/1.4/civil_engineered_setting-building_foundation,building foundation
+MSL_SETTING2,https://epos-msl.uu.nl/voc/subsurface/1.4/civil_engineered_setting-dam_construction_-_geological_aspects,dam construction - geological aspects
+MSL_SETTING3,https://epos-msl.uu.nl/voc/subsurface/1.4/civil_engineered_setting-road_construction_-_geotechnical_aspects,road construction - geotechnical aspects
+MSL_SETTING4,https://epos-msl.uu.nl/voc/subsurface/1.4/civil_engineered_setting-tunnel,tunnel
+MSL_SETTING5,https://epos-msl.uu.nl/voc/subsurface/1.4/civil_engineered_setting-underground_research_facility,underground research facility
+MSL_SETTING6,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-asthenosphere,asthenosphere
+MSL_SETTING7,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_core-inner_core,inner core
+MSL_SETTING8,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_core-outer_core,outer core
+MSL_SETTING9,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-continental_crust,continental crust
+MSL_SETTING10,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-lower_crust,lower crust
+MSL_SETTING11,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-middle_crust,middle crust
+MSL_SETTING12,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-ocean_continent_transition_oct,ocean continent transition (OCT)
+MSL_SETTING13,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-oceanic_crust,oceanic crust
+MSL_SETTING14,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_crust-upper_crust,upper crust
+MSL_SETTING15,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-410_km_discontinuity,410 km discontinuity
+MSL_SETTING16,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-660_km_discontinuity,660 km discontinuity
+MSL_SETTING17,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-core-mantle_boundary,core-mantle boundary
+MSL_SETTING18,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-d_layer,D'' layer
+MSL_SETTING19,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-lithosphere-asthenosphere_boundary,lithosphere-asthenosphere boundary
+MSL_SETTING20,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-lower_mantle,lower mantle
+MSL_SETTING21,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-earth_mantle-upper_mantle,upper mantle
+MSL_SETTING22,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-lithosphere-cratonic_lithosphere,cratonic lithosphere
+MSL_SETTING23,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-lithosphere-oceanic_lithosphere,oceanic lithosphere
+MSL_SETTING24,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-lithosphere-sub-continental_lithospheric_mantle,sub-continental lithospheric mantle
+MSL_SETTING25,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-lithosphere-sub-oceanic_lithospheric_mantle,sub-oceanic lithospheric mantle
+MSL_SETTING26,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/earths_structure-mohorovicic_discontinuity,Mohorovicic discontinuity
+MSL_SETTING27,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/extra-terrestrial_setting,extra-terrestrial setting
+MSL_SETTING28,https://epos-msl.uu.nl/voc/subsurface/1.4/induced_seismicity,induced seismicity
+MSL_SETTING29,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-cratonisation-craton,craton
+MSL_SETTING30,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-cratonisation-cratonic_basin,cratonic basin
+MSL_SETTING31,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-hot_spot_magmatism-large_igneous_province_lip,large igneous province (LIP)
+MSL_SETTING32,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-hot_spot_magmatism-mantle_plume,mantle plume
+MSL_SETTING33,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-hot_spot_magmatism-volcanic_island,volcanic island
+MSL_SETTING34,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-isostasy-dynamic_topography,dynamic topography
+MSL_SETTING35,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-isostasy-flexural_basin,flexural basin
+MSL_SETTING36,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-isostasy-isostatic_loading,isostatic loading
+MSL_SETTING37,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-isostasy-isostatic_rebound,isostatic rebound
+MSL_SETTING38,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-passive_continental_margin-continent-ocean_transition,continent-ocean transition
+MSL_SETTING39,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-passive_continental_margin-non-volcanic_rifted_margin,non-volcanic rifted margin
+MSL_SETTING40,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-passive_continental_margin-seaward-dipping_reflectors,seaward-dipping reflectors
+MSL_SETTING41,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/intraplate_setting-passive_continental_margin-volcanic_rifted_margin,volcanic rifted margin
+MSL_SETTING42,https://epos-msl.uu.nl/voc/subsurface/1.4/ore_mine-mine_tailing,mine tailing
+MSL_SETTING43,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-advanced_geothermal_system,advanced geothermal system
+MSL_SETTING44,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-closed_loop_system,closed loop system
+MSL_SETTING45,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-deep_geothermal_energy,deep geothermal energy
+MSL_SETTING46,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-enhanced_geothermal_system,enhanced geothermal system
+MSL_SETTING47,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-geothermal_doublet,geothermal doublet
+MSL_SETTING48,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-geothermal_reservoir,geothermal reservoir
+MSL_SETTING49,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-geothermal_reservoir_temperature,geothermal reservoir temperature
+MSL_SETTING50,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-high_enthalpy_geothermal_energy,high enthalpy geothermal energy
+MSL_SETTING51,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-hydrothermal_reservoir,hydrothermal reservoir
+MSL_SETTING52,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-low_enthalpy_geothermal_energy,low enthalpy geothermal energy
+MSL_SETTING53,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-mine_geothermal_energy_provision,mine geothermal energy provision
+MSL_SETTING54,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-open_loop_system,open loop system
+MSL_SETTING55,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-geothermal_energy_extraction-shallow_geothermal_energy,shallow geothermal energy
+MSL_SETTING56,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrocarbon_energy_production-gas_field,gas field
+MSL_SETTING57,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrocarbon_energy_production-oil_field,oil field
+MSL_SETTING58,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrogen_energy_production-methane_pyrolysis,methane pyrolysis
+MSL_SETTING59,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrogen_energy_production-native_hydrogen,native hydrogen
+MSL_SETTING60,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrogen_energy_production-polymer_electrolyte_membrane_electrolysis,polymer electrolyte membrane electrolysis
+MSL_SETTING61,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrogen_energy_production-steam_methane_reforming,steam methane reforming
+MSL_SETTING62,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_energy_production-hydrogen_energy_production-steam_methane_reforming_with_carbon_capture_and_storage,steam methane reforming with carbon capture and storage
+MSL_SETTING63,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-co2_storage_in_the_subsurface,CO2 storage in the subsurface
+MSL_SETTING64,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-compressed_air_storage_in_the_subsurface,compressed air storage in the subsurface
+MSL_SETTING65,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-gas_storage_in_the_subsurface,gas storage in the subsurface
+MSL_SETTING66,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-hydrogen_storage_in_the_subsurface,hydrogen storage in the subsurface
+MSL_SETTING67,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-nitrogen_storage_in_the_subsurface,nitrogen storage in the subsurface
+MSL_SETTING68,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-oil_storage_in_the_subsurface,oil storage in the subsurface
+MSL_SETTING69,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-storage_in_depleted_oil_reservoir,storage in depleted oil reservoir
+MSL_SETTING70,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-aquifer_thermal_energy_storage,aquifer thermal energy storage
+MSL_SETTING71,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-borehole_thermal_energy_storage,borehole thermal energy storage
+MSL_SETTING72,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-cavern_thermal_energy_storage,cavern thermal energy storage
+MSL_SETTING73,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-high-temperature_aquifer_thermal_energy_storage,high-temperature aquifer thermal energy storage
+MSL_SETTING74,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-low-temperature_aquifer_thermal_energy_storage,low-temperature aquifer thermal energy storage
+MSL_SETTING75,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-medium-temperature_aquifer_thermal_energy_storage,medium-temperature aquifer thermal energy storage
+MSL_SETTING76,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-thermal_energy_storage_in_the_subsurface-mine_thermal_energy_storage,mine thermal energy storage
+MSL_SETTING77,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-waste_storage_in_the_subsurface-radioactive_waste_disposal_in_the_subsurface,radioactive waste disposal in the subsurface
+MSL_SETTING78,https://epos-msl.uu.nl/voc/subsurface/1.4/subsurface_storage-waste_storage_in_the_subsurface-wastewater_storage_in_the_subsurface,wastewater storage in the subsurface
+MSL_SETTING79,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-deltaic_system_setting-estuarine_delta_setting,estuarine delta setting
+MSL_SETTING80,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-deltaic_system_setting-lacustrine_delta_setting,lacustrine delta setting
+MSL_SETTING81,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-glacier_related_setting,glacier related setting
+MSL_SETTING82,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-abyssal_setting,abyssal setting
+MSL_SETTING83,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-basin_plain_setting,basin plain setting
+MSL_SETTING84,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-continental_shelf,continental shelf
+MSL_SETTING85,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-deep_sea_trench_setting,deep sea trench setting
+MSL_SETTING86,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-slope-rise_setting,slope-rise setting
+MSL_SETTING87,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-marine_setting-submarine_fan_setting,submarine fan setting
+MSL_SETTING88,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-river_plain_system_setting-floodplain_setting,floodplain setting
+MSL_SETTING89,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-river_plain_system_setting-river_channel_setting-braided_river_channel_setting,braided river channel setting
+MSL_SETTING90,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-river_plain_system_setting-river_channel_setting-meandering_river_channel_setting,meandering river channel setting
+MSL_SETTING91,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-barrier_island_coastline_setting,barrier island coastline setting
+MSL_SETTING92,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-beach_setting,beach setting
+MSL_SETTING93,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-estuary_setting,estuary setting
+MSL_SETTING94,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-lagoonal_setting,lagoonal setting
+MSL_SETTING95,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-rocky_coast_setting,rocky coast setting
+MSL_SETTING96,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/surface_morphological_setting-shoreline_setting-tidal_setting,tidal setting
+MSL_SETTING97,https://epos-msl.uu.nl/voc/subsurface/1.4/surface_subsidence-sinkhole,sinkhole
+MSL_SETTING98,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-detachment_fault,detachment fault
+MSL_SETTING99,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-normal_fault,normal fault
+MSL_SETTING100,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-oblique-slip_fault,oblique-slip fault
+MSL_SETTING101,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-reverse_fault,reverse fault
+MSL_SETTING102,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-scissor_fault,scissor fault
+MSL_SETTING103,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-strike-slip_fault,strike-slip fault
+MSL_SETTING104,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-thrust_fault,thrust fault
+MSL_SETTING105,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fault-wrench_fault,wrench fault
+MSL_SETTING106,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fold-anticline,anticline
+MSL_SETTING107,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fold-antiform,antiform
+MSL_SETTING108,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fold-syncline,syncline
+MSL_SETTING109,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_fold-synform,synform
+MSL_SETTING110,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_deformation_structure-tectonic_shear_zone-riedel_shear,Riedel shear
+MSL_SETTING111,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-continental_subduction,continental subduction
+MSL_SETTING112,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-fold-and-thrust_belt,fold-and-thrust belt
+MSL_SETTING113,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-foreland_basin,foreland basin
+MSL_SETTING114,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-high_pressure_metamorphism,high pressure metamorphism
+MSL_SETTING115,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-lithosphere_folding,lithosphere folding
+MSL_SETTING116,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-metamorphic_core,metamorphic core
+MSL_SETTING117,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-orogen,orogen
+MSL_SETTING118,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-peripheral_bulge_-_continental_collision,peripheral bulge - continental collision
+MSL_SETTING119,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-piggy-back_basin,piggy-back basin
+MSL_SETTING120,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-post-orogenic_collapse,post-orogenic collapse
+MSL_SETTING121,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-pro-wedge,pro-wedge
+MSL_SETTING122,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-retro-shear,retro-shear
+MSL_SETTING123,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-retro-wedge,retro-wedge
+MSL_SETTING124,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-rock_exhumation,rock exhumation
+MSL_SETTING125,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-surface_uplift,surface uplift
+MSL_SETTING126,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-continental_collision-suture_zone,suture zone
+MSL_SETTING127,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-obduction-metamorphic_sole,metamorphic sole
+MSL_SETTING128,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-obduction-ophiolite,ophiolite
+MSL_SETTING129,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-accretionary_wedge,accretionary wedge
+MSL_SETTING130,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-back-arc_basin,back-arc basin
+MSL_SETTING131,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-continent-continent_subduction,continent-continent subduction
+MSL_SETTING132,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-forearc_basin,forearc basin
+MSL_SETTING133,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-high_pressure_metamorphism,high pressure metamorphism
+MSL_SETTING134,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-intra-arc_fault,intra-arc fault
+MSL_SETTING135,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-ocean-continent_subduction,ocean-continent subduction
+MSL_SETTING136,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-ocean-ocean_subduction,ocean-ocean subduction
+MSL_SETTING137,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-peripheral_bulge_-_subduction,peripheral bulge - subduction
+MSL_SETTING138,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-shallow-dipping_slab,shallow-dipping slab
+MSL_SETTING139,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-slab_roll-back,slab roll-back
+MSL_SETTING140,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-steeply_dipping_slab,steeply dipping slab
+MSL_SETTING141,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-subducting_plate_interface,subducting plate interface
+MSL_SETTING142,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-subduction_erosion,subduction erosion
+MSL_SETTING143,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-subduction_initiation,subduction initiation
+MSL_SETTING144,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-subduction_zone_topography,subduction zone topography
+MSL_SETTING145,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-trench,trench
+MSL_SETTING146,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-trench_advancement,trench advancement
+MSL_SETTING147,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-trench_retreat,trench retreat
+MSL_SETTING148,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-convergent_tectonic_plate_boundary-subduction-volcanic_arc,volcanic arc
+MSL_SETTING149,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-plate_spreading-fracture_zone,fracture zone
+MSL_SETTING150,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-plate_spreading-mid-ocean_ridge,mid-ocean ridge
+MSL_SETTING151,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-plate_spreading-nodal_basin,nodal basin
+MSL_SETTING152,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-plate_spreading-transform_fault,transform fault
+MSL_SETTING153,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-asymmetric_rifting,asymmetric rifting
+MSL_SETTING154,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-boundary_fault,boundary fault
+MSL_SETTING155,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-break-up_unconmformity,break-up unconmformity
+MSL_SETTING156,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-continental_core_complex,continental core complex
+MSL_SETTING157,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-horst-and-graben,horst-and-graben
+MSL_SETTING158,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-mantle_exhumation,mantle exhumation
+MSL_SETTING159,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-narrow_rift,narrow rift
+MSL_SETTING160,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-non-volcanic_rifted_margin,non-volcanic rifted margin
+MSL_SETTING161,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-oceanic_core_complex,oceanic core complex
+MSL_SETTING162,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-rift_volcanism,rift volcanism
+MSL_SETTING163,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-symmetric_rifting,symmetric rifting
+MSL_SETTING164,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-tilted_block_faulting,tilted block faulting
+MSL_SETTING165,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-volcanic_rifted_margin,volcanic rifted margin
+MSL_SETTING166,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-divergent_tectonic_plate_boundary-rifting-wide_rift,wide rift
+MSL_SETTING167,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-transcurrent_tectonic_plate_boundary-contractional_bend,contractional bend
+MSL_SETTING168,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-transcurrent_tectonic_plate_boundary-pull-apart_basin,pull-apart basin
+MSL_SETTING169,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-transcurrent_tectonic_plate_boundary-releasing_and_restraining_bend,releasing and restraining bend
+MSL_SETTING170,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-transcurrent_tectonic_plate_boundary-stepover_basin,stepover basin
+MSL_SETTING171,https://epos-msl.uu.nl/voc/geologicalsetting/1.4/tectonic_plate_boundary-transcurrent_tectonic_plate_boundary-transpressional_basin,transpressional basin

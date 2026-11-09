@@ -1,0 +1,302 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_MINERAL,https://epos-msl.uu.nl/voc/geochemistry/1.4/|https://epos-msl.uu.nl/voc/materials/1.4/|https://epos-msl.uu.nl/voc/microscopy/1.4/|https://epos-msl.uu.nl/voc/paleomagnetism/1.4/,
+Code,Description,Label
+MSL_MINERAL1,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-mineralogical_analysis-qualitative_mineral_identification,qualitative mineral identification
+MSL_MINERAL2,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-mineralogical_analysis-quantitative_mineral_identification,quantitative mineral identification
+MSL_MINERAL3,https://epos-msl.uu.nl/voc/geochemistry/1.4/analysis-sample_preparation_for_geochemical_analysis-mineral_separation,mineral separation
+MSL_MINERAL4,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-metamorphic_microstructure-mineral_polymorphism,mineral polymorphism
+MSL_MINERAL5,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-fluid_inclusion,fluid inclusion
+MSL_MINERAL6,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-qualitative_mineralogy,qualitative mineralogy
+MSL_MINERAL7,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-qualitative_rock_classification-igneous_classification,igneous classification
+MSL_MINERAL8,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-qualitative_rock_classification-metamorphic_classification,metamorphic classification
+MSL_MINERAL9,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-qualitative_rock_classification-sedimentary_classification,sedimentary classification
+MSL_MINERAL10,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-qualitative_rock_classification-structural_classification,structural classification
+MSL_MINERAL11,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-quantitative_mineralogy-microchemical_map,microchemical map
+MSL_MINERAL12,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-quantitative_mineralogy-mineral_map,mineral map
+MSL_MINERAL13,https://epos-msl.uu.nl/voc/microscopy/1.4/analyzed_feature-mineralogy_and_composition-quantitative_mineralogy-phase_map,phase map
+MSL_MINERAL14,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anisotropy_through_rock_structure-magnetic_anisotropy_through_mineralogical_structure,magnetic anisotropy through mineralogical structure
+MSL_MINERAL15,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-archaeological_environment,archaeological environment
+MSL_MINERAL16,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-environmental_pollution,environmental pollution
+MSL_MINERAL17,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-heating_potential_of_magnetic_nanoparticles,heating potential of magnetic nanoparticles
+MSL_MINERAL18,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-inferred_paleoclimate,inferred paleoclimate
+MSL_MINERAL19,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-inferred_paleoenvironment,inferred paleoenvironment
+MSL_MINERAL20,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-magnetic_domain_state,magnetic domain state
+MSL_MINERAL21,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-mineral_phase_analysis,mineral phase analysis
+MSL_MINERAL22,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-origin_of_remanence,origin of remanence
+MSL_MINERAL23,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-magnetic_mineralogy_analyses-remanent_magnetisation_stability,remanent magnetisation stability
+MSL_MINERAL24,https://epos-msl.uu.nl/voc/materials/1.4/minerals-borates,borates
+MSL_MINERAL25,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-ankerite,ankerite
+MSL_MINERAL26,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-apatite,apatite
+MSL_MINERAL27,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-aragonite,aragonite
+MSL_MINERAL28,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-azurite,azurite
+MSL_MINERAL29,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-bastnaesite,bastnaesite
+MSL_MINERAL30,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-breunnerite,breunnerite
+MSL_MINERAL31,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-calcite,calcite
+MSL_MINERAL32,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-dolomite,dolomite
+MSL_MINERAL33,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-magnesite,magnesite
+MSL_MINERAL34,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-malachite,malachite
+MSL_MINERAL35,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-manganocalcite,manganocalcite
+MSL_MINERAL36,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-parisite,parisite
+MSL_MINERAL37,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-rhodochrosite,rhodochrosite
+MSL_MINERAL38,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-siderite,siderite
+MSL_MINERAL39,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-smithsonite,smithsonite
+MSL_MINERAL40,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-strontianite,strontianite
+MSL_MINERAL41,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-trona,trona
+MSL_MINERAL42,https://epos-msl.uu.nl/voc/materials/1.4/minerals-carbonate_minerals-witherite,witherite
+MSL_MINERAL43,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-aluminium,aluminium
+MSL_MINERAL44,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-antimony,antimony
+MSL_MINERAL45,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-arsenic,arsenic
+MSL_MINERAL46,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-bismuth,bismuth
+MSL_MINERAL47,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-cadmium,cadmium
+MSL_MINERAL48,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-carbon-diamond,diamond
+MSL_MINERAL49,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-carbon-graphite,graphite
+MSL_MINERAL50,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-chromium,chromium
+MSL_MINERAL51,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-copper,copper
+MSL_MINERAL52,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-gold,gold
+MSL_MINERAL53,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-iridium,iridium
+MSL_MINERAL54,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-iron,iron
+MSL_MINERAL55,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-lead_element,lead (element)
+MSL_MINERAL56,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-mercury,mercury
+MSL_MINERAL57,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-nickel,nickel
+MSL_MINERAL58,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-platinum,platinum
+MSL_MINERAL59,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-selenium,selenium
+MSL_MINERAL60,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-silicon,silicon
+MSL_MINERAL61,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-silver,silver
+MSL_MINERAL62,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-sulfur,sulfur
+MSL_MINERAL63,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-tellurium,tellurium
+MSL_MINERAL64,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-tin,tin
+MSL_MINERAL65,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-titanium,titanium
+MSL_MINERAL66,https://epos-msl.uu.nl/voc/materials/1.4/minerals-chemical_elements-zinc,zinc
+MSL_MINERAL67,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-atacamite,atacamite
+MSL_MINERAL68,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-bischofite,bischofite
+MSL_MINERAL69,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-carnallite,carnallite
+MSL_MINERAL70,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-cerargyrite,cerargyrite
+MSL_MINERAL71,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-cryolite,cryolite
+MSL_MINERAL72,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-fluorite,fluorite
+MSL_MINERAL73,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-halite,halite
+MSL_MINERAL74,https://epos-msl.uu.nl/voc/materials/1.4/minerals-halide_minerals-sylvite,sylvite
+MSL_MINERAL75,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-anatase,anatase
+MSL_MINERAL76,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-boehmite,boehmite
+MSL_MINERAL77,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-brannerite,brannerite
+MSL_MINERAL78,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-brucite,brucite
+MSL_MINERAL79,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-carnotite,carnotite
+MSL_MINERAL80,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-cassiterite,cassiterite
+MSL_MINERAL81,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-chromite,chromite
+MSL_MINERAL82,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-chrysoberyl,chrysoberyl
+MSL_MINERAL83,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-columbite,columbite
+MSL_MINERAL84,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-coronadite,coronadite
+MSL_MINERAL85,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-cryptomelane,cryptomelane
+MSL_MINERAL86,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-cuprite,cuprite
+MSL_MINERAL87,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-diaspore,diaspore
+MSL_MINERAL88,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-ferberite,ferberite
+MSL_MINERAL89,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-feroxyhyte,feroxyhyte
+MSL_MINERAL90,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-ferrihydrite,ferrihydrite
+MSL_MINERAL91,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-franklinite,franklinite
+MSL_MINERAL92,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-gahnite,gahnite
+MSL_MINERAL93,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-gibbsite,gibbsite
+MSL_MINERAL94,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-goethite,goethite
+MSL_MINERAL95,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-hausmannite,hausmannite
+MSL_MINERAL96,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-hematite,hematite
+MSL_MINERAL97,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-hercynite,hercynite
+MSL_MINERAL98,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-hollandite,hollandite
+MSL_MINERAL99,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-huebnerite,huebnerite
+MSL_MINERAL100,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-ice,ice
+MSL_MINERAL101,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-ilmenite,ilmenite
+MSL_MINERAL102,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-jacobsite,jacobsite
+MSL_MINERAL103,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-lepidocrocite,lepidocrocite
+MSL_MINERAL104,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-leucoxene,leucoxene
+MSL_MINERAL105,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-limonite,limonite
+MSL_MINERAL106,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-maghemite,maghemite
+MSL_MINERAL107,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-magnesioferrite,magnesioferrite
+MSL_MINERAL108,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-magnetite,magnetite
+MSL_MINERAL109,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-manganite,manganite
+MSL_MINERAL110,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-perovskite,perovskite
+MSL_MINERAL111,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-pyrochlore,pyrochlore
+MSL_MINERAL112,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-pyrolusite,pyrolusite
+MSL_MINERAL113,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-rutile,rutile
+MSL_MINERAL114,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-spinel,spinel
+MSL_MINERAL115,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-titanohematite,titanohematite
+MSL_MINERAL116,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-titanomaghemite,titanomaghemite
+MSL_MINERAL117,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-titanomagnetite,titanomagnetite
+MSL_MINERAL118,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-todorokite,todorokite
+MSL_MINERAL119,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-ulvospinel,ulvospinel
+MSL_MINERAL120,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-uraninite,uraninite
+MSL_MINERAL121,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-wolframite,wolframite
+MSL_MINERAL122,https://epos-msl.uu.nl/voc/materials/1.4/minerals-oxide_mineral-zincite,zincite
+MSL_MINERAL123,https://epos-msl.uu.nl/voc/materials/1.4/minerals-phosphate_minerals-beudantite,beudantite
+MSL_MINERAL124,https://epos-msl.uu.nl/voc/materials/1.4/minerals-phosphate_minerals-durangite,durangite
+MSL_MINERAL125,https://epos-msl.uu.nl/voc/materials/1.4/minerals-phosphate_minerals-fluorapatite,fluorapatite
+MSL_MINERAL126,https://epos-msl.uu.nl/voc/materials/1.4/minerals-phosphate_minerals-mimetite,mimetite
+MSL_MINERAL127,https://epos-msl.uu.nl/voc/materials/1.4/minerals-phosphate_minerals-monazite,monazite
+MSL_MINERAL128,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-cyclosilicates-axinite,axinite
+MSL_MINERAL129,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-cyclosilicates-beryl,beryl
+MSL_MINERAL130,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-cyclosilicates-cordierite,cordierite
+MSL_MINERAL131,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-cyclosilicates-tourmaline,tourmaline
+MSL_MINERAL132,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-actinolite,actinolite
+MSL_MINERAL133,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-anthophyllite,anthophyllite
+MSL_MINERAL134,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-arfvedsonite,arfvedsonite
+MSL_MINERAL135,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-cummingtonite,cummingtonite
+MSL_MINERAL136,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-glaucophane,glaucophane
+MSL_MINERAL137,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-hornblende,hornblende
+MSL_MINERAL138,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-riebeckite,riebeckite
+MSL_MINERAL139,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-amphibole-tremolite,tremolite
+MSL_MINERAL140,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pectolite,pectolite
+MSL_MINERAL141,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-prehnite,prehnite
+MSL_MINERAL142,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-augite,augite
+MSL_MINERAL143,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-diopside,diopside
+MSL_MINERAL144,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-hedenbergite,hedenbergite
+MSL_MINERAL145,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-jadeite,jadeite
+MSL_MINERAL146,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-pigeonite,pigeonite
+MSL_MINERAL147,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_clinopyroxene-spodumene,spodumene
+MSL_MINERAL148,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_orthopyroxene-enstatite,enstatite
+MSL_MINERAL149,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-pyroxene_-_orthopyroxene-ferrosilite,ferrosilite
+MSL_MINERAL150,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-rhodonite,rhodonite
+MSL_MINERAL151,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-inosilicates-wollastonite,wollastonite
+MSL_MINERAL152,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-andalusite,andalusite
+MSL_MINERAL153,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-braunite,braunite
+MSL_MINERAL154,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-coffinite,coffinite
+MSL_MINERAL155,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-datolite,datolite
+MSL_MINERAL156,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-almandine,almandine
+MSL_MINERAL157,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-andradite,andradite
+MSL_MINERAL158,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-grossular,grossular
+MSL_MINERAL159,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-pyrope,pyrope
+MSL_MINERAL160,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-spessartine,spessartine
+MSL_MINERAL161,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-garnet-uvarovite,uvarovite
+MSL_MINERAL162,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-kyanite,kyanite
+MSL_MINERAL163,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-olivine-fayalite,fayalite
+MSL_MINERAL164,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-olivine-forsterite,forsterite
+MSL_MINERAL165,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-phenakite-eucryptite,eucryptite
+MSL_MINERAL166,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-phenakite-phenakite,phenakite
+MSL_MINERAL167,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-phenakite-willemite,willemite
+MSL_MINERAL168,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-sillimanite,sillimanite
+MSL_MINERAL169,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-staurolite,staurolite
+MSL_MINERAL170,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-titanite,titanite
+MSL_MINERAL171,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-topaz,topaz
+MSL_MINERAL172,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-nesosilicates-zircon,zircon
+MSL_MINERAL173,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-apophyllite,apophyllite
+MSL_MINERAL174,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-bementite,bementite
+MSL_MINERAL175,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_kaolinite-chrysocolla,chrysocolla
+MSL_MINERAL176,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_kaolinite-dickite,dickite
+MSL_MINERAL177,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_kaolinite-kaolinite,kaolinite
+MSL_MINERAL178,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_kaolinite-neotocite,neotocite
+MSL_MINERAL179,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-beidellite,beidellite
+MSL_MINERAL180,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-bentonite,bentonite
+MSL_MINERAL181,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-montmorillonite,montmorillonite
+MSL_MINERAL182,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-nontronite,nontronite
+MSL_MINERAL183,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-pyrophyllite,pyrophyllite
+MSL_MINERAL184,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-saponite,saponite
+MSL_MINERAL185,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay_-_smectite-talc,talc
+MSL_MINERAL186,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay-attapulgite,attapulgite
+MSL_MINERAL187,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay-chlorite,chlorite
+MSL_MINERAL188,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay-hectorite,hectorite
+MSL_MINERAL189,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay-illite,illite
+MSL_MINERAL190,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-clay-palygorskite,palygorskite
+MSL_MINERAL191,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-biotite,biotite
+MSL_MINERAL192,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-glauconite,glauconite
+MSL_MINERAL193,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-lepidolite,lepidolite
+MSL_MINERAL194,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-margarite,margarite
+MSL_MINERAL195,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-muscovite,muscovite
+MSL_MINERAL196,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-phlogopite,phlogopite
+MSL_MINERAL197,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-mica-sericite,sericite
+MSL_MINERAL198,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-petalite,petalite
+MSL_MINERAL199,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-serpentine-antigorite,antigorite
+MSL_MINERAL200,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-serpentine-chrysotile,chrysotile
+MSL_MINERAL201,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-phyllosilicates-serpentine-lizardite,lizardite
+MSL_MINERAL202,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-epidote-clinozoisite,clinozoisite
+MSL_MINERAL203,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-epidote-epidote,epidote
+MSL_MINERAL204,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-epidote-zoisite,zoisite
+MSL_MINERAL205,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-hemimorphite,hemimorphite
+MSL_MINERAL206,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-lawsonite,lawsonite
+MSL_MINERAL207,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-niocalite,niocalite
+MSL_MINERAL208,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-pumpellyite,pumpellyite
+MSL_MINERAL209,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-sorosilicates-vesuvianite,vesuvianite
+MSL_MINERAL210,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_k-feldspar-anorthoclase,anorthoclase
+MSL_MINERAL211,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_k-feldspar-microcline,microcline
+MSL_MINERAL212,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_k-feldspar-orthoclase,orthoclase
+MSL_MINERAL213,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_k-feldspar-sanidine,sanidine
+MSL_MINERAL214,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-albite,albite
+MSL_MINERAL215,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-andesine,andesine
+MSL_MINERAL216,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-anorthite,anorthite
+MSL_MINERAL217,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-bytownite,bytownite
+MSL_MINERAL218,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-labradorite,labradorite
+MSL_MINERAL219,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspar_-_plagioclase-oligoclase,oligoclase
+MSL_MINERAL220,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspathoid-lazurite,lazurite
+MSL_MINERAL221,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspathoid-nepheline,nepheline
+MSL_MINERAL222,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-feldspathoid-sodalite,sodalite
+MSL_MINERAL223,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-chalcedony,chalcedony
+MSL_MINERAL224,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-chert,chert
+MSL_MINERAL225,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-cristobalite,cristobalite
+MSL_MINERAL226,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-jasper,jasper
+MSL_MINERAL227,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-opal,opal
+MSL_MINERAL228,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-quartz-tridymite,tridymite
+MSL_MINERAL229,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-zeolite-analcime,analcime
+MSL_MINERAL230,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-zeolite-chabazite,chabazite
+MSL_MINERAL231,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-zeolite-heulandite,heulandite
+MSL_MINERAL232,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-zeolite-leucite,leucite
+MSL_MINERAL233,https://epos-msl.uu.nl/voc/materials/1.4/minerals-silicate_minerals-tectosilicates-zeolite-natrolite,natrolite
+MSL_MINERAL234,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-anglesite,anglesite
+MSL_MINERAL235,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-anhydrite,anhydrite
+MSL_MINERAL236,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-antlerite,antlerite
+MSL_MINERAL237,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-baryte,baryte
+MSL_MINERAL238,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-celestite,celestite
+MSL_MINERAL239,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-chalcanthite,chalcanthite
+MSL_MINERAL240,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-epsomite,epsomite
+MSL_MINERAL241,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-gypsum,gypsum
+MSL_MINERAL242,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfate_minerals-scheelite,scheelite
+MSL_MINERAL243,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-arsenopyrite,arsenopyrite
+MSL_MINERAL244,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-bismuthinite,bismuthinite
+MSL_MINERAL245,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-bornite,bornite
+MSL_MINERAL246,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-bournonite,bournonite
+MSL_MINERAL247,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-calaverite,calaverite
+MSL_MINERAL248,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-carrollite,carrollite
+MSL_MINERAL249,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-chalcocite,chalcocite
+MSL_MINERAL250,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-chalcopyrite,chalcopyrite
+MSL_MINERAL251,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-cinnabar,cinnabar
+MSL_MINERAL252,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-cobaltite,cobaltite
+MSL_MINERAL253,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-coloradoite,coloradoite
+MSL_MINERAL254,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-cooperite,cooperite
+MSL_MINERAL255,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-covellite,covellite
+MSL_MINERAL256,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-cubanite,cubanite
+MSL_MINERAL257,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-daubreelite,daubreelite
+MSL_MINERAL258,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-digenite,digenite
+MSL_MINERAL259,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-enargite,enargite
+MSL_MINERAL260,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-galena,galena
+MSL_MINERAL261,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-gersdorffite,gersdorffite
+MSL_MINERAL262,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-greenockite,greenockite
+MSL_MINERAL263,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-greigite,greigite
+MSL_MINERAL264,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-hessite,hessite
+MSL_MINERAL265,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-jamesonite,jamesonite
+MSL_MINERAL266,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-laurite,laurite
+MSL_MINERAL267,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-loellingite,loellingite
+MSL_MINERAL268,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-luzonite,luzonite
+MSL_MINERAL269,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-mackinawite,mackinawite
+MSL_MINERAL270,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-marcasite,marcasite
+MSL_MINERAL271,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-maucherite,maucherite
+MSL_MINERAL272,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-millerite,millerite
+MSL_MINERAL273,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-molybdenite,molybdenite
+MSL_MINERAL274,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-naumannite,naumannite
+MSL_MINERAL275,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-orpiment,orpiment
+MSL_MINERAL276,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-pararammelsbergite,pararammelsbergite
+MSL_MINERAL277,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-pentlandite,pentlandite
+MSL_MINERAL278,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-proustite,proustite
+MSL_MINERAL279,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-pyrargyrite,pyrargyrite
+MSL_MINERAL280,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-pyrite,pyrite
+MSL_MINERAL281,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-pyrrhotite,pyrrhotite
+MSL_MINERAL282,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-realgar,realgar
+MSL_MINERAL283,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-skutterudite,skutterudite
+MSL_MINERAL284,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-sperrylite,sperrylite
+MSL_MINERAL285,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-sphalerite,sphalerite
+MSL_MINERAL286,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-stannite,stannite
+MSL_MINERAL287,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-stibnite,stibnite
+MSL_MINERAL288,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-sylvanite,sylvanite
+MSL_MINERAL289,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-tennantite,tennantite
+MSL_MINERAL290,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-tetrahedrite,tetrahedrite
+MSL_MINERAL291,https://epos-msl.uu.nl/voc/materials/1.4/minerals-sulfide_minerals-valleriite,valleriite
+MSL_MINERAL292,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-cathodoluminescence_cl_spectroscopy,cathodoluminescence (CL) spectroscopy
+MSL_MINERAL293,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-electron_energy_loss_spectroscopy_eels,electron energy loss spectroscopy (EELS)
+MSL_MINERAL294,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-energy_dispersive_x-ray_spectroscopy_eds_edx-eds_in_2d,EDS in 2D
+MSL_MINERAL295,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-energy_dispersive_x-ray_spectroscopy_eds_edx-eds_in_3d,EDS in 3D
+MSL_MINERAL296,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-infrared_spectroscopy-fourier_transform_infrared_spectroscopy_ftir,fourier transform infrared spectroscopy (FTIR)
+MSL_MINERAL297,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-raman_spectrometry_-_chemistry_and_mineralogy,Raman spectrometry - chemistry and mineralogy
+MSL_MINERAL298,https://epos-msl.uu.nl/voc/microscopy/1.4/technique-chemical_and_mineralogical_analysis-wavelength-dispersive_x-ray_spectroscopy_wds,wavelength-dispersive x-ray spectroscopy (WDS)
