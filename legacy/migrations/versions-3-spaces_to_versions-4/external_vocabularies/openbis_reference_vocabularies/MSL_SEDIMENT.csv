@@ -1,0 +1,28 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_SEDIMENT,https://epos-msl.uu.nl/voc/materials/1.4/|https://epos-msl.uu.nl/voc/paleomagnetism/1.4/,
+Code,Description,Label
+MSL_SEDIMENT1,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-deformation_and_compaction_in_sediments,deformation and compaction in sediments
+MSL_SEDIMENT2,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anisotropy_through_rock_structure-magnetic_anisotropy_through_sedimentary_structure,magnetic anisotropy through sedimentary structure
+MSL_SEDIMENT3,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-biogenic_sediment-carbonate_ooze,carbonate ooze
+MSL_SEDIMENT4,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-biogenic_sediment-siliceous_ooze,siliceous ooze
+MSL_SEDIMENT5,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-carbonate_sediment-carbonate_mud,carbonate mud
+MSL_SEDIMENT6,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-carbonate_sediment-dolomitic_sediment,dolomitic sediment
+MSL_SEDIMENT7,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-clay,clay
+MSL_SEDIMENT8,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-diamicton,diamicton
+MSL_SEDIMENT9,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-gravel,gravel
+MSL_SEDIMENT10,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-mud,mud
+MSL_SEDIMENT11,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-sand-fontainebleau_sand,Fontainebleau sand
+MSL_SEDIMENT12,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-sand-heksenberg_sand,Heksenberg sand
+MSL_SEDIMENT13,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-sand-ottowa_sand,Ottowa sand
+MSL_SEDIMENT14,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-sand-st_peter_sand,St. Peter sand
+MSL_SEDIMENT15,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-clastic_sediment-silt,silt
+MSL_SEDIMENT16,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-organic_rich_sediment-peat,peat
+MSL_SEDIMENT17,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-organic_rich_sediment-sapropel,sapropel
+MSL_SEDIMENT18,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-ash_breccia,ash breccia
+MSL_SEDIMENT19,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-lapilli_ash,lapilli ash
+MSL_SEDIMENT20,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-lapilli_tephra,lapilli tephra
+MSL_SEDIMENT21,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-pumice,pumice
+MSL_SEDIMENT22,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-pyroclastic_bomb,pyroclastic bomb
+MSL_SEDIMENT23,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-scoria,scoria
+MSL_SEDIMENT24,https://epos-msl.uu.nl/voc/materials/1.4/unconsolidated_sediment-tephra-volcanic_ash,volcanic ash

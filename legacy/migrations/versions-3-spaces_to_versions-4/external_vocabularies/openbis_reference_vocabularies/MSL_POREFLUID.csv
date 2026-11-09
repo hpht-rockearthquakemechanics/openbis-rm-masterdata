@@ -1,0 +1,24 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_POREFLUID,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/|https://epos-msl.uu.nl/voc/porefluids/1.4/|https://epos-msl.uu.nl/voc/rockphysics/1.4/,
+Code,Description,Label
+MSL_POREFLUID1,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-ambient_air,ambient air
+MSL_POREFLUID2,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-argon_ar,argon (Ar)
+MSL_POREFLUID3,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-carbon_dioxide_co2,carbon dioxide (CO2)
+MSL_POREFLUID4,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-hydrogen_h2,hydrogen (H2)
+MSL_POREFLUID5,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-methane_ch4,methane (CH4)
+MSL_POREFLUID6,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-nitrogen_n2,nitrogen (N2)
+MSL_POREFLUID7,https://epos-msl.uu.nl/voc/porefluids/1.4/gas_phase-oxygen_o2,oxygen (O2)
+MSL_POREFLUID8,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-decane,decane
+MSL_POREFLUID9,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-oil_in_pores-hydrocarbon_oil,hydrocarbon oil
+MSL_POREFLUID10,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-oil_in_pores-mineral_oil,mineral oil
+MSL_POREFLUID11,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-oil_in_pores-silicon_oil,silicon oil
+MSL_POREFLUID12,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-salt_brine,salt brine
+MSL_POREFLUID13,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-water_in_pores-de-ionized_water,de-ionized water
+MSL_POREFLUID14,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-water_in_pores-demineralized_water,demineralized water
+MSL_POREFLUID15,https://epos-msl.uu.nl/voc/porefluids/1.4/liquid_phase-water_in_pores-tap_water_in_pores,tap water in pores
+MSL_POREFLUID16,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-coupled_mechanical-chemical_effects-pore_fluid_composition,pore fluid composition
+MSL_POREFLUID17,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-pore_fluid_pressure,pore fluid pressure
+MSL_POREFLUID18,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-pore_fluid_pressure,pore fluid pressure
+MSL_POREFLUID19,https://epos-msl.uu.nl/voc/porefluids/1.4/solid_phase-ice_in_pores,ice in pores
+MSL_POREFLUID20,https://epos-msl.uu.nl/voc/porefluids/1.4/vacuum,vacuum

@@ -1,0 +1,83 @@
+﻿Label;Dizionario_Vecchio;Codice_Vecchio;Dizionario_Nuovo;Codice_Nuovo;Nuovo_URI_Pubblico
+Length;PHYSICALQUANTITIES;PHQ1;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND433;http://qudt.org/vocab/quantitykind/Length
+Mass;PHYSICALQUANTITIES;PHQ2;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND503;http://qudt.org/vocab/quantitykind/Mass
+Time;PHYSICALQUANTITIES;PHQ3;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND933;http://qudt.org/vocab/quantitykind/Time
+Electric Current;PHYSICALQUANTITIES;PHQ4;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND227;http://qudt.org/vocab/quantitykind/ElectricCurrent
+Temperature;PHYSICALQUANTITIES;PHQ5;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND890;http://qudt.org/vocab/quantitykind/Temperature
+Amount of substance;PHYSICALQUANTITIES;PHQ6;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND27;http://qudt.org/vocab/quantitykind/AmountOfSubstance
+Luminous intensity;PHYSICALQUANTITIES;PHQ7;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND480;http://qudt.org/vocab/quantitykind/LuminousIntensity
+Absorbed dose rate;PHYSICALQUANTITIES;PHQ9;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND4;http://qudt.org/vocab/quantitykind/AbsorbedDoseRate
+Acceleration;PHYSICALQUANTITIES;PHQ10;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND6;http://qudt.org/vocab/quantitykind/Acceleration
+Angular acceleration;PHYSICALQUANTITIES;PHQ11;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND34;http://qudt.org/vocab/quantitykind/AngularAcceleration
+Angular momentum;PHYSICALQUANTITIES;PHQ12;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND39;http://qudt.org/vocab/quantitykind/AngularMomentum
+Angular velocity;PHYSICALQUANTITIES;PHQ13;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND42;http://qudt.org/vocab/quantitykind/AngularVelocity
+Area;PHYSICALQUANTITIES;PHQ14;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND48;http://qudt.org/vocab/quantitykind/Area
+Capacitance;PHYSICALQUANTITIES;PHQ16;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND97;http://qudt.org/vocab/quantitykind/Capacitance
+Catalytic activity concentration;PHYSICALQUANTITIES;PHQ17;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND103;http://qudt.org/vocab/quantitykind/CatalyticActivityConcentration
+Chemical potential;PHYSICALQUANTITIES;PHQ19;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND118;http://qudt.org/vocab/quantitykind/ChemicalPotential
+Dose equivalent;PHYSICALQUANTITIES;PHQ22;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND198;http://qudt.org/vocab/quantitykind/DoseEquivalent
+Dynamic viscosity;PHYSICALQUANTITIES;PHQ23;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND209;http://qudt.org/vocab/quantitykind/DynamicViscosity
+Electric charge;PHYSICALQUANTITIES;PHQ24;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND217;http://qudt.org/vocab/quantitykind/ElectricCharge
+Electric charge density;PHYSICALQUANTITIES;PHQ25;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND218;http://qudt.org/vocab/quantitykind/ElectricChargeDensity
+Electric dipole moment;PHYSICALQUANTITIES;PHQ26;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND234;http://qudt.org/vocab/quantitykind/ElectricDipoleMoment
+Electric displacement field;PHYSICALQUANTITIES;PHQ27;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND236;http://qudt.org/vocab/quantitykind/ElectricDisplacementField
+Electric field strength;PHYSICALQUANTITIES;PHQ28;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND238;http://qudt.org/vocab/quantitykind/ElectricFieldStrength
+Electric potential;PHYSICALQUANTITIES;PHQ31;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND243;http://qudt.org/vocab/quantitykind/ElectricPotential
+Energy;PHYSICALQUANTITIES;PHQ34;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND263;http://qudt.org/vocab/quantitykind/Energy
+Energy density;PHYSICALQUANTITIES;PHQ35;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND266;http://qudt.org/vocab/quantitykind/EnergyDensity
+Entropy;PHYSICALQUANTITIES;PHQ36;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND280;http://qudt.org/vocab/quantitykind/Entropy
+Force;PHYSICALQUANTITIES;PHQ37;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND315;http://qudt.org/vocab/quantitykind/Force
+Frequency;PHYSICALQUANTITIES;PHQ38;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND323;http://qudt.org/vocab/quantitykind/Frequency
+Half-life;PHYSICALQUANTITIES;PHQ39;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND349;http://qudt.org/vocab/quantitykind/Half-Life
+Heat;PHYSICALQUANTITIES;PHQ40;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND355;http://qudt.org/vocab/quantitykind/Heat
+Heat capacity;PHYSICALQUANTITIES;PHQ41;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND356;http://qudt.org/vocab/quantitykind/HeatCapacity
+Heat flux density;PHYSICALQUANTITIES;PHQ42;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND360;http://qudt.org/vocab/quantitykind/HeatFluxDensity
+Illuminance;PHYSICALQUANTITIES;PHQ43;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND369;http://qudt.org/vocab/quantitykind/SphericalIlluminance
+Illuminance;PHYSICALQUANTITIES;PHQ43;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND370;http://qudt.org/vocab/quantitykind/Illuminance
+Impedance;PHYSICALQUANTITIES;PHQ44;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND371;http://qudt.org/vocab/quantitykind/Impedance
+Inductance;PHYSICALQUANTITIES;PHQ46;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND375;http://qudt.org/vocab/quantitykind/Inductance
+Irradiance;PHYSICALQUANTITIES;PHQ47;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND415;http://qudt.org/vocab/quantitykind/Irradiance
+Linear density;PHYSICALQUANTITIES;PHQ51;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND450;http://qudt.org/vocab/quantitykind/LinearDensity
+Magnetic field strength;PHYSICALQUANTITIES;PHQ54;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND488;http://qudt.org/vocab/quantitykind/MagneticFieldStrength_H
+Magnetic field strength;PHYSICALQUANTITIES;PHQ54;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND489;http://qudt.org/vocab/quantitykind/MagneticFieldStrength
+Magnetic flux;PHYSICALQUANTITIES;PHQ55;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND490;http://qudt.org/vocab/quantitykind/MagneticFlux
+Magnetic flux density;PHYSICALQUANTITIES;PHQ56;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND491;http://qudt.org/vocab/quantitykind/MagneticFluxDensity
+Magnetization;PHYSICALQUANTITIES;PHQ57;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND500;http://qudt.org/vocab/quantitykind/Magnetization
+Mass fraction;PHYSICALQUANTITIES;PHQ58;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND519;http://qudt.org/vocab/quantitykind/MassFraction
+Mean lifetime;PHYSICALQUANTITIES;PHQ60;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND549;http://qudt.org/vocab/quantitykind/MeanLifetime
+Molar energy;PHYSICALQUANTITIES;PHQ62;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND575;http://qudt.org/vocab/quantitykind/MolarEnergy
+Molar entropy;PHYSICALQUANTITIES;PHQ63;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND576;http://qudt.org/vocab/quantitykind/MolarEntropy
+Molar heat capacity;PHYSICALQUANTITIES;PHQ64;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND583;http://qudt.org/vocab/quantitykind/MolarHeatCapacity
+Moment of inertia;PHYSICALQUANTITIES;PHQ65;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND594;http://qudt.org/vocab/quantitykind/MomentOfInertia
+Momentum;PHYSICALQUANTITIES;PHQ66;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND599;http://qudt.org/vocab/quantitykind/Momentum
+Permeability;PHYSICALQUANTITIES;PHQ68;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND650;http://qudt.org/vocab/quantitykind/ElectromagneticPermeability
+Permeability;PHYSICALQUANTITIES;PHQ68;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND651;http://qudt.org/vocab/quantitykind/Permeability
+Permittivity;PHYSICALQUANTITIES;PHQ69;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND654;http://qudt.org/vocab/quantitykind/Permittivity
+Plane angle;PHYSICALQUANTITIES;PHQ70;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND667;http://qudt.org/vocab/quantitykind/PlaneAngle
+Power;PHYSICALQUANTITIES;PHQ71;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND681;http://qudt.org/vocab/quantitykind/Power
+Pressure;PHYSICALQUANTITIES;PHQ72;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND693;http://qudt.org/vocab/quantitykind/Pressure
+Radiance;PHYSICALQUANTITIES;PHQ76;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND718;http://qudt.org/vocab/quantitykind/Radiance
+Radiant intensity;PHYSICALQUANTITIES;PHQ77;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND727;http://qudt.org/vocab/quantitykind/RadiantIntensity
+Refractive index;PHYSICALQUANTITIES;PHQ79;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND746;http://qudt.org/vocab/quantitykind/RefractiveIndex
+Reluctance;PHYSICALQUANTITIES;PHQ80;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND758;http://qudt.org/vocab/quantitykind/Reluctance
+Solid angle;PHYSICALQUANTITIES;PHQ81;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND802;http://qudt.org/vocab/quantitykind/SolidAngle
+Specific energy;PHYSICALQUANTITIES;PHQ82;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND823;http://qudt.org/vocab/quantitykind/SpecificEnergy
+Specific heat capacity;PHYSICALQUANTITIES;PHQ83;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND828;http://qudt.org/vocab/quantitykind/SpecificHeatCapacity
+Specific volume;PHYSICALQUANTITIES;PHQ84;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND845;http://qudt.org/vocab/quantitykind/SpecificVolume
+Spin;PHYSICALQUANTITIES;PHQ85;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND855;http://qudt.org/vocab/quantitykind/Spin
+Strain;PHYSICALQUANTITIES;PHQ86;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND873;http://qudt.org/vocab/quantitykind/Strain
+Stress;PHYSICALQUANTITIES;PHQ87;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND876;http://qudt.org/vocab/quantitykind/Stress
+Surface tension;PHYSICALQUANTITIES;PHQ88;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND886;http://qudt.org/vocab/quantitykind/SurfaceTension
+Temperature gradient;PHYSICALQUANTITIES;PHQ89;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND893;http://qudt.org/vocab/quantitykind/TemperatureGradient
+Thermal conductance;PHYSICALQUANTITIES;PHQ90;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND905;http://qudt.org/vocab/quantitykind/ThermalConductance
+Thermal conductivity;PHYSICALQUANTITIES;PHQ91;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND906;http://qudt.org/vocab/quantitykind/ThermalConductivity
+Thermal resistance;PHYSICALQUANTITIES;PHQ92;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND916;http://qudt.org/vocab/quantitykind/ThermalResistance
+Thermal resistivity;PHYSICALQUANTITIES;PHQ93;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND917;http://qudt.org/vocab/quantitykind/ThermalResistivity
+Torque;PHYSICALQUANTITIES;PHQ94;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND938;http://qudt.org/vocab/quantitykind/Torque
+Velocity;PHYSICALQUANTITIES;PHQ95;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND967;http://qudt.org/vocab/quantitykind/Velocity
+Volume;PHYSICALQUANTITIES;PHQ96;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND978;http://qudt.org/vocab/quantitykind/Volume
+Volume;PHYSICALQUANTITIES;PHQ96;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND979;http://qudt.org/vocab/quantitykind/CartesianVolume
+Wavelength;PHYSICALQUANTITIES;PHQ98;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND998;http://qudt.org/vocab/quantitykind/Wavelength
+Wavenumber;PHYSICALQUANTITIES;PHQ99;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND999;http://qudt.org/vocab/quantitykind/Wavenumber
+Weight;PHYSICALQUANTITIES;PHQ101;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND1003;http://qudt.org/vocab/quantitykind/Weight
+Work;PHYSICALQUANTITIES;PHQ102;QUDT_QUANTITYKIND;QUDT_QUANTITYKIND1006;http://qudt.org/vocab/quantitykind/Work

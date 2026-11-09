@@ -1,0 +1,84 @@
+Concept_URI,Label_EN,Ontology_Source,Vocab_Version
+http://sweetontology.net/statePhysical/Bubble,bubble,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Burned,burned,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Calm,calm,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Charged,charged,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Condensed,condensed,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Constructive,constructive,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Deiced,deiced,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Destructive,destructive,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Diluted,diluted,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Dissolved,dissolved,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Droplet,droplet,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Dry,dry,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Eddy,eddy,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Fast,fast,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Ferroelectric,ferroelectric,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Film,film,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Filtered,filtered,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Floating,floating,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Fluid,fluid,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Fragment,fragment,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/FreeOscillation,free oscillation,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Frozen,frozen,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Gale,gale,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Gas,gas,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Gaseous,gaseous,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Gentle,gentle,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Heavy,heavy,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/HighFrequency,high frequency,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Humid,humid,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hydrolyzable,hydrolyzable,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hydrophilic,hydrophilic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hydrophobic,hydrophobic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hygroscopic,hygroscopic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hypergravity,hypergravity,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Hypogravity,hypogravity,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Impermeable,impermeable,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Intermittent,intermittent,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Ionized,ionized,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/IonizedState,ionized state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Isobaric,isobaric,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Isochoric,isochoric,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Isohalic,isohalic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Isostacy,isostacy,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Isostatic,isostatic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Light,light,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Liquid,liquid,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/LowFrequency,low frequency,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Moist,moist,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/MoistureState,moisture state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Neutral,neutral,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/NeutralState,neutral state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/NonThermalPlasma,non thermal plasma,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/NormalMode,normal mode,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Occasional,occasional,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Particle,particle,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Pellicular,pellicular,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Peraelectric,peraelectric,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Permeable,permeable,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/PhysicalState,physical state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Pillow,pillow,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Plasma,plasma,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Porous,porous,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/QuasiNeutral,quasi neutral,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Quiescent,quiescent,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Radiative,radiative,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/RainState,rain state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Rapid,rapid,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Scattered,scattered,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Severe,severe,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Slow,slow,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Solid,solid,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/SpeedState,speed state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/StateOfMatter,state of matter,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Subsonic,subsonic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/SubstanceForm,substance form,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Supersonic,supersonic,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Suspended,suspended,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/ThermalPlasma,thermal plasma,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Vapor,vapor,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/WaveState,wave state,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Wet,wet,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/ZeroG,zero g,SWEET_PhysicalStates,SWEET-v3.6.0
+http://sweetontology.net/statePhysical/Zonal,zonal,SWEET_PhysicalStates,SWEET-v3.6.0

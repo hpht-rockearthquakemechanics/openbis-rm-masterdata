@@ -1,0 +1,68 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_SOFTWARE,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/,
+Code,Description,Label
+MSL_SOFTWARE1,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-3d_e-scan,3D e-scan
+MSL_SOFTWARE2,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-arcgis,ArcGIS
+MSL_SOFTWARE3,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-arcinfo,ArcInfo
+MSL_SOFTWARE4,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-arcmap,ArcMap
+MSL_SOFTWARE5,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-arcpad,ArcPad
+MSL_SOFTWARE6,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-cloudcompare,CloudCompare
+MSL_SOFTWARE7,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-digital_image_correlation_dic-cosi-corr,COSI-Corr
+MSL_SOFTWARE8,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-digital_image_correlation_dic-particle_image_velocimetry_piv-piv_-_matpiv,PIV - MatPIV
+MSL_SOFTWARE9,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-digital_image_correlation_dic-particle_image_velocimetry_piv-piv_-_pivlab,PIV - PIVlab
+MSL_SOFTWARE10,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-digital_image_correlation_dic-particle_image_velocimetry_piv-piv_-_tecpiv,PIV - TecPIV
+MSL_SOFTWARE11,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-digital_image_correlation_dic-strainmaster_la_vision_gmbh,StrainMaster (La Vision GmbH)
+MSL_SOFTWARE12,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-envi-idl,Envi-IDL
+MSL_SOFTWARE13,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-erdas_leyca,Erdas (LEYCA)
+MSL_SOFTWARE14,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-feature_tracking,Feature Tracking
+MSL_SOFTWARE15,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-geomodeller_intrepid_geoscience,Geomodeller (Intrepid Geoscience)
+MSL_SOFTWARE16,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-geosec,GeoSec
+MSL_SOFTWARE17,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-geotools_aoa_geophysics_inc,GeoTools (AOA Geophysics Inc)
+MSL_SOFTWARE18,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-gocad_earth_decision_-_paradigm,GOCAD (Earth Decision - Paradigm)
+MSL_SOFTWARE19,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-labview_data_viewer,LabView Data Viewer
+MSL_SOFTWARE20,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-labview_deformation_mapper,LabView Deformation Mapper
+MSL_SOFTWARE21,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-labview_software_generic,LabView Software (Generic)
+MSL_SOFTWARE22,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-lens_agisoft,Lens (Agisoft)
+MSL_SOFTWARE23,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-light-3d,Light-3D
+MSL_SOFTWARE24,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-makina,Makina
+MSL_SOFTWARE25,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-matlab_mathworks,Matlab (Mathworks)
+MSL_SOFTWARE26,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-meshlab,MeshLab
+MSL_SOFTWARE27,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-microstation_xm_bentley,Microstation XM (Bentley)
+MSL_SOFTWARE28,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-move_midland_valley,Move (Midland Valley)
+MSL_SOFTWARE29,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-optical_flow,Optical Flow
+MSL_SOFTWARE30,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-optum,OPTUM
+MSL_SOFTWARE31,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-osirix,Osirix
+MSL_SOFTWARE32,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-particle_flow_code_numerical_software,Particle Flow Code (numerical software)
+MSL_SOFTWARE33,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-pathfinder_trimble,Pathfinder (Trimble)
+MSL_SOFTWARE34,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-petrel_schlumberger,Petrel (Schlumberger)
+MSL_SOFTWARE35,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-petromod_schlumberger,Petromod (Schlumberger)
+MSL_SOFTWARE36,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-polyworks_innovmetric,Polyworks (Innovmetric)
+MSL_SOFTWARE37,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-promax_landmark,Promax (Landmark)
+MSL_SOFTWARE38,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-pylith_numerical_software,PyLith (numerical software)
+MSL_SOFTWARE39,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-qdyn_numerical_software,QDYN (numerical software)
+MSL_SOFTWARE40,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-rapidform_2004,Rapidform 2004
+MSL_SOFTWARE41,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-realscan_usb,RealScan USB
+MSL_SOFTWARE42,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-rheocompass,RheoCompass
+MSL_SOFTWARE43,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-rheoplus,RheoPlus
+MSL_SOFTWARE44,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-rms_roxar,RMS (Roxar)
+MSL_SOFTWARE45,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-seiswork_landmark,Seiswork (Landmark)
+MSL_SOFTWARE46,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-slamtec,SLAMTEC
+MSL_SOFTWARE47,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-solidworks,Solidworks
+MSL_SOFTWARE48,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-stereoscan_agisoft,StereoScan (Agisoft)
+MSL_SOFTWARE49,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_3df_zephyr_3dflow,SfM - 3DF Zephyr (3Dflow)
+MSL_SOFTWARE50,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_apero,SfM - Apero
+MSL_SOFTWARE51,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_micmac,SfM - MicMac
+MSL_SOFTWARE52,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_openmvs_open_multiple_view_stereovision,SfM - OpenMVS Open Multiple View Stereovision
+MSL_SOFTWARE53,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_photoscan_agisoft-metashape,SfM - Photoscan (Agisoft-Metashape)
+MSL_SOFTWARE54,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_pix4d_analist_group,SfM - Pix4d (Analist Group)
+MSL_SOFTWARE55,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_python_photogrammetry_toolbox_ppt,SfM - Python Photogrammetry Toolbox (PPT)
+MSL_SOFTWARE56,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-structure_from_motion_sfm-sfm_-_remake_autodesk,SfM - Remake (Autodesk)
+MSL_SOFTWARE57,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-terrasync_trimble,Terrasync (Trimble)
+MSL_SOFTWARE58,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-the_kingdom_suite_smt,The Kingdom Suite (SMT)
+MSL_SOFTWARE59,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-toppad_topcon,TopPad (Topcon)
+MSL_SOFTWARE60,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-ulysses_3d_scanner_software,Ulysses 3D scanner software
+MSL_SOFTWARE61,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-videocamera_software_avt,Videocamera software (AVT)
+MSL_SOFTWARE62,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-visual_basic_microsoft,Visual Basic (Microsoft)
+MSL_SOFTWARE63,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-visual_fortran_compaq,Visual Fortran (Compaq)
+MSL_SOFTWARE64,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/software-visual_studio_microsoft,Visual Studio (Microsoft)

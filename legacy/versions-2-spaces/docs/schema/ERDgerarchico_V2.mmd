@@ -1,0 +1,201 @@
+---
+config:
+  theme: default
+  layout: elk
+title: Metadata model (2 — spaces)
+---
+%% Style and entity attributes follow the V3 nicer Mermaid convention.
+%% Hierarchy is transcribed from ERDgerarchico_V2.drawio; Mermaid cardinality markers are visual conventions, not inferred constraints.
+%% Draw.io OR decision diamonds are expanded into direct entity relationships.
+%% Unsupported characters in legacy property codes are rendered as underscores for Mermaid compatibility.
+%% DATASET and REDUCED_DATASET are historical diagram nodes, not V2 workbook object-type codes; NAME is transcribed from ERDgerarchico_V2.drawio.
+erDiagram
+    direction TB
+    CORE }o--o{ GOUGE : isparent
+    ROCK }o--o{ GOUGE : isparent
+    ARTIFICIAL }o--o{ GOUGE : isparent
+    CORE }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    ROCK }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_BLOCK : isparent
+    CORE }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    ROCK }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_CYLINDER : isparent
+    CORE }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    ROCK }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    ARTIFICIAL }o--o{ SOLID_SAMPLE_HOLLOWCYLINDER : isparent
+    GOUGE }o--o{ GOUGE_PROPORTION : isproperty
+    GOUGE_PROPORTION }o--o{ GOUGE_MIXTURE : isparent
+    GOUGE }o--o{ POWDERED_SAMPLE : isparent
+    GOUGE_MIXTURE }o--o{ POWDERED_SAMPLE : isparent
+    SOLID_SAMPLE_BLOCK }o--o{ SAWCUT : isparent
+    SOLID_SAMPLE_CYLINDER }o--o{ SAWCUT : isparent
+    SOLID_SAMPLE_HOLLOWCYLINDER }o--o{ SAWCUT : isparent
+    SOLID_SAMPLE_BLOCK }o--o{ MEASUREMENT : isparent
+    SOLID_SAMPLE_CYLINDER }o--o{ MEASUREMENT : isparent
+    SOLID_SAMPLE_HOLLOWCYLINDER }o--o{ MEASUREMENT : isparent
+    SAWCUT }o--o{ MEASUREMENT : isparent
+    POWDERED_SAMPLE }o--o{ MEASUREMENT : isparent
+    ASSEMBLY }o--o{ MEASUREMENT : isparent
+    APPARATUS }o--o{ MEASUREMENT : isparent
+    PERSON }o--o{ MEASUREMENT : isparent
+    FLUID }o--o{ MEASUREMENT : isparent
+    MEASUREMENT }o--o{ STEP : isparent
+    STEP }o--o{ EVENT : isparent
+    APPARATUS }o--o{ ASSEMBLY : isparent
+    ASSEMBLY }o--o{ COMPONENT : isparent
+    ARTIFICIAL }o--o{ COMPONENT : isparent
+    APPARATUS }o--o{ ACTUATOR : isparent
+    APPARATUS }o--o{ SENSOR : isparent
+    ACTUATOR }o--o{ VARIABLE : isparent
+    ACTUATOR }o--o{ PROPERTY : isparent
+    SENSOR }o--o{ VARIABLE : isparent
+    SENSOR }o--o{ PROPERTY : isparent
+    STEP }o--o{ VARIABLE : isparent
+    STEP }o--o{ PROPERTY : isparent
+    EVENT }o--o{ VARIABLE : isparent
+    EVENT }o--o{ PROPERTY : isparent
+    MEASUREMENT }o--o{ DATASET : contains
+    PERSON }o--o{ DATASET : isparent
+    PERSON }o--o{ REDUCED_DATASET : isparent
+    DATASET }o--o{ REDUCED_DATASET : derives
+
+    CORE{
+        varchar CORE_CORE
+        integer CORE_EXPEDITION_LEG
+        varchar CORE_HOLE
+        integer CORE_INTERVAL_MAX
+        integer CORE_INTERVAL_MIN
+        integer CORE_SECTION
+        integer CORE_SITE
+    }
+    ROCK{
+        varchar ROCK_NAME
+        varchar ROCK_ORIGIN
+        vocabulary ROCK_TYPE
+    }
+    ARTIFICIAL{
+        varchar ARTIFICIAL_NAME
+        varchar ARTIFICIAL_ORIGIN
+        vocabulary ARTIFICIAL_TYPE
+    }
+    FLUID{
+        varchar FLUID_NAME
+        varchar FLUID_ORIGIN
+        vocabulary FLUID_TYPE
+    }
+    GOUGE{
+        integer GOUGE_GRAINSIZE_MAX
+        integer GOUGE_GRAINSIZE_MIN
+    }
+    GOUGE_PROPORTION{
+        object GOUGE_PROPORTION_GOUGE
+        real GOUGE_PROPORTION_PROPORTION
+    }
+    GOUGE_MIXTURE{
+        varchar GOUGE_MIXTURE_NAME
+    }
+    POWDERED_SAMPLE{
+        real PS_MASS
+        real PS_THICKNESS
+    }
+    SOLID_SAMPLE_BLOCK{
+        real SSB_H
+        real SSB_L
+        varchar SSB_LABEL
+        real SSB_W
+    }
+    SOLID_SAMPLE_CYLINDER{
+        varchar SSC_LABEL
+        real SSC_OD
+    }
+    SOLID_SAMPLE_HOLLOWCYLINDER{
+        real SSHC_ID
+        varchar SSHC_LABEL
+        real SSHC_OD
+    }
+    SAWCUT{
+        real SAWCUT_ANGLE_MPS
+        integer SAWCUT_ROUGHNESS
+    }
+    APPARATUS{
+        varchar APPARATUS_CODE
+        varchar APPARATUS_DESCRIPTION
+        varchar APPARATUS_NAME
+        varchar APPARATUS_PRODUCER
+    }
+    ASSEMBLY{
+        varchar ASSEMBLY_DESCRIPTION
+        varchar ASSEMBLY_NAME
+    }
+    COMPONENT{
+        varchar COMPONENT_NAME
+    }
+    ACTUATOR{
+        varchar ACTUATOR_CODE
+        varchar ACTUATOR_NAME
+        varchar ACTUATOR_PRODUCER
+    }
+    SENSOR{
+        real SENSOR_ACCURACY
+        varchar SENSOR_CODE
+        varchar SENSOR_NAME
+        vocabulary SENSOR_PHYSICAL_QUANTITY
+        varchar SENSOR_PRODUCER
+        real SENSOR_RANGE_MAX
+        real SENSOR_RANGE_MIN
+        vocabulary SENSOR_RANGE_UNIT
+    }
+    PERSON{
+        varchar PERSON_INSTITUTION
+        varchar PERSON_NAME
+        varchar PERSON_NOWAT
+        varchar PERSON_SURNAME
+    }
+    MEASUREMENT{
+        timestamp MEASUREMENT_ENDDATE
+        varchar MEASUREMENT_GOALS
+        varchar MEASUREMENT_NAME
+        varchar MEASUREMENT_OUTCOME
+        timestamp MEASUREMENT_STARTDATE
+        vocabulary MEASUREMENT_TYPE
+    }
+    STEP{
+        integer STEP_ORDER
+        vocabulary STEP_TYPE
+    }
+    EVENT{
+        varchar EVENT_DESCRIPTION
+        integer EVENT_RN_END
+        integer EVENT_RN_START
+    }
+    VARIABLE{
+        varchar VARIABLE_DESCRIPTION
+        vocabulary VARIABLE_PHYSICAL_QUANTITY
+        vocabulary VARIABLE_UNIT
+        real VARIABLE_VALUE
+    }
+    PROPERTY{
+        varchar PROPERTY_NAME
+        varchar PROPERTY_VALUE
+    }
+    DATASET{
+        varchar NAME
+    }
+    REDUCED_DATASET{
+        varchar NAME
+    }
+
+    %% CLASS GROUPS
+    classDef basicmaterials fill:#e5ffe5,stroke:#187,stroke-width:2px
+    classDef specimens fill:#fff3e0,stroke:#ea9600,stroke-width:2px
+    classDef instruments fill:#d4d4d4,stroke:#8a8a8a,stroke-width:2px
+    classDef people fill:#ff8585,stroke:#ff0505,stroke-width:2px
+    classDef experimental fill:#7dffa6,stroke:#00ff50,stroke-width:2px
+    classDef derived fill:#ffe285,stroke:#ffc200,stroke-width:2px
+
+    class CORE,ROCK,ARTIFICIAL,FLUID basicmaterials
+    class GOUGE,GOUGE_PROPORTION,GOUGE_MIXTURE,POWDERED_SAMPLE,SOLID_SAMPLE_BLOCK,SOLID_SAMPLE_CYLINDER,SOLID_SAMPLE_HOLLOWCYLINDER,SAWCUT specimens
+    class APPARATUS,ASSEMBLY,COMPONENT,ACTUATOR,SENSOR instruments
+    class PERSON people
+    class MEASUREMENT,STEP,EVENT experimental
+    class VARIABLE,PROPERTY,DATASET,REDUCED_DATASET derived

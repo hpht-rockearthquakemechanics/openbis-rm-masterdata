@@ -1,0 +1,365 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_MEASUREDPROPERTY,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/|https://epos-msl.uu.nl/voc/geochemistry/1.4/|https://epos-msl.uu.nl/voc/paleomagnetism/1.4/|https://epos-msl.uu.nl/voc/rockphysics/1.4/,
+Code,Description,Label
+MSL_MEASUREDPROPERTY1,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-acetate,acetate
+MSL_MEASUREDPROPERTY2,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_count,acoustic emission (AE) count
+MSL_MEASUREDPROPERTY3,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_count,acoustic emission (AE) count
+MSL_MEASUREDPROPERTY4,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_energy,acoustic emission (AE) energy
+MSL_MEASUREDPROPERTY5,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_energy,acoustic emission (AE) energy
+MSL_MEASUREDPROPERTY6,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_location,acoustic emission (AE) location
+MSL_MEASUREDPROPERTY7,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-acoustic_emission_ae-acoustic_emission_ae_location,acoustic emission (AE) location
+MSL_MEASUREDPROPERTY8,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-argon-argon_age,argon-argon age
+MSL_MEASUREDPROPERTY9,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-carbon-14_age,carbon-14 age
+MSL_MEASUREDPROPERTY10,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-lead-lead_age,lead-lead age
+MSL_MEASUREDPROPERTY11,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-lutetium-hafnium_age,lutetium-hafnium age
+MSL_MEASUREDPROPERTY12,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-potassium-argon_age,potassium-argon age
+MSL_MEASUREDPROPERTY13,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-radium-thorium_age,radium-thorium age
+MSL_MEASUREDPROPERTY14,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-rhenium-osmium_age,rhenium-osmium age
+MSL_MEASUREDPROPERTY15,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-rubidium-strontium_age,rubidium-strontium age
+MSL_MEASUREDPROPERTY16,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-samarium-neodymium_age,samarium-neodymium age
+MSL_MEASUREDPROPERTY17,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-thorium-lead_age,thorium-lead age
+MSL_MEASUREDPROPERTY18,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-uranium_age-uranium-lead_age,uranium-lead age
+MSL_MEASUREDPROPERTY19,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-uranium_age-uranium-paladium_age,uranium-paladium age
+MSL_MEASUREDPROPERTY20,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-uranium_age-uranium-thorium_age,uranium-thorium age
+MSL_MEASUREDPROPERTY21,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-age_of_sample-uranium_age-uranium-thorium-helium_age,uranium-thorium-helium age
+MSL_MEASUREDPROPERTY22,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-aluminium,aluminium
+MSL_MEASUREDPROPERTY23,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-ammonia,ammonia
+MSL_MEASUREDPROPERTY24,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-ammonium,ammonium
+MSL_MEASUREDPROPERTY25,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-anisotropy_petrophysical-elastic_anisotropy,elastic anisotropy
+MSL_MEASUREDPROPERTY26,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-anisotropy_petrophysical-elastic_anisotropy,elastic anisotropy
+MSL_MEASUREDPROPERTY27,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-anisotropy_petrophysical-permeability_anisotropy,permeability anisotropy
+MSL_MEASUREDPROPERTY28,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-anisotropy_petrophysical-permeability_anisotropy,permeability anisotropy
+MSL_MEASUREDPROPERTY29,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-anisotropy_petrophysical-seismic_anisotropy,seismic anisotropy
+MSL_MEASUREDPROPERTY30,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-anisotropy_petrophysical-seismic_anisotropy,seismic anisotropy
+MSL_MEASUREDPROPERTY31,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-anisotropy_petrophysical-strength_anisotropy,strength anisotropy
+MSL_MEASUREDPROPERTY32,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-anisotropy_petrophysical-strength_anisotropy,strength anisotropy
+MSL_MEASUREDPROPERTY33,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-antimony,antimony
+MSL_MEASUREDPROPERTY34,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-argon_ar,argon (Ar)
+MSL_MEASUREDPROPERTY35,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-arsenic,arsenic
+MSL_MEASUREDPROPERTY36,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-barium,barium
+MSL_MEASUREDPROPERTY37,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-beryllium,beryllium
+MSL_MEASUREDPROPERTY38,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-bismuth,bismuth
+MSL_MEASUREDPROPERTY39,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-boron-delta_11b,delta 11B
+MSL_MEASUREDPROPERTY40,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-bromide,bromide
+MSL_MEASUREDPROPERTY41,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-bromium,bromium
+MSL_MEASUREDPROPERTY42,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-cadmium,cadmium
+MSL_MEASUREDPROPERTY43,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-calcium-calcium_carbonate,calcium carbonate
+MSL_MEASUREDPROPERTY44,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-calcium-calcium_oxide,calcium oxide
+MSL_MEASUREDPROPERTY45,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-calcium-calcium_sulfate,calcium sulfate
+MSL_MEASUREDPROPERTY46,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-calcium-delta_44ca,delta 44Ca
+MSL_MEASUREDPROPERTY47,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-bicarbonate,bicarbonate
+MSL_MEASUREDPROPERTY48,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-carbon_dioxide,carbon dioxide
+MSL_MEASUREDPROPERTY49,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-carbon_monoxide,carbon monoxide
+MSL_MEASUREDPROPERTY50,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-delta_13c,delta 13C
+MSL_MEASUREDPROPERTY51,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-dissolved_inorganic_carbon,dissolved inorganic carbon
+MSL_MEASUREDPROPERTY52,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-inorganic_carbon,inorganic carbon
+MSL_MEASUREDPROPERTY53,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-methane,methane
+MSL_MEASUREDPROPERTY54,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-non-carbonate_carbon,non-carbonate carbon
+MSL_MEASUREDPROPERTY55,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-organic_carbon,organic carbon
+MSL_MEASUREDPROPERTY56,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-total_carbon,total carbon
+MSL_MEASUREDPROPERTY57,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-total_inorganic_carbon,total inorganic carbon
+MSL_MEASUREDPROPERTY58,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-carbon_c-total_organic_carbon,total organic carbon
+MSL_MEASUREDPROPERTY59,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-cerium-cerium_dioxide,cerium dioxide
+MSL_MEASUREDPROPERTY60,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-cerium-cerium_oxide,cerium oxide
+MSL_MEASUREDPROPERTY61,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-cesium,cesium
+MSL_MEASUREDPROPERTY62,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-chlorine-chloride,chloride
+MSL_MEASUREDPROPERTY63,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-chlorine-delta_37cl,delta 37Cl
+MSL_MEASUREDPROPERTY64,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-chromium-chromium_oxide,chromium oxide
+MSL_MEASUREDPROPERTY65,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-cobalt-cobalt_oxide,cobalt oxide
+MSL_MEASUREDPROPERTY66,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-copper-copper_oxide,copper oxide
+MSL_MEASUREDPROPERTY67,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-copper-cuprous_oxide,cuprous oxide
+MSL_MEASUREDPROPERTY68,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-copper-delta_65cu,delta 65Cu
+MSL_MEASUREDPROPERTY69,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-coupled_mechanical-chemical_effects-force_of_crystallization_foc,force of crystallization (FOC)
+MSL_MEASUREDPROPERTY70,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-coupled_mechanical-chemical_effects-rate_of_crack_growth,rate of crack growth
+MSL_MEASUREDPROPERTY71,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-coupled_mechanical-chemical_effects-rate_of_pressure_solution,rate of pressure solution
+MSL_MEASUREDPROPERTY72,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-coupled_mechanical-hydrological_effects,coupled mechanical-hydrological effects
+MSL_MEASUREDPROPERTY73,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-demagnetisation-alternating_field_af_demagnetisation,alternating field (AF) demagnetisation
+MSL_MEASUREDPROPERTY74,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-demagnetisation-chemical_demagnetisation,chemical demagnetisation
+MSL_MEASUREDPROPERTY75,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-demagnetisation-low_temperature_demagnetisation,low temperature demagnetisation
+MSL_MEASUREDPROPERTY76,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-demagnetisation-microwave_demagnetisation,microwave demagnetisation
+MSL_MEASUREDPROPERTY77,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-demagnetisation-thermal_demagnetisation,thermal demagnetisation
+MSL_MEASUREDPROPERTY78,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-dysprosium-dysprosium_oxide,dysprosium oxide
+MSL_MEASUREDPROPERTY79,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elastic_wave_velocity-p-wave,P-wave
+MSL_MEASUREDPROPERTY80,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elastic_wave_velocity-p-wave,P-wave
+MSL_MEASUREDPROPERTY81,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elastic_wave_velocity-s-wave,S-wave
+MSL_MEASUREDPROPERTY82,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elastic_wave_velocity-s-wave,S-wave
+MSL_MEASUREDPROPERTY83,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elastic_wave_velocity-s1-wave,S1-wave
+MSL_MEASUREDPROPERTY84,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elastic_wave_velocity-s1-wave,S1-wave
+MSL_MEASUREDPROPERTY85,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elastic_wave_velocity-s2-wave,S2-wave
+MSL_MEASUREDPROPERTY86,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elastic_wave_velocity-s2-wave,S2-wave
+MSL_MEASUREDPROPERTY87,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elastic_wave_velocity-wave_attenuation,wave attenuation
+MSL_MEASUREDPROPERTY88,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elastic_wave_velocity-wave_attenuation,wave attenuation
+MSL_MEASUREDPROPERTY89,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-axial_compressibility,axial compressibility
+MSL_MEASUREDPROPERTY90,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-axial_compressibility,axial compressibility
+MSL_MEASUREDPROPERTY91,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-biot_coefficient,Biot coefficient
+MSL_MEASUREDPROPERTY92,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-biot_coefficient,Biot coefficient
+MSL_MEASUREDPROPERTY93,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-bulk_compressibility,bulk compressibility
+MSL_MEASUREDPROPERTY94,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-bulk_compressibility,bulk compressibility
+MSL_MEASUREDPROPERTY95,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-bulk_modulus,bulk modulus
+MSL_MEASUREDPROPERTY96,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-bulk_modulus,bulk modulus
+MSL_MEASUREDPROPERTY97,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-indentation_modulus,indentation modulus
+MSL_MEASUREDPROPERTY98,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-indentation_modulus,indentation modulus
+MSL_MEASUREDPROPERTY99,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-lame_parameter,Lamé parameter
+MSL_MEASUREDPROPERTY100,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-lame_parameter,Lamé parameter
+MSL_MEASUREDPROPERTY101,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-modulus_attenuation,modulus attenuation
+MSL_MEASUREDPROPERTY102,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-modulus_attenuation,modulus attenuation
+MSL_MEASUREDPROPERTY103,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-modulus_dispersion,modulus dispersion
+MSL_MEASUREDPROPERTY104,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-modulus_dispersion,modulus dispersion
+MSL_MEASUREDPROPERTY105,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-poisson_ratio,Poisson ratio
+MSL_MEASUREDPROPERTY106,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-poisson_ratio,Poisson ratio
+MSL_MEASUREDPROPERTY107,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-shear_modulus,shear modulus
+MSL_MEASUREDPROPERTY108,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-shear_modulus,shear modulus
+MSL_MEASUREDPROPERTY109,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-storageloss_modulus,storage/loss modulus
+MSL_MEASUREDPROPERTY110,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-storageloss_modulus,storage/loss modulus
+MSL_MEASUREDPROPERTY111,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-elasticity-youngs_modulus,Young's modulus
+MSL_MEASUREDPROPERTY112,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-elasticity-youngs_modulus,Young's modulus
+MSL_MEASUREDPROPERTY113,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-electrical_properties-electrical_capacity,electrical capacity
+MSL_MEASUREDPROPERTY114,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-electrical_properties-electrical_conductivity,electrical conductivity
+MSL_MEASUREDPROPERTY115,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-electrical_properties-electrical_resistivity,electrical resistivity
+MSL_MEASUREDPROPERTY116,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-electrical_properties-frequency_dependent_conductivity,frequency dependent conductivity
+MSL_MEASUREDPROPERTY117,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-erbium-erbium_oxide,erbium oxide
+MSL_MEASUREDPROPERTY118,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-europium-europium_oxide,europium oxide
+MSL_MEASUREDPROPERTY119,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-first_order_reversal_curve_forc,first order reversal curve (FORC)
+MSL_MEASUREDPROPERTY120,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-fluid-rock_interaction-drainage_concavity_index,drainage concavity index
+MSL_MEASUREDPROPERTY121,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-fluid-rock_interaction-steepness_index,steepness index
+MSL_MEASUREDPROPERTY122,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-fluid-rock_interaction-water_saturation,water saturation
+MSL_MEASUREDPROPERTY123,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-fluorine,fluorine
+MSL_MEASUREDPROPERTY124,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-fracture_and_crack_toughness-linear-elastic_critical_stress_intensity_factor_kic,linear-elastic (critical stress intensity factor KIC)
+MSL_MEASUREDPROPERTY125,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-fracture_and_crack_toughness-plastic-elastic_fracture_toughness_jic,plastic-elastic fracture toughness (JIC)
+MSL_MEASUREDPROPERTY126,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-francium,francium
+MSL_MEASUREDPROPERTY127,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-cohesion,cohesion
+MSL_MEASUREDPROPERTY128,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-cohesion,cohesion
+MSL_MEASUREDPROPERTY129,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-dilatancy_parameter,dilatancy parameter
+MSL_MEASUREDPROPERTY130,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-dilatancy_parameter,dilatancy parameter
+MSL_MEASUREDPROPERTY131,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-frictional_strength_recovery,frictional strength recovery
+MSL_MEASUREDPROPERTY132,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-frictional_strength_recovery,frictional strength recovery
+MSL_MEASUREDPROPERTY133,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-kinetic_friction_coefficient,kinetic friction coefficient
+MSL_MEASUREDPROPERTY134,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-kinetic_friction_coefficient,kinetic friction coefficient
+MSL_MEASUREDPROPERTY135,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-peak_friction_coefficient,peak friction coefficient
+MSL_MEASUREDPROPERTY136,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-peak_friction_coefficient,peak friction coefficient
+MSL_MEASUREDPROPERTY137,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-reactivation_friction_coefficient,reactivation friction coefficient
+MSL_MEASUREDPROPERTY138,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-reactivation_friction_coefficient,reactivation friction coefficient
+MSL_MEASUREDPROPERTY139,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-steady_state_friction_coefficient,steady state friction coefficient
+MSL_MEASUREDPROPERTY140,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-friction_coefficient-steady_state_friction_coefficient,steady state friction coefficient
+MSL_MEASUREDPROPERTY141,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-frictional_strength,frictional strength
+MSL_MEASUREDPROPERTY142,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-frictional_strength_recovery,frictional strength recovery
+MSL_MEASUREDPROPERTY143,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-linker-dieterich_parameter,Linker-Dieterich parameter
+MSL_MEASUREDPROPERTY144,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-linker-dieterich_parameter,Linker-Dieterich parameter
+MSL_MEASUREDPROPERTY145,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-rate_and_state_friction_rsf_parameters,rate and state friction (RSF) parameters
+MSL_MEASUREDPROPERTY146,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-rate_and_state_friction_rsf_parameters,rate and state friction (RSF) parameters
+MSL_MEASUREDPROPERTY147,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-slip_weakening_parameters,slip weakening parameters
+MSL_MEASUREDPROPERTY148,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-slip_weakening_parameters,slip weakening parameters
+MSL_MEASUREDPROPERTY149,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_slip_rate-stress_drop,stress drop
+MSL_MEASUREDPROPERTY150,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_slip_rate-stress_drop,stress drop
+MSL_MEASUREDPROPERTY151,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-friction_-_controlled_stress-slip_rate,slip rate
+MSL_MEASUREDPROPERTY152,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-friction_-_controlled_stress-slip_rate,slip rate
+MSL_MEASUREDPROPERTY153,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-gadolinium-gadolinium_oxide,gadolinium oxide
+MSL_MEASUREDPROPERTY154,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-gallium,gallium
+MSL_MEASUREDPROPERTY155,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-geomorphic_evolution-erodibility,erodibility
+MSL_MEASUREDPROPERTY156,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-geomorphic_evolution-geomorphic_index,geomorphic index
+MSL_MEASUREDPROPERTY157,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-germanium,germanium
+MSL_MEASUREDPROPERTY158,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-gold_au,gold (Au)
+MSL_MEASUREDPROPERTY159,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-grain_size_distribution,grain size distribution
+MSL_MEASUREDPROPERTY160,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-grain_size_distribution,grain size distribution
+MSL_MEASUREDPROPERTY161,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-hafnium-hafnium_dioxide,hafnium dioxide
+MSL_MEASUREDPROPERTY162,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-hafnium-hafnium_oxide,hafnium oxide
+MSL_MEASUREDPROPERTY163,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-helium,helium
+MSL_MEASUREDPROPERTY164,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-holmium-holmium_oxide,holmium oxide
+MSL_MEASUREDPROPERTY165,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-hydrogen_h-delta_d,delta D
+MSL_MEASUREDPROPERTY166,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-hydrogen_h-hydrogen_sulfide,hydrogen sulfide
+MSL_MEASUREDPROPERTY167,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-hydrogen_h-water_h2o,water (H2O)
+MSL_MEASUREDPROPERTY168,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-indium,indium
+MSL_MEASUREDPROPERTY169,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iodine,iodine
+MSL_MEASUREDPROPERTY170,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iridium_ir,iridium (Ir)
+MSL_MEASUREDPROPERTY171,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-delta_fe56_calculated_as_fe56fe54__sample__fe56fe54_irmm-014_-11000,delta_Fe56 calculated as (Fe56/Fe54_ sample / Fe56/Fe54_IRMM-014 -1)*1000
+MSL_MEASUREDPROPERTY172,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-ferric_iron_oxide_tri-valent_iron,ferric iron oxide (tri-valent iron)
+MSL_MEASUREDPROPERTY173,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-ferrosoferric_oxide_iron_iiiii_oxide,"ferrosoferric oxide (Iron (II,III) oxide)"
+MSL_MEASUREDPROPERTY174,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-ferrous_iron_oxide_di-valent-total_iron_oxide_content_reported_as_ferrous_di-valent_iron,total iron oxide content reported as ferrous (di-valent) iron
+MSL_MEASUREDPROPERTY175,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-ferrous_sulfide_di-valent,ferrous sulfide (di-valent)
+MSL_MEASUREDPROPERTY176,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-iron_ferrite_fefe2o4,iron ferrite (FeFe2O4)
+MSL_MEASUREDPROPERTY177,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-iron_sulfide,iron sulfide
+MSL_MEASUREDPROPERTY178,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-ratio_of_feric_iron_to_total_iron,ratio of feric iron to total iron
+MSL_MEASUREDPROPERTY179,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-siderite,siderite
+MSL_MEASUREDPROPERTY180,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-iron-total_iron_oxide_content_reported_as_ferric_tri-valent_iron,total iron oxide content reported as ferric (tri-valent) iron
+MSL_MEASUREDPROPERTY181,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-krypton,krypton
+MSL_MEASUREDPROPERTY182,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-lanthanum-lanthanum_oxide,lanthanum oxide
+MSL_MEASUREDPROPERTY183,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-lead_pb-lead_oxide,lead oxide
+MSL_MEASUREDPROPERTY184,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-lithium-delta_7li,delta 7Li
+MSL_MEASUREDPROPERTY185,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-lithium-delta_li6,delta Li6
+MSL_MEASUREDPROPERTY186,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-lutetium-lutetium_oxide,lutetium oxide
+MSL_MEASUREDPROPERTY187,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-magnesium-magnesium_oxide,magnesium oxide
+MSL_MEASUREDPROPERTY188,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_anisotropy-anisotropy_of_anhysteretic_remanent_magnetisation_aarm,anisotropy of anhysteretic remanent magnetisation (AARM)
+MSL_MEASUREDPROPERTY189,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_anisotropy-anisotropy_of_isothermal_remanent_magnetisation_airm,anisotropy of isothermal remanent magnetisation (AIRM)
+MSL_MEASUREDPROPERTY190,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_anisotropy-anisotropy_of_magnetic_susceptibility_ams,anisotropy of magnetic susceptibility (AMS)
+MSL_MEASUREDPROPERTY191,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_anisotropy-anisotropy_of_partial_anhysteretic_remanent_magnetisation_paarm,anisotropy of partial anhysteretic remanent magnetisation (pAARM)
+MSL_MEASUREDPROPERTY192,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_anisotropy-anisotropy_of_thermalremanent_magnetisation_atrm,anisotropy of thermalremanent magnetisation (ATRM)
+MSL_MEASUREDPROPERTY193,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-bias_exchange_field,bias exchange field
+MSL_MEASUREDPROPERTY194,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-coercive_force,coercive force
+MSL_MEASUREDPROPERTY195,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-high-field_susceptibility,high-field susceptibility
+MSL_MEASUREDPROPERTY196,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-hysteresis_shape_parameter,hysteresis shape parameter
+MSL_MEASUREDPROPERTY197,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-remanent_coercive_force,remanent coercive force
+MSL_MEASUREDPROPERTY198,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-saturation_magnetisation,saturation magnetisation
+MSL_MEASUREDPROPERTY199,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_hysteresis_curves-hysteresis_parameters-saturation_remanence,saturation remanence
+MSL_MEASUREDPROPERTY200,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_remanence_demagnetisation_curves,magnetic remanence demagnetisation curves
+MSL_MEASUREDPROPERTY201,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-bulk_magnetic_susceptibility,bulk magnetic susceptibility
+MSL_MEASUREDPROPERTY202,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-field_dependent_magnetic_susceptibility,field dependent magnetic susceptibility
+MSL_MEASUREDPROPERTY203,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-frequency_dependendent_magnetic_susceptibility,frequency dependendent magnetic susceptibility
+MSL_MEASUREDPROPERTY204,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-high_temperature_magnetic_susceptibility,high temperature magnetic susceptibility
+MSL_MEASUREDPROPERTY205,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-in-phase_magnetic_susceptibility,in-phase magnetic susceptibility
+MSL_MEASUREDPROPERTY206,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-low_temperature_magnetic_susceptibility,low temperature magnetic susceptibility
+MSL_MEASUREDPROPERTY207,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetic_susceptibility-out-of-phase_magnetic_susceptibility,out-of-phase magnetic susceptibility
+MSL_MEASUREDPROPERTY208,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-magnetisation_acquisition_curves,magnetisation acquisition curves
+MSL_MEASUREDPROPERTY209,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-manganese-manganese_carbonate,manganese carbonate
+MSL_MEASUREDPROPERTY210,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-manganese-manganese_oxide,manganese oxide
+MSL_MEASUREDPROPERTY211,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-manganese-manganese_tetroxide,manganese tetroxide
+MSL_MEASUREDPROPERTY212,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-erodibility,erodibility
+MSL_MEASUREDPROPERTY213,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-hydrostatic_compressive_strength_s1s2s3,hydrostatic compressive strength (s1=s2=s3)
+MSL_MEASUREDPROPERTY214,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-plastic_flow_strength-plastic_flow_law_stress_exponent,plastic flow law stress exponent
+MSL_MEASUREDPROPERTY215,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-plastic_flow_stress-plastic_flow_law_stress_exponent,plastic flow law stress exponent
+MSL_MEASUREDPROPERTY216,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-residual_strength,residual strength
+MSL_MEASUREDPROPERTY217,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-residual_strength,residual strength
+MSL_MEASUREDPROPERTY218,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-shear_strength,shear strength
+MSL_MEASUREDPROPERTY219,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-shear_strength,shear strength
+MSL_MEASUREDPROPERTY220,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-tensile_strength,tensile strength
+MSL_MEASUREDPROPERTY221,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-tensile_strength,tensile strength
+MSL_MEASUREDPROPERTY222,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-torsion_strength,torsion strength
+MSL_MEASUREDPROPERTY223,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-torsion_strength,torsion strength
+MSL_MEASUREDPROPERTY224,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-triaxial_compressive_strength_s1-s2s3,triaxial compressive strength (s1>s2=s3)
+MSL_MEASUREDPROPERTY225,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-true_tension_strength,true tension strength
+MSL_MEASUREDPROPERTY226,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-true_triaxial_strength_s1-s2-s3,true triaxial strength (s1>s2>s3)
+MSL_MEASUREDPROPERTY227,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-unconfined_compressive_strength_ucs,unconfined compressive strength (UCS)
+MSL_MEASUREDPROPERTY228,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-unconfined_compressive_strength_ucs,unconfined compressive strength (UCS)
+MSL_MEASUREDPROPERTY229,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-mechanical_strength-yield_strength,yield strength
+MSL_MEASUREDPROPERTY230,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-mechanical_strength-yield_strength,yield strength
+MSL_MEASUREDPROPERTY231,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-mercury,mercury
+MSL_MEASUREDPROPERTY232,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-molybdenum-delta_98mo,delta 98Mo
+MSL_MEASUREDPROPERTY233,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-neodymium-neodymium_oxide,neodymium oxide
+MSL_MEASUREDPROPERTY234,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-neon,neon
+MSL_MEASUREDPROPERTY235,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nickel-delta_60ni,delta 60Ni
+MSL_MEASUREDPROPERTY236,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nickel-nickel_oxide,nickel oxide
+MSL_MEASUREDPROPERTY237,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-niobium-niobium_oxide,niobium oxide
+MSL_MEASUREDPROPERTY238,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-niobium-niobium_pentoxide,niobium pentoxide
+MSL_MEASUREDPROPERTY239,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nitrogen-delt_15n,delt 15N
+MSL_MEASUREDPROPERTY240,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nitrogen-nitrate,nitrate
+MSL_MEASUREDPROPERTY241,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nitrogen-nitrogen_dioxide,nitrogen dioxide
+MSL_MEASUREDPROPERTY242,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nitrogen-organic_nitrogen,organic nitrogen
+MSL_MEASUREDPROPERTY243,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-nitrogen-total_nitrogen,total nitrogen
+MSL_MEASUREDPROPERTY244,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-osmium,osmium
+MSL_MEASUREDPROPERTY245,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-oxygen-delta_17o,delta 17O
+MSL_MEASUREDPROPERTY246,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-oxygen-delta_18o,delta 18O
+MSL_MEASUREDPROPERTY247,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-paleointensity-absolute_paleointensity,absolute paleointensity
+MSL_MEASUREDPROPERTY248,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-paleointensity-relative_paleointensity,relative paleointensity
+MSL_MEASUREDPROPERTY249,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-palladium_pd,palladium (Pd)
+MSL_MEASUREDPROPERTY250,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-absolute_permeability,absolute permeability
+MSL_MEASUREDPROPERTY251,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-bulk_sample_permeability,bulk sample permeability
+MSL_MEASUREDPROPERTY252,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-capillary_effects,capillary effects
+MSL_MEASUREDPROPERTY253,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-fluid_hold-up,fluid hold-up
+MSL_MEASUREDPROPERTY254,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-fracture_permeability,fracture permeability
+MSL_MEASUREDPROPERTY255,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-klinkenberg_constant,Klinkenberg constant
+MSL_MEASUREDPROPERTY256,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-relative_permeability,relative permeability
+MSL_MEASUREDPROPERTY257,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-permeability-storativity,storativity
+MSL_MEASUREDPROPERTY258,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-ph,pH
+MSL_MEASUREDPROPERTY259,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-phosphorus-phosphate,phosphate
+MSL_MEASUREDPROPERTY260,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-phosphorus-phosphorous_organic,"phosphorous, organic"
+MSL_MEASUREDPROPERTY261,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-phosphorus-phosphorus_oxide,phosphorus oxide
+MSL_MEASUREDPROPERTY262,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-phosphorus-phosphorus_trioxide,phosphorus trioxide
+MSL_MEASUREDPROPERTY263,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-platinum_pt-ratio_of_platinum_isotope_pt190_to_osmium_isotope_os188,ratio of platinum isotope Pt190 to osmium isotope Os188
+MSL_MEASUREDPROPERTY264,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-polonium-polonium_isotope_po210_reported_as_activity,"polonium isotope Po210, reported as activity"
+MSL_MEASUREDPROPERTY265,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-polonium-ratio_of_polonium_isotope_po210_to_lead_isotope_pb210,ratio of polonium isotope Po210 to lead isotope Pb210
+MSL_MEASUREDPROPERTY266,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-porosity,porosity
+MSL_MEASUREDPROPERTY267,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-porosity,porosity
+MSL_MEASUREDPROPERTY268,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-potassium-potassium_oxide,potassium oxide
+MSL_MEASUREDPROPERTY269,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-praseodymium,praseodymium
+MSL_MEASUREDPROPERTY270,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-protactinium,protactinium
+MSL_MEASUREDPROPERTY271,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-radium,radium
+MSL_MEASUREDPROPERTY272,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-anhysteretic_remanent_magnetisation_arm,anhysteretic remanent magnetisation (ARM)
+MSL_MEASUREDPROPERTY273,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-backfield_remanence_coercivity_brc,backfield remanence coercivity (BRC)
+MSL_MEASUREDPROPERTY274,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-chemical_remanent_magnetisation_crm,chemical remanent magnetisation (CRM)
+MSL_MEASUREDPROPERTY275,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-depositional_remanent_magnetisation_drm,depositional remanent magnetisation (DRM)
+MSL_MEASUREDPROPERTY276,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-gyromagnetic_remanent_magnetisation_grm,gyromagnetic remanent magnetisation (GRM)
+MSL_MEASUREDPROPERTY277,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-isothermal_remanent_magnetisation_irm,isothermal remanent magnetisation (IRM)
+MSL_MEASUREDPROPERTY278,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-natural_remanent_magnetisation_nrm,natural remanent magnetisation (NRM)
+MSL_MEASUREDPROPERTY279,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-partial_anhysteretic_remanent_magnetisation_parm,partial anhysteretic remanent magnetisation (pARM)
+MSL_MEASUREDPROPERTY280,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-post-depositional_remanent_magnetisation_pdrm,post-depositional remanent magnetisation (pDRM)
+MSL_MEASUREDPROPERTY281,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-reversed_thermoremanent_magnetisation_rtrm,reversed thermoremanent magnetisation (rTRM)
+MSL_MEASUREDPROPERTY282,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-remanent_magnetisation-thermoremanent_magnetisation_trm,thermoremanent magnetisation (TRM)
+MSL_MEASUREDPROPERTY283,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-rhenium,rhenium
+MSL_MEASUREDPROPERTY284,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-rhodium,rhodium
+MSL_MEASUREDPROPERTY285,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-rubidium,rubidium
+MSL_MEASUREDPROPERTY286,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-ruthenium,ruthenium
+MSL_MEASUREDPROPERTY287,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-samarium-samarium_oxide,samarium oxide
+MSL_MEASUREDPROPERTY288,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-scandium-scandium_oxide,scandium oxide
+MSL_MEASUREDPROPERTY289,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-selenium,selenium
+MSL_MEASUREDPROPERTY290,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silicon-delta_29si,delta 29Si
+MSL_MEASUREDPROPERTY291,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silicon-delta_30si,delta 30Si
+MSL_MEASUREDPROPERTY292,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silicon-silicic_acid,silicic acid
+MSL_MEASUREDPROPERTY293,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silicon-silicon_dioxide-amorphous_silica,amorphous silica
+MSL_MEASUREDPROPERTY294,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silicon-silicon_dioxide-sio2_high_pressure,"SiO2, high pressure"
+MSL_MEASUREDPROPERTY295,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-silver_ag,silver (Ag)
+MSL_MEASUREDPROPERTY296,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-slake_durability,Slake durability
+MSL_MEASUREDPROPERTY297,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-slake_durability,Slake durability
+MSL_MEASUREDPROPERTY298,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sodium-sodium_oxide,sodium oxide
+MSL_MEASUREDPROPERTY299,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-strain-anelastic_strain,anelastic strain
+MSL_MEASUREDPROPERTY300,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-strain-anelastic_strain,anelastic strain
+MSL_MEASUREDPROPERTY301,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-strain-elastic_strain,elastic strain
+MSL_MEASUREDPROPERTY302,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-strain-elastic_strain,elastic strain
+MSL_MEASUREDPROPERTY303,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-strain-inelastic_strain,inelastic strain
+MSL_MEASUREDPROPERTY304,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-strain-inelastic_strain,inelastic strain
+MSL_MEASUREDPROPERTY305,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-strain-strain_partitioning,strain partitioning
+MSL_MEASUREDPROPERTY306,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-strain_rate_-_creep_constant_stress,strain rate - creep (constant stress)
+MSL_MEASUREDPROPERTY307,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-strain_rate_-_creep_constant_stress,strain rate - creep (constant stress)
+MSL_MEASUREDPROPERTY308,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-stress_relaxation,stress relaxation
+MSL_MEASUREDPROPERTY309,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-stress_relaxation,stress relaxation
+MSL_MEASUREDPROPERTY310,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-strontium-strontium_oxide,strontium oxide
+MSL_MEASUREDPROPERTY311,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-delta_33s,delta 33S
+MSL_MEASUREDPROPERTY312,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-delta_34s,delta 34S
+MSL_MEASUREDPROPERTY313,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-delta_36s,delta 36S
+MSL_MEASUREDPROPERTY314,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-sulphate,sulphate
+MSL_MEASUREDPROPERTY315,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-sulphur_dioxide,sulphur dioxide
+MSL_MEASUREDPROPERTY316,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-sulphur_present_as_sulphide,sulphur present as sulphide
+MSL_MEASUREDPROPERTY317,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-sulphur_present_in_pyrite_form,sulphur present in pyrite form
+MSL_MEASUREDPROPERTY318,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-sulphur-sulphur_trioxide,sulphur trioxide
+MSL_MEASUREDPROPERTY319,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-surface_roughness-grain_surface_roughness,grain surface roughness
+MSL_MEASUREDPROPERTY320,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-surface_roughness-grain_surface_roughness,grain surface roughness
+MSL_MEASUREDPROPERTY321,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-surface_roughness-rock_surface_roughness,rock surface roughness
+MSL_MEASUREDPROPERTY322,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-surface_roughness-rock_surface_roughness,rock surface roughness
+MSL_MEASUREDPROPERTY323,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-tantalum-tantalum_oxide,tantalum oxide
+MSL_MEASUREDPROPERTY324,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-tellurium,tellurium
+MSL_MEASUREDPROPERTY325,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-temperature_change-endothermic_reaction,endothermic reaction
+MSL_MEASUREDPROPERTY326,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-temperature_change-exothermic_reaction,exothermic reaction
+MSL_MEASUREDPROPERTY327,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-temperature_change-frictional_heating,frictional heating
+MSL_MEASUREDPROPERTY328,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-terbium-terbium_oxide,terbium oxide
+MSL_MEASUREDPROPERTY329,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-thallium,thallium
+MSL_MEASUREDPROPERTY330,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-thermal_properties-heat_capacity,heat capacity
+MSL_MEASUREDPROPERTY331,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-thermal_properties-heat_capacity,heat capacity
+MSL_MEASUREDPROPERTY332,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-thermal_properties-thermal_conductivity,thermal conductivity
+MSL_MEASUREDPROPERTY333,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-thermal_properties-thermal_conductivity,thermal conductivity
+MSL_MEASUREDPROPERTY334,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-thermomagnetic_magnetisation_curves-high_temperature_thermomagnetic_curves,high temperature thermomagnetic curves
+MSL_MEASUREDPROPERTY335,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/measured_property-thermomagnetic_magnetisation_curves-low_temperature_thermomagnetic_curves,low temperature thermomagnetic curves
+MSL_MEASUREDPROPERTY336,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-thorium-thorium_dioxide,thorium dioxide
+MSL_MEASUREDPROPERTY337,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-thorium-thorium_monoxide,thorium monoxide
+MSL_MEASUREDPROPERTY338,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-thulium-thulium_oxide,thulium oxide
+MSL_MEASUREDPROPERTY339,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-tin,tin
+MSL_MEASUREDPROPERTY340,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-titanium-delta_49ti,delta 49Ti
+MSL_MEASUREDPROPERTY341,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-titanium-titanium_oxide,titanium oxide
+MSL_MEASUREDPROPERTY342,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-titanium-titanium_ii_oxide,titanium(II) oxide
+MSL_MEASUREDPROPERTY343,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-titanium-titanium_iii_oxide,titanium(III) oxide
+MSL_MEASUREDPROPERTY344,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-tungsten-tungsten_trioxide,tungsten trioxide
+MSL_MEASUREDPROPERTY345,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-uranium-delta_234u,delta 234U
+MSL_MEASUREDPROPERTY346,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-uranium-delta_238u,delta 238U
+MSL_MEASUREDPROPERTY347,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-uranium-uranium_oxide,uranium oxide
+MSL_MEASUREDPROPERTY348,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-vanadium-delta_51v,delta 51V
+MSL_MEASUREDPROPERTY349,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-vanadium-vanadium_pentoxide,vanadium pentoxide
+MSL_MEASUREDPROPERTY350,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-vanadium-vanadium_sesquioxide,vanadium sesquioxide
+MSL_MEASUREDPROPERTY351,https://epos-msl.uu.nl/voc/analoguemodelling/1.4/measured_property-viscosity,viscosity
+MSL_MEASUREDPROPERTY352,https://epos-msl.uu.nl/voc/rockphysics/1.4/measured_property-viscosity,viscosity
+MSL_MEASUREDPROPERTY353,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-xenon,xenon
+MSL_MEASUREDPROPERTY354,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-ytterbium-ytterbium_oxide,ytterbium oxide
+MSL_MEASUREDPROPERTY355,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-yttrium-yttrium_oxide,yttrium oxide
+MSL_MEASUREDPROPERTY356,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-yttrium-yttrium_iii_oxide,yttrium(III) oxide
+MSL_MEASUREDPROPERTY357,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-zinc-delta_66zn,delta 66Zn
+MSL_MEASUREDPROPERTY358,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-zinc-delta_68zn,delta 68Zn
+MSL_MEASUREDPROPERTY359,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-zinc-zinc_oxide,zinc oxide
+MSL_MEASUREDPROPERTY360,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-zirconium-zirconium_oxide,zirconium oxide
+MSL_MEASUREDPROPERTY361,https://epos-msl.uu.nl/voc/geochemistry/1.4/measured_property-zirconium-zirconium_pentoxide,zirconium pentoxide

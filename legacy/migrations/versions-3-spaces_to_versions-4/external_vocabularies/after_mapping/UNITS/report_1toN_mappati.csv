@@ -1,0 +1,89 @@
+﻿Label;Dizionario_Vecchio;Codice_Vecchio;Dizionario_Nuovo;Codice_Nuovo;Nuovo_URI_Pubblico
+second;UNITS;UNI1;QUDT_UNIT;QUDT_UNIT2475;http://qudt.org/vocab/unit/SEC
+metre;UNITS;UNI2;QUDT_UNIT;QUDT_UNIT1342;http://qudt.org/vocab/unit/M
+kilogram;UNITS;UNI3;QUDT_UNIT;QUDT_UNIT1029;http://qudt.org/vocab/unit/KiloGM
+ampere;UNITS;UNI4;QUDT_UNIT;QUDT_UNIT23;http://qudt.org/vocab/unit/A
+kelvin;UNITS;UNI5;QUDT_UNIT;QUDT_UNIT935;http://qudt.org/vocab/unit/K
+mole;UNITS;UNI6;QUDT_UNIT;QUDT_UNIT1732;http://qudt.org/vocab/unit/MOL
+candela;UNITS;UNI7;QUDT_UNIT;QUDT_UNIT219;http://qudt.org/vocab/unit/CD
+hertz;UNITS;UNI8;QUDT_UNIT;QUDT_UNIT830;http://qudt.org/vocab/unit/HZ
+radian;UNITS;UNI9;QUDT_UNIT;QUDT_UNIT2353;http://qudt.org/vocab/unit/RAD
+steradian;UNITS;UNI10;QUDT_UNIT;QUDT_UNIT2639;http://qudt.org/vocab/unit/SR
+newton;UNITS;UNI11;QUDT_UNIT;QUDT_UNIT1852;http://qudt.org/vocab/unit/N
+pascal;UNITS;UNI12;QUDT_UNIT;QUDT_UNIT1991;http://qudt.org/vocab/unit/PA
+joule;UNITS;UNI13;QUDT_UNIT;QUDT_UNIT899;http://qudt.org/vocab/unit/J
+watt;UNITS;UNI14;QUDT_UNIT;QUDT_UNIT2835;http://qudt.org/vocab/unit/W
+coulomb;UNITS;UNI15;QUDT_UNIT;QUDT_UNIT281;http://qudt.org/vocab/unit/C
+volt;UNITS;UNI16;QUDT_UNIT;QUDT_UNIT2807;http://qudt.org/vocab/unit/V
+farad;UNITS;UNI17;QUDT_UNIT;QUDT_UNIT577;http://qudt.org/vocab/unit/FARAD
+ohm;UNITS;UNI18;QUDT_UNIT;QUDT_UNIT1923;http://qudt.org/vocab/unit/OHM
+siemens;UNITS;UNI19;QUDT_UNIT;QUDT_UNIT2501;http://qudt.org/vocab/unit/S
+weber;UNITS;UNI20;QUDT_UNIT;QUDT_UNIT2868;http://qudt.org/vocab/unit/WB
+tesla;UNITS;UNI21;QUDT_UNIT;QUDT_UNIT2690;http://qudt.org/vocab/unit/T
+henry;UNITS;UNI22;QUDT_UNIT;QUDT_UNIT826;http://qudt.org/vocab/unit/H
+degree Celsius;UNITS;UNI23;QUDT_UNIT;QUDT_UNIT453;http://qudt.org/vocab/unit/DEG_C
+lumen;UNITS;UNI24;QUDT_UNIT;QUDT_UNIT1232;http://qudt.org/vocab/unit/LM
+lux;UNITS;UNI25;QUDT_UNIT;QUDT_UNIT1239;http://qudt.org/vocab/unit/LUX
+becquerel;UNITS;UNI26;QUDT_UNIT;QUDT_UNIT109;http://qudt.org/vocab/unit/BQ
+gray;UNITS;UNI27;QUDT_UNIT;QUDT_UNIT798;http://qudt.org/vocab/unit/GRAY
+sievert;UNITS;UNI28;QUDT_UNIT;QUDT_UNIT2505;http://qudt.org/vocab/unit/SV
+katal;UNITS;UNI29;QUDT_UNIT;QUDT_UNIT930;http://qudt.org/vocab/unit/KAT
+metre per second;UNITS;UNI30;QUDT_UNIT;QUDT_UNIT1357;http://qudt.org/vocab/unit/M-PER-SEC
+radian per second;UNITS;UNI34;QUDT_UNIT;QUDT_UNIT2357;http://qudt.org/vocab/unit/RAD-PER-SEC
+cubic metre per second;UNITS;UNI37;QUDT_UNIT;QUDT_UNIT368;http://qudt.org/vocab/unit/M3-PER-SEC
+square metre;UNITS;UNI38;QUDT_UNIT;QUDT_UNIT2562;http://qudt.org/vocab/unit/M2
+cubic metre;UNITS;UNI39;QUDT_UNIT;QUDT_UNIT347;http://qudt.org/vocab/unit/M3
+newton metre second;UNITS;UNI41;QUDT_UNIT;QUDT_UNIT1866;http://qudt.org/vocab/unit/N-M-SEC
+reciprocal metre;UNITS;UNI44;QUDT_UNIT;QUDT_UNIT2393;http://qudt.org/vocab/unit/PER-M
+kilogram per square metre;UNITS;UNI45;QUDT_UNIT;QUDT_UNIT1087;http://qudt.org/vocab/unit/KiloGM-PER-M2
+kilogram per cubic metre;UNITS;UNI46;QUDT_UNIT;QUDT_UNIT1042;http://qudt.org/vocab/unit/KiloGM-PER-M3
+cubic metre per kilogram;UNITS;UNI47;QUDT_UNIT;QUDT_UNIT360;http://qudt.org/vocab/unit/M3-PER-KiloGM
+joule per kilogram;UNITS;UNI49;QUDT_UNIT;QUDT_UNIT910;http://qudt.org/vocab/unit/J-PER-KiloGM
+joule per cubic metre;UNITS;UNI50;QUDT_UNIT;QUDT_UNIT902;http://qudt.org/vocab/unit/J-PER-M3
+newton per metre;UNITS;UNI51;QUDT_UNIT;QUDT_UNIT1874;http://qudt.org/vocab/unit/N-PER-M
+watt per square metre;UNITS;UNI52;QUDT_UNIT;QUDT_UNIT2852;http://qudt.org/vocab/unit/W-PER-M2
+square metre per second;UNITS;UNI53;QUDT_UNIT;QUDT_UNIT2582;http://qudt.org/vocab/unit/M2-PER-SEC
+kilogram per metre;UNITS;UNI55;QUDT_UNIT;QUDT_UNIT1066;http://qudt.org/vocab/unit/KiloGM-PER-M
+kilogram per second;UNITS;UNI56;QUDT_UNIT;QUDT_UNIT1079;http://qudt.org/vocab/unit/KiloGM-PER-SEC
+watt per metre;UNITS;UNI59;QUDT_UNIT;QUDT_UNIT2846;http://qudt.org/vocab/unit/W-PER-M
+gray per second;UNITS;UNI60;QUDT_UNIT;QUDT_UNIT801;http://qudt.org/vocab/unit/GRAY-PER-SEC
+watt per cubic metre;UNITS;UNI62;QUDT_UNIT;QUDT_UNIT2842;http://qudt.org/vocab/unit/W-PER-M3
+reciprocal pascal;UNITS;UNI64;QUDT_UNIT;QUDT_UNIT2411;http://qudt.org/vocab/unit/PER-PA
+joule per square metre;UNITS;UNI65;QUDT_UNIT;QUDT_UNIT923;http://qudt.org/vocab/unit/J-PER-M2
+kilogram square metre;UNITS;UNI66;QUDT_UNIT;QUDT_UNIT1095;http://qudt.org/vocab/unit/KiloGM-M2
+watt per steradian;UNITS;UNI68;QUDT_UNIT;QUDT_UNIT2863;http://qudt.org/vocab/unit/W-PER-SR
+mole per cubic metre;UNITS;UNI70;QUDT_UNIT;QUDT_UNIT1736;http://qudt.org/vocab/unit/MOL-PER-M3
+cubic metre per mole;UNITS;UNI71;QUDT_UNIT;QUDT_UNIT365;http://qudt.org/vocab/unit/M3-PER-MOL
+joule per mole;UNITS;UNI73;QUDT_UNIT;QUDT_UNIT917;http://qudt.org/vocab/unit/J-PER-MOL
+siemens square metre per mole;UNITS;UNI74;QUDT_UNIT;QUDT_UNIT2504;http://qudt.org/vocab/unit/S-M2-PER-MOL
+mole per kilogram;UNITS;UNI75;QUDT_UNIT;QUDT_UNIT1743;http://qudt.org/vocab/unit/MOL-PER-KiloGM
+kilogram per mole;UNITS;UNI76;QUDT_UNIT;QUDT_UNIT1076;http://qudt.org/vocab/unit/KiloGM-PER-MOL
+cubic metre per mole second;UNITS;UNI77;QUDT_UNIT;QUDT_UNIT366;http://qudt.org/vocab/unit/M3-PER-MOL-SEC
+coulomb per square metre;UNITS;UNI78;QUDT_UNIT;QUDT_UNIT291;http://qudt.org/vocab/unit/C-PER-M2
+coulomb per cubic metre;UNITS;UNI79;QUDT_UNIT;QUDT_UNIT284;http://qudt.org/vocab/unit/C-PER-M3
+ampere per square metre;UNITS;UNI80;QUDT_UNIT;QUDT_UNIT43;http://qudt.org/vocab/unit/A-PER-M2
+siemens per metre;UNITS;UNI81;QUDT_UNIT;QUDT_UNIT2503;http://qudt.org/vocab/unit/S-PER-M
+farad per metre;UNITS;UNI82;QUDT_UNIT;QUDT_UNIT579;http://qudt.org/vocab/unit/FARAD-PER-M
+henry per metre;UNITS;UNI83;QUDT_UNIT;QUDT_UNIT828;http://qudt.org/vocab/unit/H-PER-M
+volt per metre;UNITS;UNI84;QUDT_UNIT;QUDT_UNIT2826;http://qudt.org/vocab/unit/V-PER-M
+ampere per metre;UNITS;UNI85;QUDT_UNIT;QUDT_UNIT38;http://qudt.org/vocab/unit/A-PER-M
+coulomb per kilogram;UNITS;UNI86;QUDT_UNIT;QUDT_UNIT286;http://qudt.org/vocab/unit/C-PER-KiloGM
+ohm metre;UNITS;UNI87;QUDT_UNIT;QUDT_UNIT1928;http://qudt.org/vocab/unit/OHM-M
+coulomb per metre;UNITS;UNI88;QUDT_UNIT;QUDT_UNIT288;http://qudt.org/vocab/unit/C-PER-M
+joule per tesla;UNITS;UNI89;QUDT_UNIT;QUDT_UNIT925;http://qudt.org/vocab/unit/J-PER-T
+square metre per volt second;UNITS;UNI90;QUDT_UNIT;QUDT_UNIT2592;http://qudt.org/vocab/unit/M2-PER-V-SEC
+reciprocal henry;UNITS;UNI91;QUDT_UNIT;QUDT_UNIT2379;http://qudt.org/vocab/unit/PER-H
+weber per metre;UNITS;UNI92;QUDT_UNIT;QUDT_UNIT2870;http://qudt.org/vocab/unit/WB-PER-M
+weber metre;UNITS;UNI93;QUDT_UNIT;QUDT_UNIT2869;http://qudt.org/vocab/unit/WB-M
+tesla metre;UNITS;UNI94;QUDT_UNIT;QUDT_UNIT2691;http://qudt.org/vocab/unit/T-M
+lumen second;UNITS;UNI97;QUDT_UNIT;QUDT_UNIT1237;http://qudt.org/vocab/unit/LM-SEC
+lux second;UNITS;UNI98;QUDT_UNIT;QUDT_UNIT1241;http://qudt.org/vocab/unit/LUX-SEC
+candela per square metre;UNITS;UNI99;QUDT_UNIT;QUDT_UNIT224;http://qudt.org/vocab/unit/CD-PER-M2
+lumen per watt;UNITS;UNI100;QUDT_UNIT;QUDT_UNIT1236;http://qudt.org/vocab/unit/LM-PER-W
+joule per kelvin;UNITS;UNI101;QUDT_UNIT;QUDT_UNIT909;http://qudt.org/vocab/unit/J-PER-K
+joule per kilogram kelvin;UNITS;UNI102;QUDT_UNIT;QUDT_UNIT912;http://qudt.org/vocab/unit/J-PER-KiloGM-K
+watt per metre kelvin;UNITS;UNI103;QUDT_UNIT;QUDT_UNIT2848;http://qudt.org/vocab/unit/W-PER-M-K
+kelvin per watt;UNITS;UNI104;QUDT_UNIT;QUDT_UNIT950;http://qudt.org/vocab/unit/K-PER-W
+reciprocal kelvin;UNITS;UNI105;QUDT_UNIT;QUDT_UNIT2384;http://qudt.org/vocab/unit/PER-K
+kelvin per metre;UNITS;UNI106;QUDT_UNIT;QUDT_UNIT944;http://qudt.org/vocab/unit/K-PER-M
+millisecond;UNITS;UNI109;QUDT_UNIT;QUDT_UNIT1700;http://qudt.org/vocab/unit/MilliSEC

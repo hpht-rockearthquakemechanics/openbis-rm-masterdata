@@ -1,0 +1,183 @@
+﻿Label;Dizionario_Vecchio;Codice_Vecchio;Dizionario_Nuovo;Codice_Nuovo;Nuovo_URI_Pubblico
+breccia - fault related;MSL_ROCK;MSL_ROCK1;MSL_ROCK;MSL_ROCK1;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-breccia_-_fault_related
+cataclasite;MSL_ROCK;MSL_ROCK2;MSL_ROCK;MSL_ROCK2;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-cataclasite
+simulated fault gouge;MSL_ROCK;MSL_ROCK3;MSL_ROCK;MSL_ROCK3;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-fault_gouge-simulated_fault_gouge
+mylonite;MSL_ROCK;MSL_ROCK4;MSL_ROCK;MSL_ROCK4;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-mylonite
+mylonite;MSL_ROCK;MSL_ROCK4;MSL_ROCK;MSL_ROCK94;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-mylonite
+pseudotachylite;MSL_ROCK;MSL_ROCK5;MSL_ROCK;MSL_ROCK5;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-pseudotachylite
+dacite;MSL_ROCK;MSL_ROCK6;MSL_ROCK;MSL_ROCK6;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-acidic_extrusive-dacite
+rhyolite;MSL_ROCK;MSL_ROCK7;MSL_ROCK;MSL_ROCK7;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-acidic_extrusive-rhyolite
+trachyte;MSL_ROCK;MSL_ROCK8;MSL_ROCK;MSL_ROCK8;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-acidic_extrusive-trachyte
+Dresser basalt;MSL_ROCK;MSL_ROCK9;MSL_ROCK;MSL_ROCK9;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-basalt-dresser_basalt
+Preshal More basalt;MSL_ROCK;MSL_ROCK10;MSL_ROCK;MSL_ROCK10;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-basalt-preshal_more_basalt
+Ralston basalt;MSL_ROCK;MSL_ROCK11;MSL_ROCK;MSL_ROCK11;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-basalt-ralston_basalt
+basanite;MSL_ROCK;MSL_ROCK12;MSL_ROCK;MSL_ROCK12;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-basanite
+foidite;MSL_ROCK;MSL_ROCK13;MSL_ROCK;MSL_ROCK13;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-foidite
+tephrite;MSL_ROCK;MSL_ROCK14;MSL_ROCK;MSL_ROCK14;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-basic_extrusive-tephrite
+andesite;MSL_ROCK;MSL_ROCK15;MSL_ROCK;MSL_ROCK15;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-intermediate_extrusive-andesite
+boninite;MSL_ROCK;MSL_ROCK16;MSL_ROCK;MSL_ROCK16;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-intermediate_extrusive-boninite
+latite;MSL_ROCK;MSL_ROCK17;MSL_ROCK;MSL_ROCK17;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-intermediate_extrusive-latite
+phonolite;MSL_ROCK;MSL_ROCK18;MSL_ROCK;MSL_ROCK18;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-intermediate_extrusive-phonolite
+A'a lava;MSL_ROCK;MSL_ROCK19;MSL_ROCK;MSL_ROCK19;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-lava-aa_lava
+columnar lava;MSL_ROCK;MSL_ROCK20;MSL_ROCK;MSL_ROCK20;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-lava-columnar_lava
+dome lava;MSL_ROCK;MSL_ROCK21;MSL_ROCK;MSL_ROCK21;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-lava-dome_lava
+Pahoehoe lava;MSL_ROCK;MSL_ROCK22;MSL_ROCK;MSL_ROCK22;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-lava-pahoehoe_lava
+pillow lava;MSL_ROCK;MSL_ROCK23;MSL_ROCK;MSL_ROCK23;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-lava-pillow_lava
+agglutinate;MSL_ROCK;MSL_ROCK24;MSL_ROCK;MSL_ROCK24;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-agglutinate
+lapilli tuff;MSL_ROCK;MSL_ROCK25;MSL_ROCK;MSL_ROCK25;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-lapilli_tuff
+lapillistone;MSL_ROCK;MSL_ROCK26;MSL_ROCK;MSL_ROCK26;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-lapillistone
+pyroclastic breccia;MSL_ROCK;MSL_ROCK27;MSL_ROCK;MSL_ROCK27;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-pyroclastic_breccia
+scoria;MSL_ROCK;MSL_ROCK28;MSL_ROCK;MSL_ROCK28;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-scoria
+Nevada tuff;MSL_ROCK;MSL_ROCK29;MSL_ROCK;MSL_ROCK29;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-tuff-nevada_tuff
+tuffbreccia;MSL_ROCK;MSL_ROCK30;MSL_ROCK;MSL_ROCK30;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-tuffbreccia
+welded tuff;MSL_ROCK;MSL_ROCK31;MSL_ROCK;MSL_ROCK31;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-pyroclastic_rock-welded_tuff
+komatiite;MSL_ROCK;MSL_ROCK32;MSL_ROCK;MSL_ROCK32;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-ultrabasic_extrusive-komatiite
+picrite;MSL_ROCK;MSL_ROCK33;MSL_ROCK;MSL_ROCK33;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-ultrabasic_extrusive-picrite
+obsidian;MSL_ROCK;MSL_ROCK34;MSL_ROCK;MSL_ROCK34;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-volcanic_glass-obsidian
+pumice;MSL_ROCK;MSL_ROCK35;MSL_ROCK;MSL_ROCK35;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_extrusive-volcanic_glass-pumice
+aplite;MSL_ROCK;MSL_ROCK36;MSL_ROCK;MSL_ROCK36;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-aplite
+Barre granite;MSL_ROCK;MSL_ROCK37;MSL_ROCK;MSL_ROCK37;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-barre_granite
+Black granite;MSL_ROCK;MSL_ROCK38;MSL_ROCK;MSL_ROCK38;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-black_granite
+Bohrung granite;MSL_ROCK;MSL_ROCK39;MSL_ROCK;MSL_ROCK39;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-bohrung_granite
+Bohus granite;MSL_ROCK;MSL_ROCK40;MSL_ROCK;MSL_ROCK40;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-bohus_granite
+Carnmenellis granite;MSL_ROCK;MSL_ROCK41;MSL_ROCK;MSL_ROCK41;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-carnmenellis_granite
+Chelmsford granite;MSL_ROCK;MSL_ROCK42;MSL_ROCK;MSL_ROCK42;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-chelmsford_granite
+Cold spring granite;MSL_ROCK;MSL_ROCK43;MSL_ROCK;MSL_ROCK43;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-cold_spring_granite
+Epprechtstein granite;MSL_ROCK;MSL_ROCK44;MSL_ROCK;MSL_ROCK44;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-epprechtstein_granite
+Fichtelgebirge granite;MSL_ROCK;MSL_ROCK45;MSL_ROCK;MSL_ROCK45;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-fichtelgebirge_granite
+Iidite granite;MSL_ROCK;MSL_ROCK46;MSL_ROCK;MSL_ROCK46;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-iidite_granite
+Merivalle granite;MSL_ROCK;MSL_ROCK47;MSL_ROCK;MSL_ROCK47;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-merivalle_granite
+Mieville granite;MSL_ROCK;MSL_ROCK48;MSL_ROCK;MSL_ROCK48;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-mieville_granite
+Sierre white granite;MSL_ROCK;MSL_ROCK49;MSL_ROCK;MSL_ROCK49;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-sierre_white_granite
+Strath Halladale granite;MSL_ROCK;MSL_ROCK50;MSL_ROCK;MSL_ROCK50;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-strath_halladale_granite
+Stripa granite;MSL_ROCK;MSL_ROCK51;MSL_ROCK;MSL_ROCK51;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-stripa_granite
+Westerly granite;MSL_ROCK;MSL_ROCK52;MSL_ROCK;MSL_ROCK52;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granite-westerly_granite
+Finssjorn granodiorite;MSL_ROCK;MSL_ROCK53;MSL_ROCK;MSL_ROCK53;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granodiorite-finssjorn_granodiorite
+Saint Cloud granodiorite;MSL_ROCK;MSL_ROCK54;MSL_ROCK;MSL_ROCK54;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-granodiorite-saint_cloud_granodiorite
+pegmatite;MSL_ROCK;MSL_ROCK55;MSL_ROCK;MSL_ROCK55;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-pegmatite
+Kiruna syenite;MSL_ROCK;MSL_ROCK56;MSL_ROCK;MSL_ROCK56;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-syenite-kiruna_syenite
+tonalite;MSL_ROCK;MSL_ROCK57;MSL_ROCK;MSL_ROCK57;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-acidic_intrusive-tonalite
+Maryland diabase;MSL_ROCK;MSL_ROCK58;MSL_ROCK;MSL_ROCK58;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-dolerite-maryland_diabase
+Whin sill dolorite;MSL_ROCK;MSL_ROCK59;MSL_ROCK;MSL_ROCK59;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-dolerite-whin_sill_dolorite
+foidolite;MSL_ROCK;MSL_ROCK60;MSL_ROCK;MSL_ROCK60;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-foidolite
+Academy black gabbro;MSL_ROCK;MSL_ROCK61;MSL_ROCK;MSL_ROCK61;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-gabbro-academy_black_gabbro
+Black gabbro;MSL_ROCK;MSL_ROCK62;MSL_ROCK;MSL_ROCK62;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-gabbro-black_gabbro
+Jinan gabbro;MSL_ROCK;MSL_ROCK63;MSL_ROCK;MSL_ROCK63;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-basic_intrusive-gabbro-jinan_gabbro
+anorthosite;MSL_ROCK;MSL_ROCK64;MSL_ROCK;MSL_ROCK64;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-intermediate_intrusive-anorthosite
+diorite;MSL_ROCK;MSL_ROCK65;MSL_ROCK;MSL_ROCK65;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-intermediate_intrusive-diorite
+monzonite;MSL_ROCK;MSL_ROCK66;MSL_ROCK;MSL_ROCK66;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-intermediate_intrusive-monzonite
+magma;MSL_ROCK;MSL_ROCK67;MSL_ROCK;MSL_ROCK67;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-magma
+hornblendite;MSL_ROCK;MSL_ROCK68;MSL_ROCK;MSL_ROCK68;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-hornblendite
+Aheim dunite;MSL_ROCK;MSL_ROCK69;MSL_ROCK;MSL_ROCK69;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-aheim_dunite
+Anita bay dunite;MSL_ROCK;MSL_ROCK70;MSL_ROCK;MSL_ROCK70;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-anita_bay_dunite
+Mount Burnet dunite;MSL_ROCK;MSL_ROCK71;MSL_ROCK;MSL_ROCK71;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-mount_burnet_dunite
+San carlos olivine;MSL_ROCK;MSL_ROCK72;MSL_ROCK;MSL_ROCK72;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-san_carlos_olivine
+synthetic peridotite;MSL_ROCK;MSL_ROCK73;MSL_ROCK;MSL_ROCK73;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-synthetic_peridotite
+synthetic peridotite - hot pressed olivine powder;MSL_ROCK;MSL_ROCK74;MSL_ROCK;MSL_ROCK74;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-peridotite-synthetic_peridotite_-_hot_pressed_olivine_powder
+Sleaford bay pyroxenite;MSL_ROCK;MSL_ROCK75;MSL_ROCK;MSL_ROCK75;https://epos-msl.uu.nl/voc/materials/1.3/igneous_rock_-_intrusive-ultrabasic_intrusive-pyroxenite-sleaford_bay_pyroxenite
+amphibolite;MSL_ROCK;MSL_ROCK77;MSL_ROCK;MSL_ROCK76;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-amphibolite
+eclogite;MSL_ROCK;MSL_ROCK78;MSL_ROCK;MSL_ROCK77;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-eclogite
+Fordham gneiss;MSL_ROCK;MSL_ROCK79;MSL_ROCK;MSL_ROCK78;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-gneiss-fordham_gneiss
+Urach paragneiss;MSL_ROCK;MSL_ROCK80;MSL_ROCK;MSL_ROCK79;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-gneiss-urach_paragneiss
+granofels;MSL_ROCK;MSL_ROCK81;MSL_ROCK;MSL_ROCK80;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-granofels
+granulite;MSL_ROCK;MSL_ROCK82;MSL_ROCK;MSL_ROCK81;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-granulite
+hornfels;MSL_ROCK;MSL_ROCK83;MSL_ROCK;MSL_ROCK82;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-hornfels
+Carrara marble;MSL_ROCK;MSL_ROCK84;MSL_ROCK;MSL_ROCK83;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-carrara_marble
+Danby marble;MSL_ROCK;MSL_ROCK85;MSL_ROCK;MSL_ROCK84;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-danby_marble
+Ekeberg marble;MSL_ROCK;MSL_ROCK86;MSL_ROCK;MSL_ROCK85;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-ekeberg_marble
+Feng Shan marble;MSL_ROCK;MSL_ROCK87;MSL_ROCK;MSL_ROCK86;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-feng_shan_marble
+Lasa marble;MSL_ROCK;MSL_ROCK88;MSL_ROCK;MSL_ROCK87;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-lasa_marble
+Ondagata marble;MSL_ROCK;MSL_ROCK89;MSL_ROCK;MSL_ROCK88;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-ondagata_marble
+Saint Pons marble;MSL_ROCK;MSL_ROCK90;MSL_ROCK;MSL_ROCK89;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-saint_pons_marble
+Tennessee marble;MSL_ROCK;MSL_ROCK91;MSL_ROCK;MSL_ROCK90;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-tennessee_marble
+Treuchtlingen marble;MSL_ROCK;MSL_ROCK92;MSL_ROCK;MSL_ROCK91;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-treuchtlingen_marble
+Yule marble;MSL_ROCK;MSL_ROCK93;MSL_ROCK;MSL_ROCK92;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-marble-yule_marble
+migmatite;MSL_ROCK;MSL_ROCK94;MSL_ROCK;MSL_ROCK93;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-migmatite
+mylonite;MSL_ROCK;MSL_ROCK95;MSL_ROCK;MSL_ROCK4;https://epos-msl.uu.nl/voc/materials/1.3/fault_rock-mylonite
+mylonite;MSL_ROCK;MSL_ROCK95;MSL_ROCK;MSL_ROCK94;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-mylonite
+phyllite;MSL_ROCK;MSL_ROCK96;MSL_ROCK;MSL_ROCK95;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-phyllite
+Black hills quartzite;MSL_ROCK;MSL_ROCK97;MSL_ROCK;MSL_ROCK96;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-quartzite-black_hills_quartzite
+Mojave quartzite;MSL_ROCK;MSL_ROCK98;MSL_ROCK;MSL_ROCK97;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-quartzite-mojave_quartzite
+Sioux quartzite;MSL_ROCK;MSL_ROCK99;MSL_ROCK;MSL_ROCK98;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-quartzite-sioux_quartzite
+Witwatersrand quartzite;MSL_ROCK;MSL_ROCK100;MSL_ROCK;MSL_ROCK99;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-quartzite-witwatersrand_quartzite
+blueschist;MSL_ROCK;MSL_ROCK101;MSL_ROCK;MSL_ROCK100;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-schist-blueschist
+greenschist;MSL_ROCK;MSL_ROCK102;MSL_ROCK;MSL_ROCK101;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-schist-greenschist
+whiteschist;MSL_ROCK;MSL_ROCK103;MSL_ROCK;MSL_ROCK102;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-schist-whiteschist
+serpentinite;MSL_ROCK;MSL_ROCK104;MSL_ROCK;MSL_ROCK103;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-serpentinite
+slate;MSL_ROCK;MSL_ROCK105;MSL_ROCK;MSL_ROCK104;https://epos-msl.uu.nl/voc/materials/1.3/metamorphic_rock-slate
+breccia;MSL_ROCK;MSL_ROCK129;MSL_ROCK;MSL_ROCK105;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-breccia
+anthracite;MSL_ROCK;MSL_ROCK130;MSL_ROCK;MSL_ROCK106;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-coal-anthracite
+bituminous coal;MSL_ROCK;MSL_ROCK131;MSL_ROCK;MSL_ROCK107;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-coal-bituminous_coal
+lignite;MSL_ROCK;MSL_ROCK132;MSL_ROCK;MSL_ROCK108;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-coal-lignite
+conglomerate;MSL_ROCK;MSL_ROCK133;MSL_ROCK;MSL_ROCK109;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-conglomerate
+Falkirk dolostone;MSL_ROCK;MSL_ROCK134;MSL_ROCK;MSL_ROCK110;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-falkirk_dolostone
+Kankakee dolostone;MSL_ROCK;MSL_ROCK135;MSL_ROCK;MSL_ROCK111;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-kankakee_dolostone
+Markgraf dolostone;MSL_ROCK;MSL_ROCK136;MSL_ROCK;MSL_ROCK112;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-markgraf_dolostone
+Miskin dolomite;MSL_ROCK;MSL_ROCK137;MSL_ROCK;MSL_ROCK113;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-miskin_dolomite
+Oatka dolostone;MSL_ROCK;MSL_ROCK138;MSL_ROCK;MSL_ROCK114;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-oatka_dolostone
+Romeo dolostone;MSL_ROCK;MSL_ROCK139;MSL_ROCK;MSL_ROCK115;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-dolomite-romeo_dolostone
+Basal Zechstein;MSL_ROCK;MSL_ROCK140;MSL_ROCK;MSL_ROCK116;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-evaporite-gypsum_or_anhydrite-basal_zechstein
+Asse salt;MSL_ROCK;MSL_ROCK141;MSL_ROCK;MSL_ROCK117;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-evaporite-rock_salt-asse_salt
+Anstrude limestone;MSL_ROCK;MSL_ROCK142;MSL_ROCK;MSL_ROCK118;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-anstrude_limestone
+Austin limestone;MSL_ROCK;MSL_ROCK143;MSL_ROCK;MSL_ROCK119;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-austin_limestone
+Balmholtz limestone;MSL_ROCK;MSL_ROCK144;MSL_ROCK;MSL_ROCK120;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-balmholtz_limestone
+Carthage limestone;MSL_ROCK;MSL_ROCK145;MSL_ROCK;MSL_ROCK121;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-carthage_limestone
+chalk;MSL_ROCK;MSL_ROCK146;MSL_ROCK;MSL_ROCK122;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-chalk
+Chauvigny limestone;MSL_ROCK;MSL_ROCK147;MSL_ROCK;MSL_ROCK123;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-chauvigny_limestone
+Comiso limestone;MSL_ROCK;MSL_ROCK148;MSL_ROCK;MSL_ROCK124;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-comiso_limestone
+Estaillades limestone;MSL_ROCK;MSL_ROCK149;MSL_ROCK;MSL_ROCK125;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-estaillades_limestone
+Fontvieille limestone;MSL_ROCK;MSL_ROCK150;MSL_ROCK;MSL_ROCK126;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-fontvieille_limestone
+Hallekis limestone;MSL_ROCK;MSL_ROCK151;MSL_ROCK;MSL_ROCK127;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-hallekis_limestone
+Holston limestone;MSL_ROCK;MSL_ROCK152;MSL_ROCK;MSL_ROCK128;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-holston_limestone
+Indiana limestone;MSL_ROCK;MSL_ROCK153;MSL_ROCK;MSL_ROCK129;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-indiana_limestone
+Irondequoit limestone;MSL_ROCK;MSL_ROCK154;MSL_ROCK;MSL_ROCK130;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-irondequoit_limestone
+Leitha limestone;MSL_ROCK;MSL_ROCK155;MSL_ROCK;MSL_ROCK131;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-leitha_limestone
+Lueders limestone;MSL_ROCK;MSL_ROCK156;MSL_ROCK;MSL_ROCK132;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-lueders_limestone
+Majella limestone;MSL_ROCK;MSL_ROCK157;MSL_ROCK;MSL_ROCK133;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-majella_limestone
+Red Oland limestone;MSL_ROCK;MSL_ROCK158;MSL_ROCK;MSL_ROCK134;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-red_oland_limestone
+Reynales limestone;MSL_ROCK;MSL_ROCK159;MSL_ROCK;MSL_ROCK135;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-reynales_limestone
+Saint Maximin limestone;MSL_ROCK;MSL_ROCK160;MSL_ROCK;MSL_ROCK136;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-saint_maximin_limestone
+Shelly limestone;MSL_ROCK;MSL_ROCK161;MSL_ROCK;MSL_ROCK137;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-shelly_limestone
+Solnhofen limestone;MSL_ROCK;MSL_ROCK162;MSL_ROCK;MSL_ROCK138;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-solnhofen_limestone
+Tavel limestone;MSL_ROCK;MSL_ROCK163;MSL_ROCK;MSL_ROCK139;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-tavel_limestone
+travertine;MSL_ROCK;MSL_ROCK164;MSL_ROCK;MSL_ROCK140;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-limestone-travertine
+marl;MSL_ROCK;MSL_ROCK165;MSL_ROCK;MSL_ROCK141;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-marl
+Boom clay;MSL_ROCK;MSL_ROCK166;MSL_ROCK;MSL_ROCK142;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-claystone-boom_clay
+Kimmeridge clay;MSL_ROCK;MSL_ROCK167;MSL_ROCK;MSL_ROCK143;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-claystone-kimmeridge_clay
+Barnett shale;MSL_ROCK;MSL_ROCK168;MSL_ROCK;MSL_ROCK144;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-barnett_shale
+Callovo-Oxfordian shale;MSL_ROCK;MSL_ROCK169;MSL_ROCK;MSL_ROCK145;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-callovo-oxfordian_shale
+Green River shale;MSL_ROCK;MSL_ROCK170;MSL_ROCK;MSL_ROCK146;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-green_river_shale
+Haynesville shale;MSL_ROCK;MSL_ROCK171;MSL_ROCK;MSL_ROCK147;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-haynesville_shale
+Lafayette shale;MSL_ROCK;MSL_ROCK172;MSL_ROCK;MSL_ROCK148;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-lafayette_shale
+Marcellus shale;MSL_ROCK;MSL_ROCK173;MSL_ROCK;MSL_ROCK149;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-marcellus_shale
+Mercia mudstone;MSL_ROCK;MSL_ROCK174;MSL_ROCK;MSL_ROCK150;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-mercia_mudstone
+Opalinus shale;MSL_ROCK;MSL_ROCK175;MSL_ROCK;MSL_ROCK151;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-opalinus_shale
+Posidonia shale;MSL_ROCK;MSL_ROCK176;MSL_ROCK;MSL_ROCK152;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-posidonia_shale
+Rochester shale;MSL_ROCK;MSL_ROCK177;MSL_ROCK;MSL_ROCK153;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-rochester_shale
+Rome basin shale;MSL_ROCK;MSL_ROCK178;MSL_ROCK;MSL_ROCK154;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-rome_basin_shale
+Tournemire shale;MSL_ROCK;MSL_ROCK179;MSL_ROCK;MSL_ROCK155;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-tournemire_shale
+Whitby mudstone;MSL_ROCK;MSL_ROCK180;MSL_ROCK;MSL_ROCK156;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-shale-whitby_mudstone
+siltstone;MSL_ROCK;MSL_ROCK181;MSL_ROCK;MSL_ROCK157;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-mudstone-siltstone
+Bentheim sandstone;MSL_ROCK;MSL_ROCK182;MSL_ROCK;MSL_ROCK158;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-bentheim_sandstone
+Dobbs valley sandstone;MSL_ROCK;MSL_ROCK183;MSL_ROCK;MSL_ROCK159;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-dobbs_valley_sandstone
+Fontainebleau sandstone;MSL_ROCK;MSL_ROCK184;MSL_ROCK;MSL_ROCK160;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-fontainebleau_sandstone
+Gold sandstone;MSL_ROCK;MSL_ROCK185;MSL_ROCK;MSL_ROCK161;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-gold_sandstone
+Oberkirchen sandstone;MSL_ROCK;MSL_ROCK186;MSL_ROCK;MSL_ROCK162;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-oberkirchen_sandstone
+Penrith sandstone;MSL_ROCK;MSL_ROCK187;MSL_ROCK;MSL_ROCK163;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-penrith_sandstone
+Saint Peter sandstone;MSL_ROCK;MSL_ROCK188;MSL_ROCK;MSL_ROCK164;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-saint_peter_sandstone
+Tennessee sandstone;MSL_ROCK;MSL_ROCK189;MSL_ROCK;MSL_ROCK165;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-arenite-tennessee_sandstone
+Adamswiller sandstone;MSL_ROCK;MSL_ROCK190;MSL_ROCK;MSL_ROCK166;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-adamswiller_sandstone
+Berea sandstone;MSL_ROCK;MSL_ROCK191;MSL_ROCK;MSL_ROCK167;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-berea_sandstone
+Bleurswiller sandstone;MSL_ROCK;MSL_ROCK192;MSL_ROCK;MSL_ROCK168;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-bleurswiller_sandstone
+Boise sandstone;MSL_ROCK;MSL_ROCK193;MSL_ROCK;MSL_ROCK169;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-boise_sandstone
+Captain sandstone;MSL_ROCK;MSL_ROCK194;MSL_ROCK;MSL_ROCK170;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-captain_sandstone
+Castlegate sandstone;MSL_ROCK;MSL_ROCK195;MSL_ROCK;MSL_ROCK171;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-castlegate_sandstone
+Colorado red sandstone;MSL_ROCK;MSL_ROCK196;MSL_ROCK;MSL_ROCK172;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-colorado_red_sandstone
+Darley dale sandstone;MSL_ROCK;MSL_ROCK197;MSL_ROCK;MSL_ROCK173;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-darley_dale_sandstone
+Diemelstadt sandstone;MSL_ROCK;MSL_ROCK198;MSL_ROCK;MSL_ROCK174;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-diemelstadt_sandstone
+Hollington sandstone;MSL_ROCK;MSL_ROCK199;MSL_ROCK;MSL_ROCK175;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-hollington_sandstone
+Kayenta sandstone;MSL_ROCK;MSL_ROCK200;MSL_ROCK;MSL_ROCK176;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-kayenta_sandstone
+Navaho sandstone;MSL_ROCK;MSL_ROCK201;MSL_ROCK;MSL_ROCK177;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-navaho_sandstone
+Rothbach sandstone;MSL_ROCK;MSL_ROCK202;MSL_ROCK;MSL_ROCK178;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-rothbach_sandstone
+Sherwood sandstone;MSL_ROCK;MSL_ROCK203;MSL_ROCK;MSL_ROCK179;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-sherwood_sandstone
+Slochteren sandstone;MSL_ROCK;MSL_ROCK204;MSL_ROCK;MSL_ROCK180;https://epos-msl.uu.nl/voc/materials/1.3/sedimentary_rock-sandstone-wacke-slochteren_sandstone

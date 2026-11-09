@@ -1,0 +1,83 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_INFERRED,https://epos-msl.uu.nl/voc/microscopy/1.4/|https://epos-msl.uu.nl/voc/paleomagnetism/1.4/|https://epos-msl.uu.nl/voc/rockphysics/1.4/,
+Code,Description,Label
+MSL_INFERRED1,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-dike_flow_direction,dike flow direction
+MSL_INFERRED2,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-ductile_deformation,ductile deformation
+MSL_INFERRED3,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-emplacement_of_ore_body,emplacement of ore body
+MSL_INFERRED4,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-lava_flow_direction,lava flow direction
+MSL_INFERRED5,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anisotropy_degree,magnetic anisotropy degree
+MSL_INFERRED6,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anisotropy_through_rock_structure-magnetic_anisotropy_through_crystallographic_preferred_orientation_cpo,magnetic anisotropy through crystallographic preferred orientation (CPO)
+MSL_INFERRED7,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anisotropy_through_rock_structure-magnetic_anisotropy_through_shape_preferred_orientation_spo,magnetic anisotropy through shape preferred orientation (SPO)
+MSL_INFERRED8,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_anomalies,magnetic anomalies
+MSL_INFERRED9,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_foliation,magnetic foliation
+MSL_INFERRED10,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-magnetic_lineation,magnetic lineation
+MSL_INFERRED11,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-natural_remanent_magnetisation_nrm_orientation,natural remanent magnetisation (NRM) orientation
+MSL_INFERRED12,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-paleo-magnetic_current_direction,paleo-magnetic current direction
+MSL_INFERRED13,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-anisotropy_of_magnetic_susceptibility_and_remanence-principal_axes_of_magnetic_susceptibility_and_remancence,principal axes of magnetic susceptibility and remancence
+MSL_INFERRED14,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-_paleo-secular_variation,(paleo-)secular variation
+MSL_INFERRED15,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-absolute_palaeointensity,absolute palaeointensity
+MSL_INFERRED16,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-archeomagnetic_dating,archeomagnetic dating
+MSL_INFERRED17,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-archeomagnetism,archeomagnetism
+MSL_INFERRED18,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-crustal_block_rotation,crustal block rotation
+MSL_INFERRED19,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-dating_volcanic_products,dating volcanic products
+MSL_INFERRED20,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-geodynamic_and_tectonic_processes,geodynamic and tectonic processes
+MSL_INFERRED21,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-geomagnetic_polarity_time_scale_gpts,geomagnetic polarity time scale (GPTS)
+MSL_INFERRED22,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-inferred_paleogeography,inferred paleogeography
+MSL_INFERRED23,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-magnetostratigraphy,magnetostratigraphy
+MSL_INFERRED24,https://epos-msl.uu.nl/voc/paleomagnetism/1.4/inferred_behavior-natural_remanent_magnetisation_processing-relative_paleointensity,relative paleointensity
+MSL_INFERRED25,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-anelastic_deformation,anelastic deformation
+MSL_INFERRED26,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-brittle_deformation,brittle deformation
+MSL_INFERRED27,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-brittle-ductile_deformation,brittle-ductile deformation
+MSL_INFERRED28,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-brittle-viscous_deformation,brittle-viscous deformation
+MSL_INFERRED29,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-ductile_deformation,ductile deformation
+MSL_INFERRED30,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-flow_law-associated_flow,associated flow
+MSL_INFERRED31,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-flow_law-nonassociated_flow,nonassociated flow
+MSL_INFERRED32,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-frictional_deformation,frictional deformation
+MSL_INFERRED33,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-hysteretic_deformation,hysteretic deformation
+MSL_INFERRED34,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-inelastic_deformation,inelastic deformation
+MSL_INFERRED35,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-localized_deformation-compaction_band,compaction band
+MSL_INFERRED36,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-localized_deformation-dilation_band,dilation band
+MSL_INFERRED37,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-localized_deformation-riedel_shear,Riedel shear
+MSL_INFERRED38,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-localized_deformation-shear_band,shear band
+MSL_INFERRED39,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-localized_deformation-shear_failure,shear failure
+MSL_INFERRED40,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-poroelastic_deformation,poroelastic deformation
+MSL_INFERRED41,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-strain_tensor-deviatoric_strain_tensor,deviatoric strain tensor
+MSL_INFERRED42,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-strain_tensor-elastic_strain_tensor,elastic strain tensor
+MSL_INFERRED43,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-strain_tensor-inelastic_strain_tensor,inelastic strain tensor
+MSL_INFERRED44,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-strain_tensor-mean_strain_tensor,mean strain tensor
+MSL_INFERRED45,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-deformation_behaviour-viscous_deformation,viscous deformation
+MSL_INFERRED46,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-energy_partitioning,energy partitioning
+MSL_INFERRED47,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-fluid_absorption,fluid absorption
+MSL_INFERRED48,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-fluid_adsorption,fluid adsorption
+MSL_INFERRED49,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-fluid_desorption,fluid desorption
+MSL_INFERRED50,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-frictional_heating,frictional heating
+MSL_INFERRED51,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-intergranular_cracking,intergranular cracking
+MSL_INFERRED52,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-intergranular_slip,intergranular slip
+MSL_INFERRED53,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-intragranular_cracking,intragranular cracking
+MSL_INFERRED54,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-time-dependent_mechanism-crystal_plasticity_-_diffusion_creep,crystal plasticity - diffusion creep
+MSL_INFERRED55,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-time-dependent_mechanism-crystal_plasticity_-_dislocation_creep,crystal plasticity - dislocation creep
+MSL_INFERRED56,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-time-dependent_mechanism-pressure_solution,pressure solution
+MSL_INFERRED57,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-time-dependent_mechanism-stress_corrosion_cracking,stress corrosion cracking
+MSL_INFERRED58,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-time-dependent_mechanism-sub-critical_crack_growth,sub-critical crack growth
+MSL_INFERRED59,https://epos-msl.uu.nl/voc/rockphysics/1.4/inferred_deformation_behavior-microphysical_deformation_mechanism-transgranular_cracking,transgranular cracking
+MSL_INFERRED60,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_finite_strain,inferred finite strain
+MSL_INFERRED61,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_shear_sense,inferred shear sense
+MSL_INFERRED62,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_strain_history,inferred strain history
+MSL_INFERRED63,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_strain_rate,inferred strain rate
+MSL_INFERRED64,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_stress,inferred stress
+MSL_INFERRED65,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_deformation_conditions-inferred_vorticity_axis,inferred vorticity axis
+MSL_INFERRED66,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_mechanisms-inferred_deformation_mechanisms,inferred deformation mechanisms
+MSL_INFERRED67,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_mechanisms-inferred_recrystallization_mechanisms-geometric_dynamic_recrystallization,geometric dynamic recrystallization
+MSL_INFERRED68,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_mechanisms-inferred_recrystallization_mechanisms-grain_boundary_bulging,grain boundary bulging
+MSL_INFERRED69,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_mechanisms-inferred_recrystallization_mechanisms-grain_boundary_migration,grain boundary migration
+MSL_INFERRED70,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_mechanisms-inferred_recrystallization_mechanisms-subgrain_rotation,subgrain rotation
+MSL_INFERRED71,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_metamorphic_conditions-inferred_fluid_pressure,inferred fluid pressure
+MSL_INFERRED72,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_metamorphic_conditions-inferred_lithostatic_pressure,inferred lithostatic pressure
+MSL_INFERRED73,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_metamorphic_conditions-inferred_shock_pressure_and_temperature,inferred shock pressure and temperature
+MSL_INFERRED74,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_metamorphic_conditions-inferred_temperature,inferred temperature
+MSL_INFERRED75,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_properties-inferred_crystal_plastic_properties-dislocation_slip_systems,dislocation slip systems
+MSL_INFERRED76,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_properties-inferred_internal_stored_stress,inferred Internal stored stress
+MSL_INFERRED77,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_properties-inferred_permeability,inferred permeability
+MSL_INFERRED78,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_properties-inferred_rheology,inferred rheology
+MSL_INFERRED79,https://epos-msl.uu.nl/voc/microscopy/1.4/inferred_parameter-inferred_properties-inferred_sesimic_anisotropy,inferred sesimic anisotropy

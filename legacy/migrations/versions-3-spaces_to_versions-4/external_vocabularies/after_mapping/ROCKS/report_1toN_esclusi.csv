@@ -1,0 +1,99 @@
+﻿Code;Vecchio_Contenuto_Descrizione;Label;Dizionario_Sorgente
+ROC1;Volcanic rock type;Adakite;ROCKS
+ROC3;Type of igneous rock rich in alkali feldspar;Alkali feldspar granite;ROCKS
+ROC5;Fine-grained intrusive igneous rock type similar to granite;Aplite;ROCKS
+ROC7;Basaltic lava with a crumpled appearance;Aa (Basalt);ROCKS
+ROC8;Basaltic lava with a flowing, often ropy appearance;Pahoehoe (Basalt);ROCKS
+ROC9;;Basaltic trachyandesite;ROCKS
+ROC10;Volcanic rock type;Mugearite (Basaltic trachyandesite);ROCKS
+ROC11;Potassium-rich variety of basaltic trachyandesite;Shoshonite (Basaltic trachyandesite);ROCKS
+ROC13;Rare porphyritic volcanic rock;Blairmorite;ROCKS
+ROC16;Type of granite containing orthopyroxene;Charnockite;ROCKS
+ROC17;Igneous rock of the charnockite series;Enderbite (Charnockite);ROCKS
+ROC19;Type of igneous rock;Diabase, also known as dolerite;ROCKS
+ROC21;Variety of diorite with orbicular structure;Napoleonite (Diorite), also known as corsite;ROCKS
+ROC23;Igneous rock type;Essexite;ROCKS
+ROC28;Subvolcanic rock that contains quartz and alkali feldspar in characteristic angular intergrowths;Granophyre;ROCKS
+ROC32;Igneous rock type;Icelandite;ROCKS
+ROC34;Igneous rock consisting essentially of nepheline and augite;Ijolite;ROCKS
+ROC43;Holocrystalline plutonic rock - A silica-undersaturated plutonic rock of nepheline and alkali feldspar;Nepheline syenite;ROCKS
+ROC50;A volcanic rock with a composition between phonolite and tephrite;Phonotephrite;ROCKS
+ROC53;Light coloured highly vesicular volcanic rock;Pumice;ROCKS
+ROC55;Igneous, plutonic rock - A diorite with >5% modal quartz;Quartz diorite;ROCKS
+ROC56;Type of igneous rock - An intermediate plutonic rock, essentially a monzonite with 5-10% modal quartz;Quartz monzonite;ROCKS
+ROC58;Volcanic rock rich in silica and low in alkali metal oxides - A felsic volcanic rock which is intermediate between a rhyolite and a dacite;Rhyodacite;ROCKS
+ROC60;Hard, peralkaline igneous rock, a type of light blue grey rhyolite;Comendite (Rhyolite);ROCKS
+ROC61;Peralkaline rhyolite type of volcanic rock;Pantellerite (Rhyolite);ROCKS
+ROC62;Dark vesicular volcanic rock;Scoria;ROCKS
+ROC63;Intrusive igneous rock - a plutonic rock;Shonkinite;ROCKS
+ROC64;A coarse-grained carbonatite rock;Sovite;ROCKS
+ROC66;Essentially a basaltic glass;Tachylyte;ROCKS
+ROC67;A volcanic rock with a composition between phonotephrite and phonolite;Tephriphonolite;ROCKS
+ROC71;Silica-undersaturated volcanic rock of intermediate composition - sodic trachyandesite;Benmoreite (Trachyandesite);ROCKS
+ROC73;Volcanic rock - a sodic type of trachybasalt, typically formed by ocean island (hot spot) volcanism;Hawaiite (Trachybasalt);ROCKS
+ROC76;Light-colored intrusive igneous rock - A form of tonalite where plagioclase-group feldspar is oligoclase;Trondhjemite;ROCKS
+ROC80;Sedimentary rock, mostly of indurated clay particles;Argillite;ROCKS
+ROC81;Type of sandstone containing at least 25% feldspar;Arkose;ROCKS
+ROC82;Distinctive layered units of iron-rich sedimentary rock that are almost always of Precambrian age;Banded iron formation;ROCKS
+ROC90;Sedimentary rock that is composed mostly of fragments of shells;Coquina;ROCKS
+ROC93;Sedimentary carbonate rock that contains a high percentage of the mineral dolomite;Dolomite (rock), also known as Dolostone;ROCKS
+ROC94;Water-soluble mineral deposit formed by evaporation from an aqueous solution;Evaporite;ROCKS
+ROC96;Form of opaline silica that is often found around hot springs and geysers;Geyserite;ROCKS
+ROC97;Hard, dark sandstone with poorly sorted angular grains in a compact, clay-fine matrix;Greywacke;ROCKS
+ROC98;Hard, coarse-grained, siliceous sandstone;Gritstone;ROCKS
+ROC99;A porous, yellow sandstone or schistose quartzite that is flexible when cut into thin strips;Itacolumite;ROCKS
+ROC100;Banded mixture of hematite and quartz;Jaspillite;ROCKS
+ROC101;Product of rock weathering in wet tropical climate rich in iron and aluminium;Laterite;ROCKS
+ROC104;Lime-rich mud or mudstone which contains variable amounts of clays and silt;Marl;ROCKS
+ROC106;Organic-rich fine-grained sedimentary rock containing kerogen;Oil shale;ROCKS
+ROC107;Sedimentary rock formed from ooids;Oolite;ROCKS
+ROC110;Fine-grained, clastic sedimentary rock;Shale;ROCKS
+ROC112;A sedimentary rock made of a mechanical mixture of sylvite and halite;Sylvinite;ROCKS
+ROC113;Till which has been indurated or lithified by burial;Tillite;ROCKS
+ROC114;Form of limestone deposited by mineral springs;Travertine;ROCKS
+ROC116;Geologic deposit of a turbidity current;Turbidite;ROCKS
+ROC117;Mud-supported carbonate rock that contains greater than 10% grains;Wackestone;ROCKS
+ROC120;Type of metavolcanic rock;Blueschist;ROCKS
+ROC124;Class of high-grade medium to coarse grained metamorphic rocks;Granulite;ROCKS
+ROC125;A mafic metamorphic rock dominated by green amphiboles;Greenschist;ROCKS
+ROC127;A type of hornfels found in the Scottish Highlands;Calcflinta (Hornfels);ROCKS
+ROC128;Nepheline syenite gneiss;Litchfieldite;ROCKS
+ROC130;Mixture of metamorphic rock and igneous rock;Migmatite;ROCKS
+ROC132;A metamorphic rock with a protolith of clay-rich (siltstone) sedimentary rock;Metapelite;ROCKS
+ROC133;A metamorphic rock with a protolith of quartz-rich (sandstone) sedimentary rock;Metapsammite;ROCKS
+ROC134;Type of foliated metamorphic rock - A low grade metamorphic rock composed mostly of micaceous minerals;Phyllite;ROCKS
+ROC141;Rock consisting partly of melted material formed during an impact event - A rock formed by partial melting during a meteorite impact;Suevite;ROCKS
+ROC142;"A metamorphosed ultramafic rock with talc as an essential constituent; similar to a serpentinite";Talc carbonate;ROCKS
+ROC143;Talc-bearing metamorphic rock - Essentially a talc schist;Soapstone (Talc carbonate);ROCKS
+ROC144;A rock whose fabric reflects the history of its deformation;Tectonite;ROCKS
+ROC145;A high pressure metamorphic rock containing talc and kyanite;Whiteschist;ROCKS
+ROC146;A variety of quartz monzonite;Adamellite;ROCKS
+ROC147;A group of varieties of lamprophyre, mostly rich in hornblende;Appinite;ROCKS
+ROC148;Igneous rock composed of very small crystals invisible to the naked eye;Aphanite;ROCKS
+ROC149;Variety of nepheline syenite from Loch Borralan, Scotland;Borolanite;ROCKS
+ROC150;Variety of monzonite, an igneous rock;Blue Granite;ROCKS
+ROC151;Hydrothermally altered epidote- and quartz-bearing rock;Epidosite;ROCKS
+ROC157;Igneous rock consisting essentially of nepheline and augite;Ijolite;ROCKS
+ROC158;Metamorphic rock found in blueschist-grade metamorphic terranes;Jadeitite;ROCKS
+ROC159;A hematite-silica metasomatite analogous to a skarn;Jasperoid;ROCKS
+ROC160;Type of igneous rock - A variety of phonolite, first found on Mount Kenya;Kenyte;ROCKS
+ROC161;Contact metamorphic rock containing lazurite, pyrite and calcite - A rock composed of lazurite and other minerals;Lapis lazuli;ROCKS
+ROC162;Variety of monzonite, an igneous rock;Larvikite;ROCKS
+ROC163;A metamorphosed nepheline syenite occurrence near Litchfield, Maine;Litchfieldite;ROCKS
+ROC164;A hypabyssal rhyolite with microcline and blue quartz phenocrysts from the Llano Uplift in Texas;Llanite;ROCKS
+ROC165;Rare type of granite;Luxullianite;ROCKS
+ROC166;Plutonic intrusive igneous rock, that is essentially a hypersthene-bearing monzonite;Mangerite;ROCKS
+ROC168;A type of chert found in Oklahoma, Arkansas, and Texas;Novaculite;ROCKS
+ROC169;Breccia rock of hawk's eyes and tiger's eyes;Pietersite;ROCKS
+ROC170;A chemical analogue considered to theoretically represent the earth's upper mantle;Pyrolite;ROCKS
+ROC171;Type of igneous rock;Rapakivi granite;ROCKS
+ROC172;A type of latite with euhedral rhombic phenocrysts of feldspar;Rhomb porphyry;ROCKS
+ROC173;A mafic rock metasomatized by serpentinization fluids;Rodingite;ROCKS
+ROC174;Intrusive igneous rock - melitilic and kalsititic rocks;Shonkinite;ROCKS
+ROC175;Variety of iron-bearing sedimentary rock;Taconite;ROCKS
+ROC176;Form of basaltic volcanic glass;Tachylite;ROCKS
+ROC177;A silica undersaturated, analcime bearing gabbro;Teschenite;ROCKS
+ROC178;A nepheline gabbro;Theralite;ROCKS
+ROC179;An altered granite;Unakite;ROCKS
+ROC180;Igneous rocks which contain varioles;Variolite;ROCKS
+ROC182;A rock rich in manganese oxide or manganese hydroxide;Wad;ROCKS

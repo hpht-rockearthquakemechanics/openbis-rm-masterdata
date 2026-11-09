@@ -1,0 +1,25 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_FACILITY,https://epos-msl.uu.nl/voc/fieldscale/1.4/,
+Code,Description,Label
+MSL_FACILITY1,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-acuto_field_laboratory,Acuto Field Laboratory
+MSL_FACILITY2,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-bedretto_underground_laboratory_for_geosciences_and_geoenergies,Bedretto Underground Laboratory for Geosciences and Geoenergies
+MSL_FACILITY3,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-bochum_research_and_exploration_drilling_rig,Bochum Research and Exploration Drilling Rig
+MSL_FACILITY4,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-brgms_geothermal_testing_facility,BRGM’s Geothermal Testing Facility
+MSL_FACILITY5,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-catenoy_experimental_site,CATenoy experimental site
+MSL_FACILITY6,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-eccsel_svelvik_co2_field_lab,ECCSEL Svelvik CO2 Field Lab
+MSL_FACILITY7,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-energy_technology_fraunhofer_ieg,Energy Technology Fraunhofer IEG
+MSL_FACILITY8,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-geotechnology_laboratory_fraunhofer_ieg,Geotechnology Laboratory Fraunhofer IEG
+MSL_FACILITY9,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-geothermal_project_on_tu_delft_campus,Geothermal Project on TU Delft campus
+MSL_FACILITY10,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-geothermal_research_platform_gros_schonebeck,Geothermal research platform Groß Schönebeck
+MSL_FACILITY11,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-krafla_magma_testbed,Krafla Magma Testbed
+MSL_FACILITY12,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-pilot_site_for_geological_storage_of_co2_ketzin,Pilot site for geological storage of CO2 Ketzin
+MSL_FACILITY13,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-pitop_borehole_geophysical_test_site,PITOP Borehole Geophysical Test Site
+MSL_FACILITY14,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-poggio_baldi_landslide,Poggio Baldi Landslide
+MSL_FACILITY15,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-rijswijk_centre_for_sustainable_geo-energy,Rijswijk Centre for Sustainable Geo-energy
+MSL_FACILITY16,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-sotacarbo_fault_laboratory,Sotacarbo Fault Laboratory
+MSL_FACILITY17,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-trudi_underground_laboratory,TRUDI underground laboratory
+MSL_FACILITY18,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-uk_geoenergy_research_centre,UK GeoEnergy Research Centre
+MSL_FACILITY19,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-uk_geos,UK Geos
+MSL_FACILITY20,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-underground_research_laboratory_andra,Underground research laboratory Andra
+MSL_FACILITY21,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_names-ventotene_field_laboratory,Ventotene Field Laboratory

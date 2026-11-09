@@ -1,0 +1,1008 @@
+QuantityKind_URI,Label,Description,Vocab_Version
+http://qudt.org/vocab/quantitykind/APIGravity,API Gravity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AbsoluteActivity,Absolute Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AbsoluteHumidity,Absolute Humidity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AbsorbedDose,Absorbed Dose,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AbsorbedDoseRate,Absorbed Dose Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Absorptance,Absorptance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Acceleration,acceleration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AccelerationOfGravity,Acceleration Of Gravity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AcceptorDensity,Acceptor Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AcceptorIonizationEnergy,Acceptor Ionization Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Acidity,Acidity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AcousticImpedance,Acoustic Impediance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Action,Action,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActionTime,Action Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActiveEnergy,Active Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActivePower,Active Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Activity,Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActivityCoefficient,Activity Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActivityConcentration,Activity Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ActivityThresholds,Activity Thresholds,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Adaptation,Adaptation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Admittance,Admittance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AlphaDisintegrationEnergy,Alpha Disintegration Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Altitude,Altitude,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmbientPressure,Ambient Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfCloudCover,Amount of cloud cover,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstance,amount of substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstanceConcentration,Amount of Substance of Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstanceFraction,Fractional Amount of Substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstanceIonConcentration,Ion Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMass,Amount of Substance per Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMassPressure,Molar Mass variation due to Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AmountOfSubstancePerVolume,Amount of Substance per Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Angle,Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngleOfAttack,Angle Of Attack,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngleOfOpticalRotation,Angle of Optical Rotation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularAcceleration,angular acceleration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularCrossSection,Angular Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularDistance,Angular Distance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularFrequency,angular frequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularImpulse,angular impulse,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularMomentum,Angular Momentum,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularMomentumPerAngle,Angular Momentum per Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularReciprocalLatticeVector,Angular Reciprocal Lattice Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularVelocity,angular velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AngularWavenumber,angular wavenumber,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ApogeeRadius,Apogee Radius,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ApparentPower,apparent power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Area,area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaAngle,Area Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaPerLength,area per length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaPerPower,area per heating load,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaPerTime,Area per Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaRatio,Area Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaTemperature,Area Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaThermalExpansion,Area Thermal Expansion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaTime,Area Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreaTimeTemperature,Area Time Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AreicHeatFlowRate,Aeric Heat Flow Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Asset,Asset,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtmosphericHydroxylationRate,Atmospheric Hydroxylation Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtmosphericPressure,Atmospheric Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtomScatteringFactor,Atom Scattering Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtomicAttenuationCoefficient,Atomic Attenuation Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtomicCharge,Atomic Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtomicMass,Atomic Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AtomicNumber,Atomic Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AttenuationCoefficient,Attenuation Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AuditoryThresholds,Auditory Thresholds,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AuxillaryMagneticField,Auxillary Magnetic Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AverageEnergyLossPerElementaryChargeProduced,Average Energy Loss per Elementary Charge Produced,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AverageHeadEndPressure,Average Head End Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AverageLogarithmicEnergyDecrement,Average Logarithmic Energy Decrement,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AverageSpecificImpulse,Average Specific Impulse,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/AverageVacuumThrust,Average Vacuum Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Azimuth,Azimuth,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Basicity,Basicity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BendingMomentOfForce,Bending Moment of Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BetaDisintegrationEnergy,Beta Disintegration Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BevelGearPitchAngle,Bevel Gear Pitch Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BindingFraction,Binding Fraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BioconcentrationFactor,Bioconcentration Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BiodegredationHalfLife,Biodegredation Half Life,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BiogeochemicalRate,Biogeochemical Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BloodGlucoseLevel,Blood Glucose Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BloodGlucoseLevel_Mass,Blood Glucose Level by Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BodyMassIndex,Body Mass Index,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BoilingPoint,Boiling Point Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BraggAngle,Bragg Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Breadth,breadth,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BucklingFactor,Buckling Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BulkModulus,Bulk Modulus,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BurgersVector,Burgers Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BurnRate,Burn Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/BurnTime,Burn Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_X,Center of Gravity in the X axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_Y,Center of Gravity in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_Z,Center of Gravity in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CENTER-OF-MASS,Center of Mass (CoM),,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CONTRACT-END-ITEM-SPECIFICATION-MASS,Contract End Item (CEI) Specification Mass.,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CONTROL-MASS,Control Mass.,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CanonicalPartitionFunction,Canonical Partition Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Capacitance,Capacitance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Capacity,Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CarrierLifetime,Carrier LifetIme,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CartesianArea,Cartesian Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CartesianCoordinates,Cartesian coordinates,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CartesianVolume,volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CatalyticActivity,Catalytic Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CatalyticActivityConcentration,Catalytic Activity Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CationExchangeCapacity,Cation Exchange Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CelsiusTemperature,Celsius temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CenterOfGravity_X,Center of Gravity in the X axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CenterOfGravity_Y,Center of Gravity in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CenterOfGravity_Z,Center of Gravity in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CharacteristicAcousticImpedance,Characteristic Acoustic Impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CharacteristicVelocity,Characteristic Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ChargeNumber,Charge Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ChemicalAffinity,Chemical Affinity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ChemicalConsumptionPerMass,Chemical Consumption per Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ChemicalPotential,chemical potential,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Chromaticity,Chromaticity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Circulation,Circulation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ClosestApproachRadius,Closest Approach Radius,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CoefficientOfHeatTransfer,Coefficient of heat transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CoefficientOfPerformance,CoefficientOfPerformance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Coercivity,Coercivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CoherenceLength,Coherence Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ColdReceptorThreshold,Cold Receptor Threshold,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CombinedNonEvaporativeHeatTransferCoefficient,Combined Non Evaporative Heat Transfer Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CombustionChamberTemperature,Combustion Chamber Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ComplexPower,Complex Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CompoundPlaneAngle,Compound Plane Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Compressibility,Compressibility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CompressibilityFactor,Compressibility Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Concentration,Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Conductance,Conductance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ConductionSpeed,Conduction Speed,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ConductiveHeatTransferRate,Conductive Heat Transfer Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Conductivity,Conductivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ConductivityVariance,Conductivity Variance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ConductivityVariance_NEON,"Conductivity Variance, NEON",,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Constringence,Constringence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ConvectiveHeatTransfer,Convective Heat Transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CoolingPerformanceRatio,Cooling Performance Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CorrelatedColorTemperature,Correlated Colour Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CostPerArea,cost per area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CostPerEnergy,energy cost,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CostPerMass,cost per mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CostPerPower,cost per power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Count,Count,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CountRate,CountRate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CouplingFactor,coupling factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CrossSection,Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CrossSectionalArea,Cross-sectional Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CubicElectricDipoleMomentPerSquareEnergy,Cubic Electric Dipole Moment per Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CubicExpansionCoefficient,cubic expansion coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CurieTemperature,Curie temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Currency,Currency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CurrencyPerFlight,Currency Per Flight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CurrentLinkage,Current Linkage,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Curvature,Curvature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CurvatureFromRadius,Curvature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/CyclotronAngularFrequency,Larmor Angular Frequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DELTA-V,Delta-V,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DRY-MASS,Dry Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DataRate,Data Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Debye-WallerFactor,Debye-Waller Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DebyeAngularFrequency,Debye Angular Frequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DebyeAngularWavenumber,Debye Angular Wavenumber,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DebyeTemperature,Debye Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DecayConstant,Decay Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DegreeOfDissociation,Degree of Dissociation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Density,Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DensityInCombustionChamber,Density In Combustion Chamber,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DensityOfStates,Density of states,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DensityOfTheExhaustGases,Density Of The Exhaust Gases,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Depth,Depth,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DewPointTemperature,Dew Point Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Diameter,diameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DiastolicBloodPressure,Diastolic Blood Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DiffusionArea,Diffusion Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DiffusionCoefficient,diffusion coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DiffusionCoefficientForFluenceRate,Diffusion Coefficient for Fluence Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DiffusionLength,Diffusion Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Dimensionless,Dimensionless,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DimensionlessRatio,Dimensionless Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Displacement,Displacement,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DisplacementCurrent,Displacement Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DisplacementCurrentDensity,Displacement Current Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DisplacementVectorOfIon,Displacement Vector of Ion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Dissipance,Dissipance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Distance,distance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DistanceTraveledDuringBurn,Distance Traveled During a Burn,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DonorDensity,Donor Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DonorIonizationEnergy,Donor Ionization Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DoseEquivalent,Dose Equivalent,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DoseEquivalentQualityFactor,Dose Equivalent Quality Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DragCoefficient,Drag Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DragForce,Drag Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DryBulbTemperature,Dry Bulb Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DryVolume,Dry Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DutyCycle,Duty Cycle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Duv,"Delta u,v",,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DynamicFriction,Dynamic Friction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DynamicFrictionCoefficient,Dynamic Friction Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DynamicPressure,Dynamic Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/DynamicViscosity,dynamic viscosity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EarthClosestApproachVehicleVelocity,Earth Closest Approach Vehicle Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EccentricityOfOrbit,Eccentricity Of Orbit,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EffectiveExhaustVelocity,Effective Exhaustvelocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EffectiveMass,Effective Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EffectiveMultiplicationFactor,Effective Multiplication Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Efficiency,efficiency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EinsteinTransitionProbability,Einstein Transition Probability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCharge,electric charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargeDensity,Electric Charge Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargeLineDensity,Electric Charge Line Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargeLinearDensity,Electric Charge Linear Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargePerAmountOfSubstance,Electric charge per amount of substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargePerArea,Electric charge per area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargePerMass,Electric Charge Per Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargeSurfaceDensity,Electric Charge Surface Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricChargeVolumeDensity,Electric Charge Volume Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricConductivity,electric conductivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrent,electric current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentDensity,electric current density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentPerAngle,Electric Current per Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentPerEnergy,Electric Current per Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentPerLength,Electric Current per Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentPerTemperature,Electric Current per Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricCurrentPhasor,Electric Current Phasor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricDipoleMoment,electric dipole moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricDipoleMoment_CubicPerEnergy_Squared,Cubic Electric Dipole Moment per Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricDipoleMoment_QuarticPerEnergy_Cubic,Quartic Electric Dipole Moment per Cubic Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricDisplacement,Electric Displacement,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricDisplacementField,Electric Displacement Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricField,Electric Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricFieldStrength,electric field strength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricFlux,Electric Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricFluxDensity,electric flux density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPolarizability,electric polarizability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPolarization,electric polarization,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPotential,electric potential,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPotentialDifference,electric potential difference,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPower,electric power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricPropulsionPropellantMass,Electric Propulsion Propellant Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricQuadrupoleMoment,electric quadrupole moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricSusceptibility,electric susceptibility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectricalPowerToMassRatio,Electrical Power To Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectrolyticConductivity,Electrolytic Conductivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectromagneticEnergyDensity,Electromagnetic Energy Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectromagneticPermeability,Permeability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectromagneticPermeabilityRatio,Electromagnetic Permeability Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectromagneticWavePhaseSpeed,Electromagnetic Wave Phase Speed,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectromotiveForce,electromotive force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectronAffinity,Electron Affinity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectronDensity,Electron Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectronMeanFreePath,Electron Mean Free Path,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElectronRadius,Electron Radius,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ElevationRelativeToNAP,Elevation relative to NAP,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EllipticalOrbitApogeeVelocity,Elliptical Orbit Apogee Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EllipticalOrbitPerigeeVelocity,Elliptical Orbit Perigee Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Emissivity,Emissivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Energy,energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyDensity,Energy Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyDensityOfStates,Energy Density of States,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyExpenditure,Energy Expenditure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyFluence,Energy Fluence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyFluenceRate,Energy Fluence Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyImparted,Energy Imparted,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyInternal,internal energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyKinetic,kinetic energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyLevel,Energy Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerArea,Energy per Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerAreaElectricCharge,Energy Per Area Electric Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerElectricCharge,Energy per electric charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerMagneticFluxDensity_Squared,Energy Per Square Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerMassAmountOfSubstance,Energy and work per mass amount of substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerSquareMagneticFluxDensity,Energy Per Square Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EnergyPerTemperature,Energy per temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Energy_Squared,Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Enthalpy,enthalpy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Entropy,entropy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquilibriumConstant,Equilibrium Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquilibriumConstantOnConcentrationBasis,Equilibrium Constant on Concentration Basis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquilibriumConstantOnPressureBasis,Equilibrium Constant on Pressure Basis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquilibriumPositionVectorOfIon,Equilibrium Position Vector of Ion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquivalentAbsorptionArea,Equivalent absorption area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquivalentConcentration,Equivalent Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EquivalentDensity,Equivalent Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Equivalent_Molar,Molar Equivalent,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EvaporativeHeatTransfer,Evaporative Heat Transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/EvaporativeHeatTransferCoefficient,Combined Non Evaporative Heat Transfer Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExchangeIntegral,Exchange Integral,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExhaustGasMeanMolecularWeight,Exhaust Gas Mean Molecular Weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExhaustGasesSpecificHeat,Exhaust Gases Specific Heat,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExhaustStreamPower,Exhaust Stream Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExitPlaneCrossSectionalArea,Exit Plane Cross-sectional Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExitPlanePressure,Exit Plane Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExitPlaneTemperature,Exit Plane Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExpansionRatio,Expansion Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Exposure,Exposure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExposureRate,Exposure Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ExtentOfReaction,Extent of Reaction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FLIGHT-PERFORMANCE-RESERVE-PROPELLANT-MASS,Flight Performance Reserve Propellant Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FUEL-BIAS,Fuel Bias,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FastFissionFactor,Fast Fission Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FermiAngularWavenumber,Fermi Angular Wavenumber,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FermiEnergy,Fermi Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FermiTemperature,Fermi Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FinalOrCurrentVehicleMass,Final Or Current Vehicle Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FirstMomentOfArea,First Moment of Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FirstStageMassRatio,First Stage Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FishBiotransformationHalfLife,Fish Biotransformation Half Life,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FissionCoreRadiusToHeightRatio,Fission Core Radius To Height Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FissionFuelUtilizationFactor,Fission Fuel Utilization Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FissionMultiplicationFactor,Fission Multiplication Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FlashPoint,Flash Point Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FlightPathAngle,Flight Path Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Flux,Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Force,force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForceMagnitude,Force Magnitude,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForcePerAngle,Force per Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForcePerArea,Force Per Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForcePerAreaTime,Force Per Area Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForcePerElectricCharge,Force per Electric Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ForcePerLength,Force per Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Frequency,frequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Friction,Friction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FrictionCoefficient,Friction Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Fugacity,fugacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FundamentalLatticeVector,Fundamental Lattice vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/FundamentalReciprocalLatticeVector,Fundamental Reciprocal Lattice Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GFactorOfNucleus,g-Factor of Nucleus,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GROSS-LIFT-OFF-WEIGHT,Gross Lift-Off Weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Gain,Gain,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GapEnergy,Gap Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GaugePressure,Gauge Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GeneFamilyAbundance,Gene Family Abundance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GeneralizedCoordinate,Generalized Coordinate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GeneralizedForce,Generalized Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GeneralizedMomentum,Generalized Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GeneralizedVelocity,Generalized Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GibbsEnergy,Gibbs energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GrandCanonicalPartitionFunction,Grand Canonical Partition Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GravitationalAttraction,Gravitational Attraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Gravity_API,API Gravity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GroupSpeedOfSound,Group Speed of Sound,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GrowingDegreeDay,Growing Degree Days (Cereals),,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GrowingDegreeDay_Cereal,Growing Degree Days (Cereals),,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GruneisenParameter,Gruneisen Parameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GustatoryThreshold,Gustatory Threshold,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/GyromagneticRatio,Gyromagnetic Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Half-Life,half-life,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Half-ValueThickness,Half-Value Thickness,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HallCoefficient,Hall Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HamiltonFunction,Hamilton Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeadEndPressure,Head End Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeartRate,Heart Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Heat,heat,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatCapacity,heat capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatCapacityRatio,Heat Capacity Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatFlowRate,Heat Flow Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatFlowRatePerArea,Heat Flow Rate per Unit Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatFluxDensity,Heat Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HeatingValue,Calorific Value,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Height,height,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HelmholtzEnergy,Helmholtz energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HenrysLawVolatilityConstant,Henry's Law Volatility Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HoleDensity,Hole Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HorizontalVelocity,Horizontal Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HydraulicPermeability,Hydraulic Permeability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/HyperfineStructureQuantumNumber,Hyperfine Structure Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/INERT-MASS,Inert Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IgnitionIntervalTime,Ignition interval time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Illuminance,illuminance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Impedance,Impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Incidence,Incidence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IncidenceProportion,Incidence Proportion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IncidenceRate,Incidence Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Inductance,inductance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InfiniteMultiplicationFactor,Infinite Multiplication Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InformationEntropy,Information Entropy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InformationFlowRate,Information flow rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InitialExpansionRatio,Initial Expansion Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InitialNozzleThroatDiameter,Initial Nozzle Throat Diameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InitialVehicleMass,Initial Vehicle Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InitialVelocity,Initial Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InstantaneousPower,Instantaneous Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InternalConversionFactor,InternalConversionFactor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InternalEnergy,Internal Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IntinsicCarrierDensity,Intinsic Carrier Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseAmountOfSubstance,Inverse amount of substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseEnergy,Inverse Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseEnergy_Squared,Inverse Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseLength,Inverse Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseLengthTemperature,Inverse Length Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseMagneticFlux,Inverse Magnetic Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseMass_Squared,Inverse Square Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InversePermittivity,Inverse Permittivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InversePressure,Inverse Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseSquareEnergy,Inverse Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseSquareMass,Inverse Square Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseSquareTime,Inverse Square Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseTemperature,Inverse Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseTime,Inverse Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseTimeTemperature,Inverse Time Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseTime_Squared,Inverse Square Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/InverseVolume,Inverse Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonConcentration,Ion Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonCurrent,Ion Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonDensity,Ion Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonTransportNumber,Ion Transport Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonicCharge,Ionic Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonicStrength,Ionic Strength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IonizationEnergy,Ionization Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Irradiance,irradiance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IsentropicCompressibility,Isentropic Compressibility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IsentropicExponent,isentropic exponent,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IsothermalCompressibility,isothermal compressibility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/IsothermalMoistureCapacity,Isothermal Moisture Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Kerma,Kerma,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/KermaRate,Kerma Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/KinematicViscosity,kinematic viscosity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/KineticEnergy,Kinetic Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LagrangeFunction,Lagrange Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Landau-GinzburgNumber,Landau-Ginzburg Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LandeGFactor,Lande g-Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LarmorAngularFrequency,Larmor Angular Frequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LatticePlaneSpacing,Lattice Plane Spacing,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LatticeVector,Lattice Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LeakageFactor,Leakage Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Length,length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthByForce,Length Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthEnergy,Length Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthMass,Length Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthMolarEnergy,Length Molar Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthPerElectricCurrent,Length per Electric Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthRatio,Length Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthTemperature,Length Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LengthTemperatureTime,Length Temperature Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Lethargy,Lethargy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LevelWidth,Level Width,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LiftCoefficient,Lift Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LiftForce,Lift Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearAbsorptionCoefficient,Linear Absorption Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearAcceleration,Linear Acceleration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearAttenuationCoefficient,Linear Attenuation Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearCompressibility,Linear Compressibility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearDensity,Linear Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearElectricCurrent,Linear Electric Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearElectricCurrentDensity,Linear Electric Current Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearEnergyTransfer,Linear Energy Transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearExpansionCoefficient,linear expansion coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearForce,Linear Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearIonization,Linear Ionization,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearMomentum,Linear Momentum,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearStiffness,Linear Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearStrain,Linear Strain,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearThermalExpansion,Linear Thermal Expansion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinearVelocity,Linear Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LinkedFlux,Linked Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LiquidVolume,Liquid Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LogOctanolAirPartitionCoefficient,Octanol Air Partition Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LogOctanolWaterPartitionCoefficient,Logarithm of Octanol Water Partition Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LogarithmicFrequencyInterval,logarithmic frequency interval,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LondonPenetrationDepth,London Penetration Depth,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Long-RangeOrderParameter,Long-Range Order Parameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LorenzCoefficient,Lorenz Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LossAngle,Loss Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LossFactor,Loss Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LowerCriticalMagneticFluxDensity,Lower Critical Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Luminance,Luminance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousEfficacy,Luminous Efficacy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousEmittance,Luminous Emmitance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousEnergy,Luminous Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousExposure,Luminous Exposure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousFlux,luminous flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousFluxPerArea,Luminous Flux per Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousFluxRatio,Luminous Flux Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousIntensity,luminous intensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/LuminousIntensityDistribution,Ion Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MASS-DELIVERED,Mass Delivered,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MASS-GROWTH-ALLOWANCE,Mass Growth Allowance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MASS-MARGIN,Mass Margin,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MASS-PROPERTY-UNCERTAINTY,Mass Property Uncertainty,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MOMENT-OF-INERTIA_Y,Moment of Inertia in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MOMENT-OF-INERTIA_Z,Moment of Inertia in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MachNumber,Mach number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MacroscopicCrossSection,Macroscopic Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MacroscopicTotalCrossSection,Macroscopic Total Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MadelungConstant,Madelung constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticAreaMoment,Magnetic Area Moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticDipoleMoment,Magnetic Dipole Moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticField,Magnetic Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticFieldStrength,magnetic field strength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticFieldStrength_H,magnetic field strength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticFlux,magnetic flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticFluxDensity,magnetic flux density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticFluxPerLength,Magnetic flux per length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticMoment,magnetic moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticPolarization,Magnetic Polarization,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticQuantumNumber,Magnetic Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticReluctivity,Magnetic Reluctivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticSusceptability,Magnetic Susceptability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticTension,Magnetic Tension,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagneticVectorPotential,magnetic vector potential,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Magnetization,magnetization,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagnetizationField,Magnetization Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MagnetomotiveForce,Magnetomotive Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Mass,mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassAbsorptionCoefficient,Mass Absorption Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassAmountOfSubstance,Mass Amount of Substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassAmountOfSubstanceTemperature,Mass Amount of Substance Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassAttenuationCoefficient,Mass Attenuation Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassBasedBloodGlucoseLevel,Blood Glucose Level by Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassConcentration,Mass Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassConcentrationOfWater,Mass Concentration of Water,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassConcentrationOfWaterVapour,Mass Concentration of Water Vapour,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassConcentrationRateOfChange,Mass Concentration Rate Of Change,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassDefect,Mass Defect,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassDensity,mass density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassEnergyTransferCoefficient,Mass Energy Transfer Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassExcess,Mass Excess,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassFlowRate,Mass Flow Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassFraction,Mass Fraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassFractionOfDryMatter,Mass Fraction of Dry Matter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassFractionOfWater,Mass Fraction of Water,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassNumber,Mass Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassOfElectricalPowerSupply,Mass Of Electrical Power Supply,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassOfSolidBooster,Mass Of Solid Booster,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassOfTheEarth,Mass Of The Earth,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerArea,Mass per Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerAreaTime,Mass per Area Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerElectricCharge,Mass per Electric Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerEnergy,Mass per Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerLength,Mass per Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassPerTime,Mass per Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassRatio,Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassRatioOfWaterToDryMatter,Mass Concentration of Water To Dry Matter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassRatioOfWaterVapourToDryGas,Mass Ratio of Water Vapour to Dry Gas,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassSpecificBiogeochemicalRate,Mass Specific Biogeochemical Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassTemperature,Mass Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassicActivity,Massic Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MassieuFunction,Massieu Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaxExpectedOperatingThrust,Maximum Expected Operating Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaxOperatingThrust,Max Operating Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaxSeaLevelThrust,Max Sea Level Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaximumBeta-ParticleEnergy,Maximum Beta-Particle Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaximumExpectedOperatingPressure,Maximum Expected Operating Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MaximumOperatingPressure,Maximum Operating Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeanEnergyImparted,Mean Energy Imparted,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeanFreePath,Mean Free Path,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeanLifetime,Mean Lifetime,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeanLinearRange,Mean Linear Range,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeanMassRange,Mean Mass Range,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MechanicalEnergy,Mechanical Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MechanicalImpedance,Mechanical Impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MechanicalMobility,Mechanical Mobility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MechanicalSurfaceImpedance,Mechanical surface impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MeltingPoint,Melting Point Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MicroCanonicalPartitionFunction,Micro Canonical Partition Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MicrobialFormation,Microbial Formation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MigrationArea,Migration Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MigrationLength,Migration Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Mobility,mobility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MobilityRatio,Mobility Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfAdmittance,Modulus Of Admittance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfElasticity,Modulus of Elasticity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfImpedance,Modulus Of Impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfLinearSubgradeReaction,Modulus of Linear Subgrade Reaction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfRotationalSubgradeReaction,Modulus of Rotational Subgrade Reaction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ModulusOfSubgradeReaction,Modulus of Subgrade Reaction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MoistureDiffusivity,Moisture Diffusivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolalityOfSolute,Molality of Solute,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarAbsorptionCoefficient,Molar Absorption Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarAngularMomentum,Molar Angular Momentum,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarAttenuationCoefficient,Molar Attenuation Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarConductivity,Molar Conductivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarEnergy,Molar Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarEntropy,Molar Entropy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarEquivalent,Molar Equivalent,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarFlowRate,Molar Flow Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarFluxDensity,Molar Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarFluxDensityVariance,Molar Flux Density Variance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarFluxDensityVariance_NEON,"Molar Flux Density Variance, NEON",,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarHeatCapacity,Molar Heat Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarMass,molar mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarOpticalRotatoryPower,Molar Optical Rotatory Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarRefractivity,Molar Refractivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolarVolume,molar volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MoleFraction,Mole Fraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolecularConcentration,Molecular Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolecularMass,Molecular Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MolecularViscosity,Molecular Viscosity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MomentOfForce,Moment of Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MomentOfInertia,moment of inertia,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MomentOfInertia_Y,Moment of Inertia in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MomentOfInertia_Z,Moment of Inertia in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Momentum,momentum,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MomentumPerAngle,Momentum per Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MorbidityRate,Morbidity Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MortalityRate,Mortality Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MultiplicationFactor,Multiplication Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/MutualInductance,Mutual Inductance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NOMINAL-ASCENT-PROPELLANT-MASS,Nominal Ascent Propellant Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NapierianAbsorbance,Napierian Absorbance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeelTemperature,Neel Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeutronDiffusionCoefficient,diffusion coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeutronDiffusionLength,Neutron Diffusion Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeutronNumber,neutron number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeutronYieldPerAbsorption,Neutron Yield per Absorption,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NeutronYieldPerFission,Neutron Yield per Fission,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Non-LeakageProbability,Non-Leakage Probability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NonActivePower,Non-active Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NonNegativeLength,Positive Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NormalStress,Normal Stress,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NormalizedDimensionlessRatio,Positive Dimensionless Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NozzleThroatCrossSectionalArea,Nozzle Throat Cross-sectional Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NozzleThroatDiameter,Nozzle Throat Diameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NozzleThroatPressure,Nozzle Throat Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NozzleWallsThrustReaction,Nozzle Walls Thrust Reaction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NuclearQuadrupoleMoment,Nuclear Quadrupole Moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NuclearRadius,Nuclear Radius,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NuclearSpinQuantumNumber,Spin Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NucleonNumber,nucleon number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NumberDensity,Number Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NumberOfElectricalPhases,Number of Electrical Phases,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/NumberOfParticles,Number of Particles,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OlfactoryThreshold,Olfactory Threshold,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OpeningRatio,Opening Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OrbitalAngularMomentumPerMass,Orbital Angular Momentum per Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OrbitalAngularMomentumQuantumNumber,Orbital Angular Momentum Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OrbitalRadialDistance,Orbital Radial Distance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OrderOfReflection,Order of Reflection,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OsmoticCoefficient,Osmotic Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OsmoticConcentration,Osmotic Concentration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OsmoticPressure,osmotic pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/OverRangeDistance,Over-range distance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PREDICTED-MASS,Predicted Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PRODUCT-OF-INERTIA,Product of Inertia,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PRODUCT-OF-INERTIA_X,Product of Inertia in the X axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PRODUCT-OF-INERTIA_Y,Product of Inertia in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PRODUCT-OF-INERTIA_Z,Product of Inertia in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Pace,Pace,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PackingFraction,Packing Fraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PartialPressure,Partial Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticleCurrent,Particle Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticleFluence,Particle Fluence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticleFluenceRate,Particle Fluence Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticleNumberDensity,Particle Number Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticlePositionVector,Particle Position Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ParticleSourceDensity,Particle Source Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PathLength,Path Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PayloadMass,Payload Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PayloadRatio,Payload Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PeltierCoefficient,Peltier Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Period,Period,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Permeability,Permeability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PermeabilityRatio,Permeability Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Permeance,Permeance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Permittivity,Permittivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PermittivityRatio,Permittivity Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhaseCoefficient,Phase coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhaseDifference,phase difference,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhaseSpeedOfSound,Phase speed of sound,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhononMeanFreePath,Phonon Mean Free Path,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhotoThresholdOfAwarenessFunction,Photo Threshold of Awareness Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhotonIntensity,Photon Intensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhotonRadiance,Photon Radiance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhotosyntheticPhotonFlux,Photosynthetic Photon Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PhotosyntheticPhotonFluxDensity,Photosynthetic Photon Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PlanarForce,Planar Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PlanckFunction,Planck Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PlaneAngle,plane angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PlasmaLevel,Plasma Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PoissonRatio,Poisson Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PolarMomentOfInertia,Polar moment of inertia,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Polarizability,polarisability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PolarizationField,Polarization Field,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Population,Population,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PositionVector,Position Vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PositiveDimensionlessRatio,Positive Dimensionless Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PositiveLength,Positive Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PositivePlaneAngle,Positive Plane Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PotentialEnergy,potential energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Power,power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerArea,Power Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerAreaPerSolidAngle,Power Area per Solid Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerDensity,PowerDensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerFactor,power factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerPerArea,Power Per Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerPerAreaAngle,Power per Area Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerPerAreaQuarticTemperature,Power per area quartic temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerPerElectricCharge,Power Per Electric Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PowerPerVolume,Power per Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PoyntingVector,Poynting vector,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Pressure,pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PressureBurningRateConstant,Pressure Burning Rate Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PressureBurningRateIndex,Pressure Burning Rate Index,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PressureCoefficient,Pressure Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PressureLossPerLength,Pressure Loss per Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PressureRatio,Pressure Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Prevalence,Prevalence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PrincipalQuantumNumber,Principal Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ProductOfInertia_X,Product of Inertia in the X axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ProductOfInertia_Y,Product of Inertia in the Y axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ProductOfInertia_Z,Product of Inertia in the Z axis,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PropagationCoefficient,Propagation coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PropellantBurnRate,Propellant Burn Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PropellantMass,Propellant Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PropellantMeanBulkTemperature,Propellant Mean Bulk Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/PropellantTemperature,Propellant Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/QualityFactor,Quality Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/QuantumNumber,Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/QuarticElectricDipoleMomentPerCubicEnergy,Quartic Electric Dipole Moment per Cubic Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RESERVE-MASS,Reserve Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RF-Power,RF-Power Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadialDistance,Radial Distance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Radiance,Radiance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadianceFactor,Radiance Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantEmmitance,Radiant Emmitance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantEnergy,radiant energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantEnergyDensity,Radiant Energy Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantExposure,Radiant Exposure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantFluence,Radiant Fluence,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantFluenceRate,Radiant Fluence Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantFlux,radiant flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiantIntensity,Radiant Intensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiativeHeatTransfer,Radiative Heat Transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Radiosity,Radiosity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Radius,Radius,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RadiusOfCurvature,Radius of Curvature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RateOfChange,Rate of Change,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RatioOfSpecificHeatCapacities,Ratio of Specific Heat Capacities,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Reactance,Reactance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReactionEnergy,Reaction Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReactiveCharge,Reactive Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReactiveChargePerMass,Reactive Charge per Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReactivePower,reactive power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Reactivity,Reactivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReactorTimeConstant,Reactor Time Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RecombinationCoefficient,Recombination Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Reflectance,Reflectance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReflectanceFactor,Reflectance Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Reflectivity,Reflectivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RefractiveIndex,refractive index,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeAtomicMass,Relative Atomic Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeHumidity,Relative Humidity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMassConcentrationOfVapour,Relative Mass Concentration of Vapour,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMassDefect,Relative Mass Defect,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMassDensity,Relative Mass Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMassExcess,Relative Mass Excess,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMassRatioOfVapour,Relative Mass Ratio of Vapour,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativeMolecularMass,Relative Molecular Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativePartialPressure,Relative Partial Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelativePressureCoefficient,Relative Pressure Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RelaxationTIme,Relaxation TIme,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Reluctance,Reluctance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ResidualResistivity,Residual Resistivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Resistance,Resistance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ResistanceRatio,Resistance Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Resistivity,Resistivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ResonanceEnergy,Resonance Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ResonanceEscapeProbability,Resonance Escape Probability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ResonanceEscapeProbabilityForFission,Resonance Escape Probability For Fission,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RespiratoryRate,Respiratory Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RestEnergy,Rest Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RestMass,rest mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReverberationTime,Reverberation Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ReynoldsNumber,Reynolds Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RichardsonConstant,Richardson Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RocketAtmosphericTransverseForce,Rocket Atmospheric Transverse Force,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RotationalFrequency,RotationalFrequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RotationalMass,Rotational Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RotationalStiffness,Rotational Stiffness,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/RotationalVelocity,RotationalFrequency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ScalarMagneticPotential,Scalar Magnetic Potential,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SecondAxialMomentOfArea,Second Axial Moment of Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SecondMomentOfArea,second moment of area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SecondOrderReactionRateConstant,Reaction Rate Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SecondPolarMomentOfArea,Second Polar Moment of Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SecondStageMassRatio,Second Stage Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SectionAreaIntegral,Section Area Integral,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SectionModulus,Section Modulus,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SeebeckCoefficient,Seebeck Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SerumLevel,Serum Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SerumOrPlasmaLevel,Serum or Plasma Level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ServiceFactor,Service Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ShannonDiversityIndex,Shannon Diversity Index,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ShearModulus,Shear Modulus,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ShearStrain,Shear Strain,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ShearStress,Shear Stress,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Short-RangeOrderParameter,Short-Range Order Parameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SignalDetectionThreshold,Signal Detection Threshold,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SignalStrength,Signal Strength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SingleStageLauncherMassRatio,Single Stage Launcher Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Slowing-DownArea,Slowing-Down Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Slowing-DownDensity,Slowing-Down Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Slowing-DownLength,Slowing-Down Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoilAdsorptionCoefficient,Soil Adsorption Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SolidAngle,solid angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SolidStateDiffusionLength,Diffusion Length (Solid State Physics),,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Solubility_Water,Water Solubility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundEnergyDensity,Sound energy density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundExposure,Sound exposure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundExposureLevel,Sound exposure level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundIntensity,Sound intensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundParticleAcceleration,Sound particle acceleration,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundParticleDisplacement,Sound Particle Displacement,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundParticleVelocity,sound particle velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundPower,sound power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundPowerLevel,Sound power level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundPressure,Sound pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundPressureLevel,sound pressure level,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundReductionIndex,Sound reduction index,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SoundVolumeVelocity,Sound volume velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SourceVoltage,Source Voltage,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SourceVoltageBetweenSubstances,Source Voltage Between Substances,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpatialSummationFunction,Spatial Summation Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificAcousticImpedance,Specific Acoustic Impedance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificActivity,Specific Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificElectricCharge,Specific Electric Charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificElectricCurrent,Specific Electrical Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificEnergy,Specific Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificEnergyImparted,Specific Energy Imparted,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificEnthalpy,Specific Enthalpy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificEntropy,Specific Entropy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificGibbsEnergy,Specific Gibbs Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatCapacity,Specific Heat Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantPressure,Specific heat capacity at constant pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantVolume,Specific heat capacity at constant volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtSaturation,Specific Heat Capacity at Saturation,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatPressure,Specific Heat Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatVolume,Specific Heat Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHeatsRatio,Specific Heats Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificHelmholtzEnergy,Specific Helmholtz Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificImpulse,Specific Impulse,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificImpulseByMass,Specific Impulse by Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificImpulseByWeight,Specific Impulse by Weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificInternalEnergy,Specific Internal Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificModulus,Specific Modulus,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificOpticalRotatoryPower,Specific Optical Rotatory Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificPower,Specific Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificSurfaceArea,Specific Surface Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificThrust,Specific thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificVolume,Specific Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpecificWeight,specific weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpectralAngularCrossSection,Spectral Angular Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpectralCrossSection,Spectral Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpectralLuminousEfficiency,Spectral Luminous Efficiency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpectralRadiantEnergyDensity,Spectral Radiant Energy Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Speed,Speed,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpeedOfLight,speed of light,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpeedOfSound,speed of sound,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpeedRatio,Speed Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SphericalIlluminance,Illuminance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Spin,spin,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SpinQuantumNumber,Spin Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SquareEnergy,Square Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SquareTime,Square Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StagePropellantMass,Stage Propellant Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StageStructuralMass,Stage Structure Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StandardAbsoluteActivity,Standard Absolute Activity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StandardChemicalPotential,Standard Chemical Potential,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StandardGravitationalParameter,Standard Gravitational Parameter,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StateOfCharge,State of charge,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StaticFriction,Static Friction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StaticFrictionCoefficient,Static Friction Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StaticPressure,Static pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StatisticalWeight,Statistical Weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StochasticProcess,Stochastic Process,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StoichiometricNumber,Stoichiometric Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Strain,Strain,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StrainEnergyDensity,Strain Energy Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StrainEnergyReleaseRate,Strain Energy Release Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Stress,Stress,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StressIntensityFactor,Stress Intensity Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StressOpticCoefficient,Stress-Optic Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StructuralEfficiency,Structural Efficiency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/StructureFactor,Structure Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SuperconductionTransitionTemperature,Superconduction Transition Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SuperconductorEnergyGap,Superconductor Energy Gap,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SurfaceActivityDensity,Surface Activity Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SurfaceCoefficientOfHeatTransfer,Surface Coefficient of Heat Transfer,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SurfaceDensity,Surface Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SurfaceTension,surface tension,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Susceptance,Susceptance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/SystolicBloodPressure,Systolic Blood Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TARGET-BOGIE-MASS,Target Bogie Mass,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Temperature,Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureAmountOfSubstance,Temperature Amount of Substance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureDifference,temperature difference,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureGradient,Temperature Gradient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperaturePerMagneticFluxDensity,Temperature per Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperaturePerSquareTime,Temperature per Square Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperaturePerTime,Temperature per Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperaturePerTime_Squared,Temperature per Time Squared,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureRateOfChange,Temperature Rate of Change,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureRatio,Temperature Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureVariance,Temperature Variance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemperatureVariance_NEON,"Temperature Variance, NEON",,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TemporalSummationFunction,Temporal Summation Function,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Tension,Tension,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalAdmittance,Thermal Admittance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalConductance,Thermal Conductance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalConductivity,Thermal Conductivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalDiffusionFactor,Thermal Diffusion Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalDiffusionRatio,Thermal Diffusion Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalDiffusionRatioCoefficient,Thermal Diffusion Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalDiffusivity,Thermal Diffusivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalEfficiency,Thermal Efficiency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalEnergy,Thermal Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalEnergyLength,Thermal Energy Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalExpansionCoefficient,Thermal Expansion Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalInsulance,Thermal Insulance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalResistance,thermal resistance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalResistivity,Thermal Resistivity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalTransmittance,Thermal Transmittance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalUtilizationFactor,Thermal Utilization Factor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermalUtilizationFactorForFission,Thermal Utilization Factor For Fission,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermodynamicCriticalMagneticFluxDensity,Thermodynamic Critical Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermodynamicEnergy,Thermodynamic Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermodynamicEntropy,Thermodynamic Entropy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThermodynamicTemperature,thermodynamic temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Thickness,Thickness,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThomsonCoefficient,Thomson Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Thrust,Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThrustCoefficient,Thrust Coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThrustToMassRatio,Thrust To Mass Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThrustToWeightRatio,Thrust To Weight Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/ThrusterPowerToThrustEfficiency,Thruster Power To Thrust Efficiency,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Tilt,Tilt,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Time,time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TimeAveragedSoundIntensity,Time averaged sound intensity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TimeRatio,Time Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TimeTemperature,Time Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Time_Squared,Time Squared,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Torque,torque,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TorquePerAngle,Torque per Angle,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TorquePerLength,Torque per Length,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TorsionalSpringConstant,torsional spring constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalAngularMomentum,Total Angular Momentum,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalAngularMomentumQuantumNumber,Total Angular Momentum Quantum Number,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalAtomicStoppingPower,Total Atomic Stopping Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalCrossSection,Total Cross-section,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalCurrent,Total Current,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalCurrentDensity,Total Current Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalIonization,Total Ionization,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalLinearStoppingPower,Total Linear Stopping Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalMassStoppingPower,Total Mass Stopping Power,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TotalPressure,Total Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TouchThresholds,Touch Thresholds,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Transmittance,Transmittance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TransmittanceDensity,Transmittance Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/TrueExhaustVelocity,True Exhaust Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Turbidity,Turbidity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Turns,Turns,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Unknown,Unknown,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/UpperCriticalMagneticFluxDensity,Upper Critical Magnetic Flux Density,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VacuumThrust,Vacuum Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VaporPermeability,Vapor Permeability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VaporPermeance,Vapor Permeance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VaporPressure,Vapor Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VapourPermeability,Vapour Permeability,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VapourPermeance,Vapour Permeance,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VehicleVelocity,Vehicle Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Velocity,velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VentilationRatePerFloorArea,Ventilation Rate per Floor Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VerticalVelocity,Vertical Velocity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VibrationalDensityOfStates,Vibrational density of states,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VideoFrameRate,Video Frame Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Viscosity,Viscosity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VisibleRadiantEnergy,Visible Radiant Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VisionThresholds,Vision Thresholds,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Voltage,Voltage,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VoltagePhasor,Voltage Phasor,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VoltageRatio,Voltage Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Volume,Volume,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumeFlowRate,Volume Flow Rate,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumeFlowRatio,Volume Flow Ratio,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumeFraction,Volume Fraction,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumePerArea,Volume per Unit Area,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumePerTime,Volume per Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumeStrain,Volume Strain,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumeThermalExpansion,Volume Thermal Expansion,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumetricFlux,Volumetric Flux,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumetricHeatCapacity,Volumetric Heat Capacity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/VolumicElectromagneticEnergy,Volumic Electromagnetic Energy,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Vorticity,Vorticity,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WarmReceptorThreshold,Warm Receptor Threshold,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WarpingConstant,Warping Constant,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WarpingMoment,Warping Moment,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WaterHorsepower,Water Horsepower,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WaterSolubility,Water Solubility,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WaterVaporDiffusionCoefficient,Water vapour diffusion coefficient,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Wavelength,wavelength,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Wavenumber,wavenumber,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WebTime,Web Time,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WebTimeAveragePressure,Web Time Average Pressure,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WebTimeAverageThrust,Web Time Average Thrust,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Weight,weight,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WetBulbTemperature,Wet Bulb Temperature,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Width,Width,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/Work,work,,QUDT-v3.1.10
+http://qudt.org/vocab/quantitykind/WorkFunction,Work Function,,QUDT-v3.1.10

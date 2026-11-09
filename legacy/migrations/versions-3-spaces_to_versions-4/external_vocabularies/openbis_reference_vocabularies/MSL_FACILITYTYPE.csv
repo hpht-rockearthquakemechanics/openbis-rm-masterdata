@@ -1,0 +1,9 @@
+VOCABULARY_TYPE,,
+Code,Description,
+MSL_FACILITYTYPE,https://epos-msl.uu.nl/voc/fieldscale/1.4/,
+Code,Description,Label
+MSL_FACILITYTYPE1,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_types-field-scale_laboratory_-_active_testing,field-scale laboratory - active testing
+MSL_FACILITYTYPE2,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_types-field-scale_observatory_-_passive_monitoring,field-scale observatory - passive monitoring
+MSL_FACILITYTYPE3,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_types-geo-energy_testbed,geo-energy testbed
+MSL_FACILITYTYPE4,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_types-in-situ_laboratory,in-situ laboratory
+MSL_FACILITYTYPE5,https://epos-msl.uu.nl/voc/fieldscale/1.4/facility_types-monitoring_borehole,monitoring borehole

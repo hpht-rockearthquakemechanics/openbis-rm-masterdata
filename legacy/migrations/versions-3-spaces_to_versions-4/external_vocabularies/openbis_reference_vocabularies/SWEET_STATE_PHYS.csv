@@ -1,0 +1,87 @@
+VOCABULARY_TYPE,,
+Code,Description,
+SWEET_STATE_PHYS,http://sweetontology.net/statePhysical/,
+Code,Description,Label
+SWEET_STATE_PHYS1,http://sweetontology.net/statePhysical/Bubble,bubble
+SWEET_STATE_PHYS2,http://sweetontology.net/statePhysical/Burned,burned
+SWEET_STATE_PHYS3,http://sweetontology.net/statePhysical/Calm,calm
+SWEET_STATE_PHYS4,http://sweetontology.net/statePhysical/Charged,charged
+SWEET_STATE_PHYS5,http://sweetontology.net/statePhysical/Condensed,condensed
+SWEET_STATE_PHYS6,http://sweetontology.net/statePhysical/Constructive,constructive
+SWEET_STATE_PHYS7,http://sweetontology.net/statePhysical/Deiced,deiced
+SWEET_STATE_PHYS8,http://sweetontology.net/statePhysical/Destructive,destructive
+SWEET_STATE_PHYS9,http://sweetontology.net/statePhysical/Diluted,diluted
+SWEET_STATE_PHYS10,http://sweetontology.net/statePhysical/Dissolved,dissolved
+SWEET_STATE_PHYS11,http://sweetontology.net/statePhysical/Droplet,droplet
+SWEET_STATE_PHYS12,http://sweetontology.net/statePhysical/Dry,dry
+SWEET_STATE_PHYS13,http://sweetontology.net/statePhysical/Eddy,eddy
+SWEET_STATE_PHYS14,http://sweetontology.net/statePhysical/Fast,fast
+SWEET_STATE_PHYS15,http://sweetontology.net/statePhysical/Ferroelectric,ferroelectric
+SWEET_STATE_PHYS16,http://sweetontology.net/statePhysical/Film,film
+SWEET_STATE_PHYS17,http://sweetontology.net/statePhysical/Filtered,filtered
+SWEET_STATE_PHYS18,http://sweetontology.net/statePhysical/Floating,floating
+SWEET_STATE_PHYS19,http://sweetontology.net/statePhysical/Fluid,fluid
+SWEET_STATE_PHYS20,http://sweetontology.net/statePhysical/Fragment,fragment
+SWEET_STATE_PHYS21,http://sweetontology.net/statePhysical/FreeOscillation,free oscillation
+SWEET_STATE_PHYS22,http://sweetontology.net/statePhysical/Frozen,frozen
+SWEET_STATE_PHYS23,http://sweetontology.net/statePhysical/Gale,gale
+SWEET_STATE_PHYS24,http://sweetontology.net/statePhysical/Gas,gas
+SWEET_STATE_PHYS25,http://sweetontology.net/statePhysical/Gaseous,gaseous
+SWEET_STATE_PHYS26,http://sweetontology.net/statePhysical/Gentle,gentle
+SWEET_STATE_PHYS27,http://sweetontology.net/statePhysical/Heavy,heavy
+SWEET_STATE_PHYS28,http://sweetontology.net/statePhysical/HighFrequency,high frequency
+SWEET_STATE_PHYS29,http://sweetontology.net/statePhysical/Humid,humid
+SWEET_STATE_PHYS30,http://sweetontology.net/statePhysical/Hydrolyzable,hydrolyzable
+SWEET_STATE_PHYS31,http://sweetontology.net/statePhysical/Hydrophilic,hydrophilic
+SWEET_STATE_PHYS32,http://sweetontology.net/statePhysical/Hydrophobic,hydrophobic
+SWEET_STATE_PHYS33,http://sweetontology.net/statePhysical/Hygroscopic,hygroscopic
+SWEET_STATE_PHYS34,http://sweetontology.net/statePhysical/Hypergravity,hypergravity
+SWEET_STATE_PHYS35,http://sweetontology.net/statePhysical/Hypogravity,hypogravity
+SWEET_STATE_PHYS36,http://sweetontology.net/statePhysical/Impermeable,impermeable
+SWEET_STATE_PHYS37,http://sweetontology.net/statePhysical/Intermittent,intermittent
+SWEET_STATE_PHYS38,http://sweetontology.net/statePhysical/Ionized,ionized
+SWEET_STATE_PHYS39,http://sweetontology.net/statePhysical/IonizedState,ionized state
+SWEET_STATE_PHYS40,http://sweetontology.net/statePhysical/Isobaric,isobaric
+SWEET_STATE_PHYS41,http://sweetontology.net/statePhysical/Isochoric,isochoric
+SWEET_STATE_PHYS42,http://sweetontology.net/statePhysical/Isohalic,isohalic
+SWEET_STATE_PHYS43,http://sweetontology.net/statePhysical/Isostacy,isostacy
+SWEET_STATE_PHYS44,http://sweetontology.net/statePhysical/Isostatic,isostatic
+SWEET_STATE_PHYS45,http://sweetontology.net/statePhysical/Light,light
+SWEET_STATE_PHYS46,http://sweetontology.net/statePhysical/Liquid,liquid
+SWEET_STATE_PHYS47,http://sweetontology.net/statePhysical/LowFrequency,low frequency
+SWEET_STATE_PHYS48,http://sweetontology.net/statePhysical/Moist,moist
+SWEET_STATE_PHYS49,http://sweetontology.net/statePhysical/MoistureState,moisture state
+SWEET_STATE_PHYS50,http://sweetontology.net/statePhysical/Neutral,neutral
+SWEET_STATE_PHYS51,http://sweetontology.net/statePhysical/NeutralState,neutral state
+SWEET_STATE_PHYS52,http://sweetontology.net/statePhysical/NonThermalPlasma,non thermal plasma
+SWEET_STATE_PHYS53,http://sweetontology.net/statePhysical/NormalMode,normal mode
+SWEET_STATE_PHYS54,http://sweetontology.net/statePhysical/Occasional,occasional
+SWEET_STATE_PHYS55,http://sweetontology.net/statePhysical/Particle,particle
+SWEET_STATE_PHYS56,http://sweetontology.net/statePhysical/Pellicular,pellicular
+SWEET_STATE_PHYS57,http://sweetontology.net/statePhysical/Peraelectric,peraelectric
+SWEET_STATE_PHYS58,http://sweetontology.net/statePhysical/Permeable,permeable
+SWEET_STATE_PHYS59,http://sweetontology.net/statePhysical/PhysicalState,physical state
+SWEET_STATE_PHYS60,http://sweetontology.net/statePhysical/Pillow,pillow
+SWEET_STATE_PHYS61,http://sweetontology.net/statePhysical/Plasma,plasma
+SWEET_STATE_PHYS62,http://sweetontology.net/statePhysical/Porous,porous
+SWEET_STATE_PHYS63,http://sweetontology.net/statePhysical/QuasiNeutral,quasi neutral
+SWEET_STATE_PHYS64,http://sweetontology.net/statePhysical/Quiescent,quiescent
+SWEET_STATE_PHYS65,http://sweetontology.net/statePhysical/Radiative,radiative
+SWEET_STATE_PHYS66,http://sweetontology.net/statePhysical/RainState,rain state
+SWEET_STATE_PHYS67,http://sweetontology.net/statePhysical/Rapid,rapid
+SWEET_STATE_PHYS68,http://sweetontology.net/statePhysical/Scattered,scattered
+SWEET_STATE_PHYS69,http://sweetontology.net/statePhysical/Severe,severe
+SWEET_STATE_PHYS70,http://sweetontology.net/statePhysical/Slow,slow
+SWEET_STATE_PHYS71,http://sweetontology.net/statePhysical/Solid,solid
+SWEET_STATE_PHYS72,http://sweetontology.net/statePhysical/SpeedState,speed state
+SWEET_STATE_PHYS73,http://sweetontology.net/statePhysical/StateOfMatter,state of matter
+SWEET_STATE_PHYS74,http://sweetontology.net/statePhysical/Subsonic,subsonic
+SWEET_STATE_PHYS75,http://sweetontology.net/statePhysical/SubstanceForm,substance form
+SWEET_STATE_PHYS76,http://sweetontology.net/statePhysical/Supersonic,supersonic
+SWEET_STATE_PHYS77,http://sweetontology.net/statePhysical/Suspended,suspended
+SWEET_STATE_PHYS78,http://sweetontology.net/statePhysical/ThermalPlasma,thermal plasma
+SWEET_STATE_PHYS79,http://sweetontology.net/statePhysical/Vapor,vapor
+SWEET_STATE_PHYS80,http://sweetontology.net/statePhysical/WaveState,wave state
+SWEET_STATE_PHYS81,http://sweetontology.net/statePhysical/Wet,wet
+SWEET_STATE_PHYS82,http://sweetontology.net/statePhysical/ZeroG,zero g
+SWEET_STATE_PHYS83,http://sweetontology.net/statePhysical/Zonal,zonal
